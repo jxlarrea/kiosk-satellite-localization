@@ -1,0 +1,14 @@
+{
+  "@@locale": "fr",
+  "settingHaHoldModeTitle": "Mode maintien",
+  "settingHaHoldModeDescription": "Garder la vue actuelle à l'écran : l'économiseur d'écran, la rotation des vues du tableau de bord et la minuterie de retour à l'accueil sont suspendus jusqu'à sa désactivation.",
+  "settingHaHoldReleaseMinutesTitle": "Terminer le maintien automatiquement après",
+  "settingHaHoldReleaseMinutesDescription": "Désactive automatiquement le mode maintien après la durée définie. Réglez sur 0 pour maintenir jusqu'à une désactivation manuelle.",
+  "settingHaHoldMenuTitle": "Afficher dans le menu du kiosque",
+  "settingHaHoldMenuDescription": "Ajoute une entrée de menu pour activer et désactiver le mode maintien.",
+  "haHoldHint": "Épingler la vue actuelle, fin automatique, entrée de menu",
+  "haNever": "Jamais",
+  "haMinutes": "{minutes} min",
+  "haHours": "{hours} h",
+  "haHoursMinutes": "{hours} h {minutes} min"
+}

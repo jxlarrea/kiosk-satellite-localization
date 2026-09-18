@@ -1,0 +1,11 @@
+{
+  "@@locale": "fr",
+  "settingHaReturnHomeEnabledTitle": "Revenir à la vue d'accueil du tableau de bord",
+  "settingHaReturnHomeEnabledDescription": "Revenir au tableau de bord configuré ci-dessus après une période d'inactivité.",
+  "settingHaReturnHomeSecondsTitle": "Revenir après (secondes)",
+  "settingHaReturnHomeSecondsDescription": "Période d'inactivité avant que le kiosque revienne en arrière.",
+  "haReturnHint": "Revenir à la vue d'accueil en cas d'inactivité",
+  "haReturnDisabled": "Désactivé tant que la rotation des vues du tableau de bord est activée.",
+  "haReturnNoPath": "Le tableau de bord configuré n'a pas de chemin de vue vers lequel revenir.",
+  "haReturnPath": "Revient à « {path} » après le délai."
+}

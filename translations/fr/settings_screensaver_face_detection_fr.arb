@@ -1,0 +1,17 @@
+{
+  "@@locale": "fr",
+  "settingScreensaverDismissOnFaceTitle": "Fermer sur visage",
+  "settingScreensaverDismissOnFaceDescription": "Réveiller l'écran quand quelqu'un regarde le kiosque, pas sur simple mouvement. La caméra ne fonctionne que pendant l'économiseur d'écran. ATTENTION : nécessite un visage éclairé ; dans l'obscurité, programmez plutôt la détection de mouvement.",
+  "settingScreensaverDismissOnFaceScreenOffOnlyTitle": "Uniquement quand l'écran est éteint",
+  "settingScreensaverDismissOnFaceScreenOffOnlyDescription": "Garder l'économiseur d'écran visible quand un visage est détecté alors que l'écran est allumé. Une fois l'écran éteint, la détection réveille le tableau de bord. Toucher l'écran ferme toujours l'économiseur d'écran.",
+  "settingScreensaverPostponeOnFaceTitle": "Reporter l'économiseur d'écran sur visage",
+  "settingScreensaverPostponeOnFaceDescription": "Retarder l'activation de l'économiseur d'écran tant que quelqu'un regarde le kiosque. ATTENTION : garde la caméra en fonctionnement en permanence, avec en plus la détection de visage et son coût en CPU.",
+  "settingFaceSensitivityTitle": "Sensibilité au visage",
+  "settingFaceSensitivityDescription": "Plus élevé réveille l'écran pour des visages plus petits ou plus éloignés. 1 nécessite un visage proche de l'écran ; 100 réagit à tout visage que la caméra peut distinguer.",
+  "screensaverDetectionFacePage": "Détection de visage",
+  "screensaverDetectionFaceHint": "Fermer l'économiseur d'écran quand quelqu'un le regarde",
+  "screensaverDetectionMotionPrecedence": "Fermer sur mouvement est activé et prend le dessus, la détection de visage reste donc inactive tant que ce n'est pas désactivé.",
+  "screensaverDetectionFaceTuning": "La fréquence d'images, le choix de la caméra et le délai de démarrage se règlent dans les paramètres de la Caméra.",
+  "screensaverDetectionAndroidUnsupported": "Non disponible sur cette version d'Android.",
+  "screensaverDetectionX86Unsupported": "Non disponible sur les appareils x86."
+}

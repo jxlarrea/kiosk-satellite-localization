@@ -1,0 +1,19 @@
+{
+  "@@locale": "fr",
+  "settingEsphomeEnabledTitle": "Activer ESPHome",
+  "settingEsphomeEnabledDescription": "Présenter ce kiosque à Home Assistant comme un appareil ESPHome : ses capteurs et contrôles en tant qu'entités natives. Détecté automatiquement.",
+  "settingEsphomeEntitiesTitle": "Exposer les entités du kiosque",
+  "settingEsphomeEntitiesDescription": "Fournir les capteurs et contrôles de cet appareil comme entités ESPHome.",
+  "settingEsphomeExcludedEntitiesTitle": "Entités exclues",
+  "settingEsphomeExcludedEntitiesDescription": "Choisissez les entités à exclure de Home Assistant. Toutes les autres entités disponibles sont exposées. L'enregistrement reconnecte ESPHome.",
+  "settingEsphomeNodeNameTitle": "Nom du nœud",
+  "settingEsphomeNodeNameDescription": "Nomme ce kiosque sur le réseau, et Home Assistant en tire les noms de ses actions. Le renommer renomme ces actions.",
+  "settingEsphomeNodeNamePlaceholder": "Défini au premier démarrage",
+  "settingBtproxyKeyTitle": "Clé de chiffrement",
+  "settingBtproxyKeyDescription": "Collez cette clé dans Home Assistant lorsqu'il demande la clé de chiffrement. Générée automatiquement au premier démarrage.",
+  "settingBtproxyKeyPlaceholder": "Générée au premier démarrage",
+  "settingBtproxyPortTitle": "Port API",
+  "settingBtproxyPortDescription": "Le port auquel Home Assistant se connecte. Laissez vide pour le port standard ESPHome, 6053.",
+  "esphomeStartFailed": "Le démarrage du serveur ESPHome a échoué : {error}",
+  "esphomeExcludedInvalid": "Choisissez une liste d'identifiants d'entités."
+}

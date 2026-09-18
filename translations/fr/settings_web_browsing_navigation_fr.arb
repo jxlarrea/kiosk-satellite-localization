@@ -1,0 +1,18 @@
+{
+  "@@locale": "fr",
+  "settingAutoReloadOnErrorTitle": "Rechargement automatique en cas d'erreur",
+  "settingAutoReloadOnErrorDescription": "Se rétablir automatiquement après les échecs de page et les plantages de l'application.",
+  "settingPullToRefreshTitle": "Activer le tirer pour actualiser",
+  "settingPullToRefreshDescription": "Tirez vers le bas depuis le haut de la page pour la recharger. Désactivé par défaut : sur un tableau de bord défilant, un tirage accidentel est facile.",
+  "settingPullToRefreshClearCacheTitle": "Vider le cache lors du tirer pour actualiser",
+  "settingPullToRefreshClearCacheDescription": "Un tirage vide aussi le cache web et les modèles de mot de réveil avant le rechargement, pour que tout revienne à jour. La connexion et les données de page enregistrées sont conservées.",
+  "settingBrowserZoomTitle": "Niveau de zoom",
+  "settingBrowserZoomDescription": "Met à l'échelle la page entière. Au-dessus de 1x pour les tablettes murales vues de loin ; en dessous de 1x pour faire tenir plus de tableau de bord sur un petit écran.",
+  "settingPinchToZoomTitle": "Activer le zoom par pincement",
+  "settingPinchToZoomDescription": "Zoomer la page avec un pincement à deux doigts. Désactivé par défaut afin qu'un tableau de bord de kiosque reste stable face aux contacts accidentels.",
+  "settingDisableScrollingTitle": "Désactiver le défilement",
+  "settingDisableScrollingDescription": "Verrouiller la page en place pour qu'elle ne puisse défiler dans aucune direction. Les appuis et boutons continuent de fonctionner.",
+  "browserCrashPermissionHelp": "Sans cela, le kiosque ne peut pas revenir après un plantage.",
+  "browserCrashPermissionMissing": "Autorisation « Affichage par-dessus d'autres applications » manquante",
+  "browserCrashPermissionRemoteHelp": "Sans elle, le kiosque ne peut pas revenir de lui-même après un plantage. L'écran d'autorisation apparaît sur la tablette."
+}

@@ -1,0 +1,19 @@
+{
+  "@@locale": "fr",
+  "settingScreensaverImmichAlbumTitle": "Source multimédia",
+  "settingScreensaverImmichAlbumDescription": "Toute la bibliothèque, ou les albums que vous choisissez.",
+  "settingScreensaverImmichPhotosOnlyTitle": "Photos uniquement",
+  "settingScreensaverImmichPhotosOnlyDescription": "Ignorer les vidéos dans le diaporama.",
+  "settingScreensaverImmichCacheTitle": "Mettre le média en cache localement",
+  "settingScreensaverImmichCacheDescription": "Conserver des copies sur l'appareil pour un chargement instantané des images.",
+  "settingScreensaverImmichCacheMaxTitle": "Taille du cache (éléments)",
+  "settingScreensaverImmichCacheMaxDescription": "Les éléments les plus anciens sont supprimés une fois le cache plein.",
+  "screensaverMediaAll": "Tous les médias",
+  "screensaverMediaAllDevice": "Tous les médias.",
+  "screensaverMediaNoAlbums": "Aucun album pour l'instant. Créez-en un dans Immich d'abord.",
+  "screensaverMediaAlbumsFailed": "Impossible de lister les albums",
+  "screensaverMediaListError": "Impossible de les lister : {error}",
+  "screensaverMediaListingFailed": "échec de la liste",
+  "screensaverMediaItems": "{count} éléments",
+  "screensaverMediaCached": "{count} en cache, {size}"
+}

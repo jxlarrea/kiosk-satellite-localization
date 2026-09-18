@@ -1,0 +1,22 @@
+{
+  "@@locale": "fr",
+  "settingScreensaverDismissOnPersonTitle": "Fermer sur présence",
+  "settingScreensaverDismissOnPersonDescription": "Lire le capteur de présence de l'appareil tant que l'économiseur d'écran est actif et réveiller l'écran quand quelqu'un se trouve devant. Nécessite l'autorisation d'accès aux journaux ci-dessous.",
+  "settingScreensaverDismissOnPersonScreenOffOnlyTitle": "Uniquement quand l'écran est éteint",
+  "settingScreensaverDismissOnPersonScreenOffOnlyDescription": "Garder l'économiseur d'écran visible quand quelqu'un arrive alors que l'écran est allumé. Une fois l'écran éteint, la détection réveille le tableau de bord. Toucher l'écran ferme toujours l'économiseur d'écran.",
+  "settingScreensaverPostponeOnPersonTitle": "Reporter l'économiseur d'écran sur présence",
+  "settingScreensaverPostponeOnPersonDescription": "Retarder l'activation de l'économiseur d'écran tant que quelqu'un se trouve devant l'appareil.",
+  "screensaverDetectionPersonPage": "Détection de présence",
+  "screensaverDetectionPersonHint": "Fermer ou reporter l'économiseur d'écran via le capteur de présence de l'appareil",
+  "screensaverDetectionOccupancy": "Occupation",
+  "screensaverDetectionStatusUnavailable": "État indisponible.",
+  "screensaverDetectionOff": "Désactivé.",
+  "screensaverDetectionStarting": "Démarrage...",
+  "screensaverDetectionWaiting": "En attente du premier signal. Le capteur signale toutes les 30 secondes tant que quelqu'un est visible.",
+  "screensaverDetectionLastHeartbeat": "Dernier signal {ago}.",
+  "screensaverDetectionSecondsAgo": "il y a {count} s",
+  "screensaverDetectionMinutesAgo": "il y a {count} min",
+  "screensaverDetectionHoursAgo": "il y a {count} h",
+  "screensaverDetectionDetected": "Détecté",
+  "screensaverDetectionClear": "Libre"
+}

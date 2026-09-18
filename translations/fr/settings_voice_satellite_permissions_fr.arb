@@ -1,0 +1,14 @@
+{
+  "@@locale": "fr",
+  "voiceMicHeld": "La détection du mot de réveil peut vous entendre.",
+  "voiceMicBlocked": "Bloqué. Android ne redemandera pas, autorisez-le donc dans les paramètres de l'application.",
+  "voiceMicMissing": "Sans cela, rien n'écoute le mot de réveil.",
+  "voiceForegroundHeld": "Kiosk Satellite peut revenir au premier plan quand il vous entend.",
+  "voiceForegroundMissing": "Sans cela, le mot de réveil est entendu et rien ne se passe.",
+  "voiceNotificationHeld": "La notification permanente qui active l'écoute en arrière-plan.",
+  "voiceNotificationMissing": "Nécessaire pour que l'écoute en arrière-plan fonctionne de manière fiable.",
+  "voiceBatteryHeld": "Android laissera l'écouteur en fonctionnement.",
+  "voiceBatteryMissing": "Sans cela, l'écouteur est arrêté après quelques heures.",
+  "voicePermissionDirections": "Accordez ceci directement sur l'appareil : balayez depuis le bord gauche → Paramètres → Voice Satellite → Autorisations système requises.",
+  "voicePermissionsSearch": "Le microphone et les autres autorisations dont la détection du mot de réveil a besoin."
+}

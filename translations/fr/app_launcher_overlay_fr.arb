@@ -1,0 +1,5 @@
+{
+  "@@locale": "fr",
+  "launcherOpenFailed": "Impossible d'ouvrir {name}",
+  "launcherUninstalled": "Elle a peut-être été désinstallée."
+}

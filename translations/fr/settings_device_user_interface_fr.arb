@@ -1,0 +1,13 @@
+{
+  "@@locale": "fr",
+  "settingUiLanguageTitle": "Langue",
+  "settingUiLanguageDescription": "Langue de Kiosk Satellite et de l'administration à distance. Home Assistant conserve sa propre langue.",
+  "settingUiThemeTitle": "Thème de l'application",
+  "settingUiThemeDescription": "Clair ou sombre pour les écrans propres de l'application : menu, paramètres, boîtes de dialogue. Système suit le paramètre Android.",
+  "settingUiScaleTitle": "Mise à l'échelle de l'interface",
+  "settingUiScaleDescription": "Taille des écrans propres de l'application : menu, paramètres, boîtes de dialogue. Pour les écrans à haute densité. Le contenu web conserve sa taille.",
+  "deviceUserInterface": "Interface utilisateur",
+  "deviceThemeDark": "Sombre",
+  "deviceThemeLight": "Clair",
+  "deviceThemeSystem": "Système"
+}

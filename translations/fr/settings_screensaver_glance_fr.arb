@@ -1,0 +1,20 @@
+{
+  "@@locale": "fr",
+  "settingScreensaverGlanceEnabledTitle": "À un coup d'œil",
+  "settingScreensaverGlanceEnabledDescription": "Afficher une ligne d'états d'entités Home Assistant sur l'économiseur d'écran.",
+  "settingScreensaverGlanceEntitiesTitle": "Entités",
+  "settingScreensaverGlanceEntitiesDescription": "Jusqu'à quatre entités à afficher, chacune avec un nom personnalisé facultatif.",
+  "settingScreensaverGlanceNowPlayingTitle": "Afficher sur Lecture en cours",
+  "settingScreensaverGlanceNowPlayingDescription": "Afficher la ligne sur la vue plein écran Lecture en cours. Elle reste masquée pendant l'affichage des paroles.",
+  "screensaverOverlayShowing": "Affichées",
+  "screensaverOverlayReorder": "Affichées (glisser pour réorganiser)",
+  "screensaverOverlayFull": "C'est le maximum que la ligne peut afficher. Retirez-en une pour en ajouter une autre.",
+  "screensaverOverlayPickerTitle": "Entités à un coup d'œil",
+  "screensaverOverlayGlanceEmpty": "Aucune pour l'instant. Jusqu'à {count} entités.",
+  "screensaverOverlayNone": "Aucune pour l'instant",
+  "screensaverOverlayLimit": "Jusqu'à {count} entités.",
+  "screensaverOverlayGlancePage": "À un coup d'œil",
+  "screensaverOverlayGlanceHint": "Entités affichées par-dessus l'économiseur d'écran",
+  "glanceUnavailable": "Indisponible",
+  "glanceUnknown": "Inconnu"
+}

@@ -1,0 +1,19 @@
+{
+  "@@locale": "fr",
+  "settingHaRotationEnabledTitle": "Activer la rotation des vues du tableau de bord",
+  "settingHaRotationEnabledDescription": "Parcourir les vues sélectionnées du tableau de bord en boucle infinie, en affichant chacune pendant le nombre de secondes choisi.",
+  "settingHaRotationSecondsTitle": "Secondes par vue",
+  "settingHaRotationSecondsDescription": "Durée d'affichage de chaque vue à l'écran.",
+  "settingHaRotationPauseSecondsTitle": "Suspendre la rotation lors d'une interaction (secondes)",
+  "settingHaRotationPauseSecondsDescription": "Toucher l'écran suspend la rotation pendant cette durée, et chaque contact relance le compte à rebours. Les interactions vocales suspendent la rotation jusqu'à leur fin. 0 laisse la rotation continuer malgré les contacts.",
+  "settingHaRotationCrossfadeTitle": "Fondu entre les vues",
+  "settingHaRotationCrossfadeDescription": "Fondu vers l'arrière-plan puis vers la vue suivante au lieu d'un changement instantané. Passer à un autre tableau de bord ou à une page externe reste instantané.",
+  "settingHaRotationFadeSecondsTitle": "Durée du fondu (secondes)",
+  "settingHaRotationFadeSecondsDescription": "Durée combinée du fondu sortant et entrant. Le chargement de la vue suivante peut ajouter du temps, surtout lors de sa première visite.",
+  "haRotation": "Rotation des vues du tableau de bord",
+  "haRotationHint": "Parcours des vues, temps d'affichage, fondu",
+  "haDefaultView": "Vue par défaut",
+  "haExternalPages": "Pages externes",
+  "haFadeError": "Choisissez une durée de fondu entre 0,2 et 5 secondes.",
+  "haPauseRemoteHelp": "Un contact suspend la rotation pendant cette durée ; chaque contact la relance. Les interactions vocales suspendent toujours la rotation jusqu'à leur fin. 0 laisse la rotation continuer."
+}

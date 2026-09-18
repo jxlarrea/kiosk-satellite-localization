@@ -1,0 +1,11 @@
+{
+  "@@locale": "fr",
+  "kioskForeground": "Kiosk Satellite peut se remettre lui-même au premier plan.",
+  "kioskOverlayMissing": "Sans cela, le kiosque ne peut pas revenir au premier plan et le bouclier de verrouillage ne couvre que l'application.",
+  "kioskGuardHeld": "Le panneau de notifications et les applications récentes se ferment d'eux-mêmes tant que l'écran est protégé.",
+  "kioskGuardMissing": "Sans cela, le panneau de notifications et les applications récentes restent accessibles. Activez Kiosk Satellite dans Accessibilité.",
+  "kioskOverlayRemote": "Sans cela, le kiosque ne peut pas revenir au premier plan. L'écran d'autorisation apparaît sur la tablette.",
+  "kioskGuardRemote": "Sans cela, le panneau de notifications et les applications récentes restent accessibles. Activez Kiosk Satellite dans Accessibilité sur la tablette.",
+  "kioskGrantDevice": "Autoriser sur l'appareil",
+  "kioskOpenSettingsDevice": "Ouvrir les paramètres sur l'appareil"
+}

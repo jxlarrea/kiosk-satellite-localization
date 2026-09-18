@@ -1,0 +1,10 @@
+{
+  "@@locale": "fr",
+  "deviceScreenOffPermission": "Éteindre l'écran nécessite une autorisation unique. La tablette affiche maintenant l'écran d'octroi « administrateur de l'appareil ». Approuvez-la là-bas, puis réessayez.",
+  "deviceAdminInactive": "L'autorisation administrateur de l'appareil n'est pas active.",
+  "deviceRestartOverlay": "Redémarrer nécessite l'autorisation « Affichage par-dessus d'autres applications », sinon l'application ne peut pas revenir d'elle-même. L'écran d'autorisation s'ouvre sur l'appareil ; autorisez-le là-bas et réessayez.",
+  "deviceRebootPermission": "Redémarrer l'appareil nécessite que Kiosk Satellite soit provisionné comme propriétaire de l'appareil ou dispose d'une connexion Shizuku accordée.",
+  "deviceRestartAndroidOnly": "Le redémarrage n'est disponible que sous Android.",
+  "deviceRestartShizukuRefused": "Shizuku a refusé le redémarrage",
+  "deviceRestartFailed": "Échec du redémarrage : {error}"
+}

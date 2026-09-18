@@ -1,0 +1,18 @@
+{
+  "@@locale": "fr",
+  "intercomBuiltinRing": "Sonnerie intégrée",
+  "intercomBuiltinChime": "Carillon intégré",
+  "intercomMissingFile": "{file} (manquant)",
+  "intercomAddSound": "Ajouter un son",
+  "intercomCopySoundHelp": "Copier un fichier audio depuis cet appareil vers le dossier des sons.",
+  "intercomUploadSoundHelp": "Envoyer un fichier audio depuis cet ordinateur vers le dossier des sons.",
+  "intercomUpload": "Envoyer",
+  "intercomUploading": "Envoi…",
+  "intercomUnsupportedSound": "Son non pris en charge",
+  "intercomChooseSound": "Son non pris en charge : choisissez un fichier MP3, OGG, WAV, FLAC, M4A ou AAC.",
+  "intercomCopyFailed": "Impossible de copier le fichier",
+  "intercomUploadFailed": "Échec de l'envoi : {error}",
+  "intercomSaveFailed": "Non enregistré : {error}",
+  "intercomSoundFilename": "Saisissez un nom de fichier, pas un chemin.",
+  "intercomSoundFormats": "Choisissez un fichier MP3, OGG, WAV, FLAC, M4A ou AAC."
+}

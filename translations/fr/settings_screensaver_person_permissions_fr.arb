@@ -1,0 +1,16 @@
+{
+  "@@locale": "fr",
+  "screensaverDetectionPermissions": "Autorisations système requises",
+  "screensaverDetectionLogAccess": "Accès aux journaux",
+  "screensaverDetectionChecking": "Vérification...",
+  "screensaverDetectionReadable": "Le capteur de présence de l'appareil peut être lu.",
+  "screensaverDetectionRestartRequired": "Accordée. Redémarrez Kiosk Satellite pour l'appliquer.",
+  "screensaverDetectionGrantHelp": "Cette autorisation ne peut être accordée que via ADB. La documentation Meta Portal contient la commande complète. Redémarrez Kiosk Satellite ensuite.",
+  "screensaverDetectionGrantRemoteHelp": "Cette autorisation ne peut être accordée que via ADB. Voici la commande complète, prête à être copiée. Redémarrez Kiosk Satellite ensuite.",
+  "screensaverDetectionGranted": "Accordée",
+  "screensaverDetectionMissing": "Manquante",
+  "screensaverDetectionRestart": "Redémarrer",
+  "screensaverDetectionRestartRemote": "Redémarrer sur l'appareil",
+  "screensaverDetectionLogRestart": "L'accès aux journaux est accordé mais prend effet au redémarrage de Kiosk Satellite.",
+  "screensaverDetectionLogMissing": "Accès aux journaux non accordé."
+}

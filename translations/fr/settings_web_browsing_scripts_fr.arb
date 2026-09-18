@@ -1,0 +1,9 @@
+{
+  "@@locale": "fr",
+  "settingBrowserInjectJsTitle": "Injecter du JavaScript sur le tableau de bord HA",
+  "settingBrowserInjectJsDescription": "Exécuter ce code JavaScript après chaque chargement de la page du tableau de bord. Utile pour masquer des éléments gênants ou ajuster un tableau de bord que vous ne contrôlez pas.",
+  "settingBrowserInjectJsExternalTitle": "Injecter du JavaScript sur les pages externes",
+  "settingBrowserInjectJsExternalDescription": "Exécuter ce code JavaScript après le chargement de chaque page externe : pages ouvertes par un lien du tableau de bord, pages de rotation du tableau de bord et économiseur d'écran de site web. La page Music Assistant n'est pas concernée.",
+  "browserInjectJsPlaceholder": "// Exemple : masquer un élément gênant\ndocument.querySelector('#banner').style.display = 'none';",
+  "browserInjectJsExternalPlaceholder": "// Exemple : zoomer un site qui ignore le niveau de zoom du tableau de bord\ndocument.documentElement.style.zoom = '1.25';"
+}

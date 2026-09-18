@@ -1,0 +1,17 @@
+{
+  "@@locale": "fr",
+  "settingSendspinShowPlayerTitle": "Afficher le lecteur flottant",
+  "settingSendspinShowPlayerDescription": "Pendant la lecture, afficher une petite fenêtre de lecture en cours par-dessus le tableau de bord avec la pochette, les infos du morceau et la progression. Déplaçable n'importe où ; la position est mémorisée.",
+  "settingSendspinPlayerSizeTitle": "Taille du lecteur",
+  "settingSendspinPlayerSizeDescription": "Compact est une petite fenêtre de lecture en cours discrète. Grand ajoute des boutons précédent, lecture/pause et suivant adaptés au toucher, contrôlant tout le groupe de lecture.",
+  "settingSendspinPausedHideMinutesTitle": "Masquer le lecteur en pause après",
+  "settingSendspinPausedHideMinutesDescription": "Durée d'affichage à l'écran d'un lecteur en pause. S'applique au lecteur flottant comme à la vue Lecture en cours.",
+  "settingSendspinDismissKeepsPlayingTitle": "Continuer la lecture une fois fermé",
+  "settingSendspinDismissKeepsPlayingDescription": "Faire glisser le lecteur flottant pour le fermer le masque sans arrêter la musique.",
+  "settingSendspinPlayerShortcutTitle": "Afficher dans le menu du kiosque",
+  "settingSendspinPlayerShortcutDescription": "Ajoute une entrée dans le menu du kiosque qui affiche ou masque le lecteur flottant. ATTENTION : si rien n'est en cours de lecture ou qu'il n'y a pas de file d'attente pour ce lecteur, elle n'apparaîtra pas.",
+  "mediaFloatingPage": "Lecteur flottant",
+  "mediaFloatingHint": "La petite carte par-dessus le tableau de bord",
+  "mediaCompact": "Compact",
+  "mediaLargeControls": "Grand avec contrôles"
+}

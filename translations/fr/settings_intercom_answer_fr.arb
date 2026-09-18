@@ -1,0 +1,19 @@
+{
+  "@@locale": "fr",
+  "settingIntercomAnswerModeTitle": "Mode de réponse",
+  "settingIntercomAnswerModeDescription": "Sonner demande à l'écran. Répondre automatiquement ouvre l'appel après un carillon.",
+  "settingIntercomRingSecondsTitle": "Sonner pendant",
+  "settingIntercomRingSecondsDescription": "Durée de sonnerie d'un appel avant qu'il ne soit considéré comme manqué.",
+  "settingIntercomRingSoundTitle": "Sonnerie",
+  "settingIntercomRingSoundDescription": "Joué au volume des notifications.",
+  "settingIntercomAcceptAnnouncementsTitle": "Accepter les annonces",
+  "settingIntercomAcceptAnnouncementsDescription": "Lire Annoncer à tous depuis les autres kiosques.",
+  "intercomOptionAnswerRing": "Sonner",
+  "intercomOptionAnswerAuto": "Répondre automatiquement",
+  "intercomOptionAnswerDnd": "Ne pas déranger",
+  "intercomOptionAnswer15": "15 secondes",
+  "intercomOptionAnswer30": "30 secondes",
+  "intercomOptionAnswer45": "45 secondes",
+  "intercomOptionAnswer60": "60 secondes",
+  "intercomAnswerSection": "Réponse"
+}

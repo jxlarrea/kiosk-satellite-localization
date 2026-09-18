@@ -1,0 +1,15 @@
+{
+  "@@locale": "fr",
+  "intercomKiosks": "Kiosques",
+  "intercomRosterHelp": "Kiosques détectés et membres de flotte enregistrés. Un kiosque est prêt lorsqu'il est joignable, l'interphone activé et avec la même clé.",
+  "intercomNoOther": "Aucun autre kiosque trouvé",
+  "intercomRosterDeviceHelp": "Les kiosques avec Gestion à distance et Trouver d'autres kiosques activés apparaissent ici.",
+  "intercomNoneHeard": "Aucun kiosque trouvé",
+  "intercomRosterRemoteHelp": "Les kiosques apparaissent via la découverte réseau ou l'appartenance enregistrée à une flotte. Gestion à distance et Trouver d'autres kiosques doivent être activés.",
+  "intercomReady": "Prêt",
+  "intercomOff": "Interphone désactivé",
+  "intercomDifferentKey": "Clé différente",
+  "intercomUnreachable": "Injoignable",
+  "intercomOffline": "Hors ligne",
+  "intercomChecking": "Vérification…"
+}

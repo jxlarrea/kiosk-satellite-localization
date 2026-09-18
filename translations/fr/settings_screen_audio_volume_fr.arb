@@ -1,0 +1,14 @@
+{
+  "@@locale": "fr",
+  "settingMediaVolumeTitle": "Volume multimédia",
+  "settingMediaVolumeDescription": "La musique et la vidéo sont lues à cette proportion du volume principal. Le volume du lecteur Sendspin dans Music Assistant déplace ce curseur.",
+  "settingAssistantVolumeTitle": "Volume de l'assistant",
+  "settingAssistantVolumeDescription": "Les réponses vocales et les carillons sont lus à cette proportion du volume principal, indépendamment du volume multimédia.",
+  "settingAssistantFullVolumeRangeTitle": "Plage de volume complète pour l'assistant",
+  "settingAssistantFullVolumeRangeDescription": "Initialiser le volume d'appel du haut-parleur intégré à 100 % au premier démarrage de l'audio de l'assistant. Le volume principal et le volume de l'assistant s'appliquent toujours. D'autres applications partagent ce volume d'appel, qui n'est pas restauré ensuite.",
+  "settingIntercomVolumeTitle": "Volume de l'interphone",
+  "settingIntercomVolumeDescription": "La voix et les annonces de l'autre kiosque sont lues à cette proportion du volume principal.",
+  "screenAudioVolume": "Volume audio",
+  "screenAudioMasterVolume": "Volume principal",
+  "screenAudioMasterHelp": "Le volume de l'appareil. Les volumes multimédia, interphone et assistant sont proportionnels à celui-ci."
+}

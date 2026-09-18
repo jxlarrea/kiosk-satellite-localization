@@ -1,0 +1,20 @@
+{
+  "@@locale": "fr",
+  "settingSendspinPlayerSourceTitle": "Source du lecteur",
+  "settingSendspinPlayerSourceDescription": "Ce que le lecteur flottant et Lecture en cours affichent et contrôlent : cet appareil ou un lecteur ailleurs.",
+  "settingSendspinPlayerTitle": "Lecteur",
+  "settingSendspinPlayerDescription": "Le lecteur de cette source à afficher et contrôler.",
+  "settingSendspinDuckPercentTitle": "Baisser le volume pendant les interactions vocales",
+  "settingSendspinDuckPercentDescription": "La musique descend à cette proportion de son volume pendant les interactions vocales et les appels d'interphone, puis remonte.",
+  "settingSendspinVolumeKeysTitle": "Les boutons de volume contrôlent le lecteur",
+  "settingSendspinVolumeKeysDescription": "Les boutons de volume de cet appareil modifient le volume du lecteur suivi plutôt que le sien. Uniquement tant que la vue Lecture en cours est à l'écran, ou tant que le lecteur joue.",
+  "settingSendspinVolumeKeyStepTitle": "Pas des boutons de volume",
+  "settingSendspinVolumeKeyStepDescription": "De combien un appui sur un bouton de volume déplace le lecteur.",
+  "mediaIntro": "Le lecteur flottant et Lecture en cours ne s'affichent que tant que le lecteur choisi a un morceau en cours ou une file d'attente chargée. Sans rien en cours ni en file d'attente, aucun des deux n'apparaît.",
+  "mediaThisDevice": "Cet appareil",
+  "mediaOff": "Désactivé",
+  "mediaKeysNowPlaying": "Tant que Lecture en cours est affichée",
+  "mediaKeysPlaying": "Tant que le lecteur joue",
+  "mediaAnotherPlayer": "un autre lecteur",
+  "mediaLocalOffline": "Le propre lecteur Sendspin de cet appareil reste hors ligne tant que {player} est contrôlé."
+}

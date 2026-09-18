@@ -1,0 +1,18 @@
+{
+  "@@locale": "fr",
+  "settingCameraEnabledTitle": "Activer la caméra",
+  "settingCameraEnabledDescription": "L'utilisation de la caméra augmente la charge du CPU et la chaleur, ce qui peut réduire la durée de vie de la batterie et de l'appareil.",
+  "settingCameraDeviceTitle": "Caméra",
+  "settingCameraDeviceDescription": "Quelle caméra utiliser.",
+  "settingCameraSnapshotResolutionTitle": "Résolution des instantanés",
+  "settingCameraSnapshotResolutionDescription": "Plus élevé paraît plus net mais coûte plus de CPU et de bande passante.",
+  "settingCameraDisableDetectionSnapshotsTitle": "Désactiver les instantanés sur détection",
+  "settingCameraDisableDetectionSnapshotsDescription": "Empêcher les instantanés automatiques déclenchés par la détection. La détection de mouvement, de visage, de présence et de gestes continue de fonctionner. Les demandes manuelles et les instantanés continus peuvent toujours capturer des images.",
+  "settingCameraSnapshotsTitle": "Instantanés continus",
+  "settingCameraSnapshotsDescription": "Publier un instantané caméra actualisé vers Home Assistant à intervalle fixe.",
+  "settingCameraSnapshotIntervalTitle": "Intervalle des instantanés",
+  "settingCameraSnapshotIntervalDescription": "Secondes entre les instantanés.",
+  "cameraFront": "Avant",
+  "cameraBack": "Arrière",
+  "cameraOnlyCamera": "La seule caméra que possède cet appareil."
+}

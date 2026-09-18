@@ -1,0 +1,17 @@
+{
+  "@@locale": "fr",
+  "kioskHomeScreen": "Écran d'accueil",
+  "kioskCheckingDevice": "Vérification de l'appareil...",
+  "kioskFireOs": "Fire OS ne permet pas de remplacer son lanceur.",
+  "kioskUnsupported": "Cet appareil ne permet pas de changer l'écran d'accueil.",
+  "kioskRecovered": "Désactivé automatiquement après des échecs de démarrage répétés ; le lanceur précédent a été restauré. Réactivez l'interrupteur pour réessayer.",
+  "kioskHeld": "Kiosk Satellite est l'écran d'accueil. Le kiosque démarre au démarrage de l'appareil et chaque appui sur Accueil y ramène.",
+  "kioskDisabled": "Ce n'est pas l'écran d'accueil. Activez Agir comme écran d'accueil ci-dessus.",
+  "kioskWaiting": "Pas encore l'écran d'accueil actuel : l'appareil attend une confirmation.",
+  "kioskOpenHomeSettings": "Ouvrir les paramètres d'accueil",
+  "kioskSetDefault": "Définir par défaut",
+  "kioskActive": "Actif",
+  "kioskNotHome": "Ce n'est pas l'écran d'accueil.",
+  "kioskWaitingRemote": "En attente d'une confirmation sur l'appareil : la boîte de dialogue système ou les paramètres d'accueil s'y ouvrent.",
+  "kioskSetDevice": "Défini sur l'appareil"
+}

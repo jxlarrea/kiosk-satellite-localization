@@ -1,0 +1,6 @@
+{
+  "@@locale": "fr",
+  "setupServiceHelp": "Maintient l'application active lorsque l'écran est éteint ou qu'une autre application est au premier plan, afin que la connexion Home Assistant et d'autres fonctionnalités comme la détection de mouvement et le proxy Bluetooth restent actives. Les autorisations ci-dessous sont facultatives mais recommandées : chacune l'aide à survivre à l'extinction de l'écran.",
+  "setupBatteryMissing": "Android peut mettre l'application en pause lorsque l'écran est éteint, ce qui coupe la connexion Home Assistant avec elle.",
+  "setupOverlayMissing": "Sans cela, le service ne peut pas relancer le kiosque après un plantage."
+}

@@ -1,0 +1,17 @@
+{
+  "@@locale": "fr",
+  "gestureTester": "Testeur de gestes de la main",
+  "gestureOpenTester": "Ouvrir le testeur",
+  "gestureCameraFirst": "Activez d'abord la caméra dans les paramètres Caméra.",
+  "gestureTesterHelp": "Observez quels doigts la caméra détecte, pour apprendre à positionner votre main.",
+  "gestureHandHelp": "Levez la main à hauteur d'épaule, paume face à la caméra, doigts écartés. Repliez complètement un doigt pour le retirer du décompte. Repliez le pouce contre la paume pour afficher quatre : le pouce ne compte que main ouverte.",
+  "gestureTesterPaused": "Les gestes ne se déclenchent pas tant que le testeur est ouvert.",
+  "gestureShowHand": "Montrez une main à la caméra.",
+  "gestureTesterTrigger": "Déclenche : {action}",
+  "gestureNoCount": "Aucun geste n'utilise ce nombre.",
+  "gestureNoHand": "Aucune main visible",
+  "gestureReadingHand": "Lecture de la main",
+  "gestureNoFingers": "Aucun doigt levé",
+  "gestureHandsCount": "{count} mains visibles, lecture de la plus grande.",
+  "gestureTesterSearch": "Un aperçu en direct des doigts que la caméra détecte."
+}

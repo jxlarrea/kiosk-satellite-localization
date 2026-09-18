@@ -1,0 +1,16 @@
+{
+  "@@locale": "fr",
+  "settingAnnouncementsEnabledTitle": "Activer les annonces",
+  "settingAnnouncementsEnabledDescription": "Lire les annonces que Home Assistant envoie avec l'action announce.",
+  "settingAnnouncementsTtsEngineTitle": "Moteur de synthèse vocale",
+  "settingAnnouncementsTtsEngineDescription": "L'entité de synthèse vocale de Home Assistant qui prononce les annonces.",
+  "esphomeTtsFirst": "Premier disponible",
+  "settingAnnouncementsChimeTitle": "Carillon en premier",
+  "settingAnnouncementsChimeDescription": "Jouer un carillon avant l'annonce.",
+  "settingAnnouncementsChimeFileTitle": "Son du carillon",
+  "settingAnnouncementsChimeFileDescription": "Joué au volume des notifications.",
+  "esphomeAnnouncements": "Annonces",
+  "esphomeAnnouncementsHelp": "Annonces vocales depuis Home Assistant",
+  "esphomeChime": "Carillon",
+  "esphomeTtsUnavailable": "Impossible de joindre Home Assistant"
+}

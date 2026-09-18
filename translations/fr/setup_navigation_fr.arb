@@ -1,0 +1,11 @@
+{
+  "@@locale": "fr",
+  "setupWelcome": "Bienvenue",
+  "setupConnect": "Connexion",
+  "setupConnectSummary": "URL et jeton Home Assistant",
+  "setupDashboard": "Tableau de bord",
+  "setupDashboardSummary": "Ce que le kiosque affiche",
+  "setupRecommendedSummary": "Paramètres recommandés",
+  "setupPermissions": "Autorisations",
+  "setupPermissionsSummary": "Ce dont la configuration a besoin"
+}

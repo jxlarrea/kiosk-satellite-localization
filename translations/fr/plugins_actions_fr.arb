@@ -1,0 +1,13 @@
+{
+  "@@locale": "fr",
+  "pluginActions": "Actions",
+  "pluginKioskDrawer": "Tiroir du kiosque",
+  "pluginToAssignAGestureOpenGesturesAndChooseRun": "Pour assigner un geste, ouvrez Gestes et choisissez Exécuter une action de plugin.",
+  "pluginShowInKioskDrawer": "Afficher dans le tiroir du kiosque",
+  "pluginAlsoAvailableWhileLockedIfTheKioskDrawerIs": "Également disponible en mode verrouillé si le tiroir du kiosque est autorisé.",
+  "pluginExposeToHomeAssistant": "Exposer à Home Assistant",
+  "pluginAddsAButtonToTheKioskEsphomeDeviceRequires": "Ajoute un bouton à l'appareil ESPHome du kiosque. Nécessite ESPHome et les entités natives.",
+  "pluginSelectAnEntity": "Sélectionner une entité",
+  "pluginChooseName": "Choisir {name}",
+  "pluginConfigureName": "Configurer {name}"
+}

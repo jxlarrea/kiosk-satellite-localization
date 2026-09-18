@@ -1,0 +1,8 @@
+{
+  "@@locale": "fr",
+  "mediaNothingQueued": "Rien dans la file d'attente",
+  "mediaChapters": "Chapitres",
+  "mediaNowPlaying": "Lecture en cours",
+  "mediaUpNext": "À suivre",
+  "mediaUnnamedChapter": "Chapitre {number}"
+}

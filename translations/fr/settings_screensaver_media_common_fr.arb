@@ -1,0 +1,12 @@
+{
+  "@@locale": "fr",
+  "screensaverMediaTransitionNone": "Aucune",
+  "screensaverMediaTransitionFade": "Fondu enchaîné",
+  "screensaverMediaTransitionSlide": "Glissement",
+  "screensaverMediaTransitionZoom": "Zoom",
+  "screensaverMediaTransitionKenBurns": "Ken Burns",
+  "screensaverMediaTransitionRandom": "Aléatoire",
+  "screensaverMediaFillOff": "Désactivé",
+  "screensaverMediaFillSmart": "Intelligent",
+  "screensaverMediaFillAlways": "Toujours"
+}

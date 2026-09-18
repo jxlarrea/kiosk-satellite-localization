@@ -1,0 +1,19 @@
+{
+  "@@locale": "fr",
+  "settingCameraAllowH265Title": "Autoriser les flux H.265",
+  "settingCameraAllowH265Description": "Lire les flux caméra H.265 tels quels. Un appareil incapable de décoder le H.265 affiche une image vide à la place.",
+  "settingCameraPreferMseTitle": "Préférer MSE à WebRTC",
+  "settingCameraPreferMseDescription": "Diffuser d'abord les caméras Go2RTC via MSE. Pour les appareils incapables de lire le WebRTC ; ajoute une ou deux secondes de délai.",
+  "settingCameraPreferHlsTitle": "Préférer HLS à WebRTC",
+  "settingCameraPreferHlsDescription": "Diffuser d'abord les caméras Home Assistant via HLS. Pour les appareils incapables de lire le WebRTC ; ajoute quelques secondes de délai.",
+  "settingCameraSingleAudioTitle": "Jouer le son pour une seule caméra",
+  "settingCameraSingleAudioDescription": "Jouer le son de la caméra quand une seule caméra est à l'écran. Les grilles avec plusieurs caméras restent silencieuses.",
+  "settingCameraPinchZoomTitle": "Pincer pour zoomer sur une seule caméra",
+  "settingCameraPinchZoomDescription": "Zoomer dans l'image avec deux doigts quand une seule caméra est à l'écran. Glisser pour se déplacer, double-appui pour réinitialiser.",
+  "settingCameraAutoDismissSecondsTitle": "Fermer automatiquement après",
+  "settingCameraAutoDismissSecondsDescription": "Fermer une vue caméra ouverte d'elle-même ; 0 la garde ouverte. L'économiseur d'écran caméra n'est pas affecté.",
+  "cameraStreamsPlayback": "Lecture",
+  "cameraStreamsOff": "Désactivé",
+  "cameraStreamsSeconds": "{seconds} s",
+  "cameraStreamsGridHelp": "Les grilles avec plusieurs caméras sont vidéo uniquement. Pour les appareils peu puissants, utilisez des flux Go2RTC en résolution réduite dans les vues et définissez éventuellement un flux plein écran distinct."
+}

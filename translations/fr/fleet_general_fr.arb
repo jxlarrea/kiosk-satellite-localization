@@ -1,0 +1,15 @@
+{
+  "@@locale": "fr",
+  "fleetFleetManagementNeedsTheRemoteAdmin": "La gestion de flotte nécessite l'administration à distance",
+  "fleetKiosksFindEachOtherThroughItTurnOnRemote": "Les kiosques se trouvent entre eux grâce à elle. Activez Gestion à distance et Trouver d'autres kiosques dans Appareil, puis revenez ici.",
+  "fleetLeadThisFleet": "Diriger cette flotte",
+  "fleetSyncThisKioskSSettingsToItsFollowersRequires": "Synchroniser les paramètres de ce kiosque avec ses suiveurs. Nécessite que tous les kiosques exécutent la même version.",
+  "fleetAKioskThatFollowsALeaderCannotLead": "Un kiosque qui suit un leader ne peut pas diriger.",
+  "fleetFollowers": "Suiveurs",
+  "fleetProfiles": "Profils",
+  "fleetLeader": "Leader",
+  "fleetLearnWhichSettingsSyncAndWhichDoNotIn": "Découvrez quels paramètres se synchronisent et lesquels ne le font pas dans la ",
+  "fleetFleetManagementDocumentation": "documentation de la gestion de flotte",
+  "fleetMore": "Plus",
+  "fleetSearchFollowers": "Les kiosques que celui-ci dirige, leur état et un moyen d'en ajouter un."
+}

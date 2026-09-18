@@ -1,0 +1,10 @@
+{
+  "@@locale": "fr",
+  "settingScreensaverWebsiteUrlTitle": "URL du site web",
+  "settingScreensaverWebsiteUrlDescription": "Une page à afficher en plein écran. Elle doit autoriser l'intégration (embedding).",
+  "settingScreensaverWebsiteZoomTitle": "Niveau de zoom",
+  "settingScreensaverWebsiteZoomDescription": "Met à l'échelle l'ensemble de la vue web de l'économiseur d'écran externe.",
+  "settingScreensaverWebsiteDoubleTapTitle": "Double appui pour fermer",
+  "settingScreensaverWebsiteDoubleTapDescription": "Les appuis simples interagissent avec le site web au lieu de fermer l'économiseur d'écran.",
+  "screensaverWebsiteSection": "Économiseur d'écran site web"
+}

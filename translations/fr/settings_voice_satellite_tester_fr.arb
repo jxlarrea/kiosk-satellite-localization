@@ -1,0 +1,23 @@
+{
+  "@@locale": "fr",
+  "voiceTester": "Testeur de mot de réveil",
+  "voiceTesterHelp": "Observez en temps réel ce que le moteur entend et évalue, pour comprendre pourquoi le mot de réveil se déclenche ou non.",
+  "voiceTesterSearch": "Un aperçu en direct de ce que le moteur entend et évalue.",
+  "voiceTesterWaiting": "En attente de Voice Satellite",
+  "voiceStopWordNamed": "{word} (mot d'arrêt)",
+  "voiceScore": "Score",
+  "voiceThreshold": "Seuil",
+  "voiceHits": "Détections",
+  "voiceNearMisses": "Presque déclenchés",
+  "voicePeak": "Pic",
+  "voiceMicLevel": "Niveau du micro",
+  "voiceChunkProcessing": "Traitement des blocs (min / moy / max)",
+  "voiceLog": "Journal",
+  "voiceLogEmpty": "Les détections et quasi-détections apparaîtront ici.",
+  "voiceLogHit": "DÉTECTÉ",
+  "voiceLogNear": "proche",
+  "voiceLogScore": "score",
+  "voiceLogDecoded": "décodé",
+  "voiceLogDistance": "dist",
+  "voiceLogConfidence": "conf"
+}

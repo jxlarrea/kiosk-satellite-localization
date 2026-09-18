@@ -1,0 +1,12 @@
+{
+  "@@locale": "fr",
+  "overviewNoScreenshot": "Aucune capture d'écran",
+  "overviewStill": "Fixe",
+  "overviewLive": "En direct",
+  "overviewFullSize": "Taille réelle",
+  "overviewLiveInterval": "En direct, toutes les 5 secondes",
+  "overviewTaken": "Prise {age}",
+  "overviewCameraViewNamed": "Vue caméra : {name}",
+  "overviewCameraView": "Vue caméra",
+  "overviewScreenOffState": "L'écran est éteint"
+}

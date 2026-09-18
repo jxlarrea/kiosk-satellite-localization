@@ -1,0 +1,16 @@
+{
+  "@@locale": "fr",
+  "setupNotBackup": "Ce n'est pas un fichier de sauvegarde",
+  "setupInvalidBackupHelp": "Ce fichier n'est pas un JSON valide. Exportez une configuration depuis les Paramètres d'un Kiosk Satellite déjà configuré, ou depuis son administration à distance.",
+  "setupWrongBackupKind": "Exportez une configuration depuis l'onglet Paramètres d'un Kiosk Satellite déjà configuré.",
+  "setupImportFailedHelp": "Le fichier n'a pas pu être appliqué.",
+  "setupBackupNoDashboard": "La sauvegarde ne contient pas de tableau de bord",
+  "setupBackupNoDashboardHelp": "Les paramètres ont été appliqués, mais cette sauvegarde a été faite avant que son appareil soit configuré, il n'y a donc aucun tableau de bord à afficher. Poursuivez l'assistant pour en choisir un.",
+  "setupImporting": "Importation…",
+  "setupRemoteRestoreHelp": "Importez une configuration exportée depuis Kiosk Satellite et passez le reste de cet assistant.",
+  "setupFinishOnDevice": "Terminer sur l'appareil",
+  "setupFinishOnDeviceHelp": "La configuration a été importée. Répondez aux demandes d'autorisation sur l'écran de la tablette - cette page continue automatiquement lorsque le tableau de bord se charge.",
+  "setupBackupObject": "La sauvegarde doit contenir un objet JSON.",
+  "setupBackupKind": "Ce n'est pas un fichier de configuration Kiosk Satellite.",
+  "setupBackupSettings": "La sauvegarde ne contient aucun paramètre."
+}

@@ -1,0 +1,18 @@
+{
+  "@@locale": "fr",
+  "screensaverOverlayEntity": "Entité",
+  "screensaverOverlayNotSet": "Non défini",
+  "screensaverOverlayName": "Nom",
+  "screensaverOverlayNameHelp": "Laissez vide pour utiliser le nom Home Assistant.",
+  "screensaverOverlayValue": "Valeur affichée",
+  "screensaverOverlayState": "État",
+  "screensaverOverlayEntityRequired": "Choisissez une entité.",
+  "screensaverOverlaySearchHint": "Nom ou identifiant d'entité",
+  "screensaverOverlaySearchHintRemote": "Rechercher par nom ou identifiant d'entité",
+  "screensaverOverlaySearchEmpty": "Tapez pour rechercher des entités.",
+  "screensaverOverlayNoMatches": "Aucun résultat.",
+  "screensaverOverlaySearching": "Recherche…",
+  "screensaverOverlayUnreachable": "Impossible de joindre Home Assistant",
+  "screensaverOverlayNoAnswer": "L'appareil n'a pas répondu.",
+  "screensaverOverlaySearchError": "Impossible de rechercher les entités : {error}"
+}

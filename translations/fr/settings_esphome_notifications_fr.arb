@@ -1,0 +1,19 @@
+{
+  "@@locale": "fr",
+  "settingNotificationsTransparencyTitle": "Transparence",
+  "settingNotificationsTransparencyDescription": "Laisse apparaître l'écran derrière les cartes de notification. Le texte et les icônes restent opaques.",
+  "settingNotificationsBlurTitle": "Flou d'arrière-plan",
+  "settingNotificationsBlurDescription": "Floute ce qui apparaît à travers une carte de notification transparente. Remarque : le flou ne peut pas être appliqué par-dessus la surface du tableau de bord Home Assistant.",
+  "settingNotificationsChimeFileTitle": "Son de notification",
+  "settingNotificationsChimeFileDescription": "Les fichiers audio sont lus depuis Android/data/me.jxl.kiosk_satellite/files/sounds sur l'appareil, également accessible depuis le gestionnaire de fichiers.",
+  "settingNotificationsVolumeTitle": "Volume des notifications",
+  "settingNotificationsVolumeDescription": "Le volume auquel le son de notification est joué, indépendamment des volumes multimédia et assistant.",
+  "esphomeNotifications": "Notifications",
+  "esphomeNotificationsHelp": "Transparence, flou, son de notification, notification de test",
+  "esphomeAppearance": "Apparence",
+  "esphomeSound": "Son",
+  "esphomeNotificationTest": "Notification de test",
+  "esphomeNotificationHelp": "Les notifications sont envoyées depuis Home Assistant avec l'action {action}. Le test en affiche une par-dessus le tableau de bord.",
+  "esphomeNotificationBody": "Voici à quoi ressemble et comment sonne une notification de Home Assistant.",
+  "esphomeNotificationSearch": "L'action Home Assistant qui envoie les notifications, et un bouton pour en afficher une."
+}

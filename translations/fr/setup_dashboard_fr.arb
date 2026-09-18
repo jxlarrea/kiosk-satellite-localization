@@ -1,0 +1,7 @@
+{
+  "@@locale": "fr",
+  "setupChooseDashboard": "Choisir un tableau de bord",
+  "setupDashboardHelp": "C'est ce que le kiosque affichera à son démarrage.",
+  "setupSelectDashboard": "Sélectionner un tableau de bord",
+  "setupSelectDashboardHelp": "Choisissez le tableau de bord que le kiosque affichera. Vous pourrez le modifier plus tard dans Paramètres."
+}

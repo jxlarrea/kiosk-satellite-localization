@@ -1,0 +1,15 @@
+{
+  "@@locale": "fr",
+  "deviceHelperPage": "Assistant de mise à jour optionnel",
+  "deviceHelperStatus": "État de l'assistant",
+  "deviceHelperError": "Impossible de vérifier l'assistant de mise à jour.",
+  "deviceHelperUnneeded": "Android peut désormais installer les mises à jour silencieusement. L'assistant n'est pas nécessaire.",
+  "deviceHelperIntro": "Cet appareil nécessite actuellement une confirmation à l'écran pour installer les mises à jour via Android. L'assistant optionnel permet à Kiosk Satellite d'installer les mises à jour sans confirmation.",
+  "deviceHelperBusy": "Installation d'une mise à jour en cours.",
+  "deviceHelperReady": "Prêt. Les mises à jour s'installent sans confirmation.",
+  "deviceHelperUnavailable": "Indisponible. Démarrez l'assistant via ADB pour activer les mises à jour sans confirmation.",
+  "deviceHelperLifetime": "L'assistant survit aux redémarrages et mises à jour de l'application, mais s'arrête après un redémarrage de l'appareil. Exécutez la commande depuis un ordinateur avec ADB pour le redémarrer. L'ordinateur peut ensuite être déconnecté.",
+  "deviceHelperStart": "Démarrer via ADB",
+  "deviceHelperGuide": "Guide de configuration",
+  "deviceHelperGuideHelp": "Lisez les instructions et prérequis de l'assistant de mise à jour."
+}

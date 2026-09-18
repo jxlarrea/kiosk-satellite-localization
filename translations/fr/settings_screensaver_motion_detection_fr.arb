@@ -1,0 +1,12 @@
+{
+  "@@locale": "fr",
+  "settingScreensaverDismissOnMotionTitle": "Fermer sur mouvement",
+  "settingScreensaverDismissOnMotionDescription": "Surveiller la caméra tant que l'économiseur d'écran est actif et réveiller l'écran quand quelqu'un s'approche. La caméra ne fonctionne que pendant l'économiseur d'écran.",
+  "settingScreensaverDismissOnMotionScreenOffOnlyTitle": "Uniquement quand l'écran est éteint",
+  "settingScreensaverDismissOnMotionScreenOffOnlyDescription": "Garder l'économiseur d'écran visible quand un mouvement est détecté alors que l'écran est allumé. Une fois l'écran éteint, la détection réveille le tableau de bord. Toucher l'écran ferme toujours l'économiseur d'écran.",
+  "settingScreensaverPostponeOnMotionTitle": "Reporter l'économiseur d'écran sur mouvement",
+  "settingScreensaverPostponeOnMotionDescription": "Retarder l'activation de l'économiseur d'écran quand un mouvement est détecté. ATTENTION : garde la caméra en fonctionnement en permanence.",
+  "screensaverDetectionMotionPage": "Détection de mouvement",
+  "screensaverDetectionMotionHint": "Fermer ou reporter l'économiseur d'écran sur mouvement",
+  "screensaverDetectionMotionTuning": "La détection de mouvement se règle dans les paramètres de la Caméra."
+}

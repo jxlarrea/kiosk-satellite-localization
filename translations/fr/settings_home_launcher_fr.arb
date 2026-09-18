@@ -1,0 +1,7 @@
+{
+  "@@locale": "fr",
+  "settingHomeLauncherEnabledTitle": "Agir comme écran d'accueil",
+  "settingHomeLauncherEnabledDescription": "Enregistrer Kiosk Satellite comme écran d'accueil de l'appareil : le kiosque démarre au démarrage de l'appareil et chaque appui sur Accueil y ramène. Se désactive automatiquement et restaure le lanceur précédent si l'application échoue à démarrer de manière répétée.",
+  "settingHomeKeepPinningTitle": "Conserver l'épinglage d'écran",
+  "settingHomeKeepPinningDescription": "Épingler l'écran même lorsque Kiosk Satellite est l'écran d'accueil. Bloque nativement les applications récentes et le bouton retour, mais ramène la boîte de dialogue de confirmation d'épinglage sur les appareils sans propriété d'appareil (device ownership)."
+}

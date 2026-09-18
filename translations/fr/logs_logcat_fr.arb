@@ -1,0 +1,11 @@
+{
+  "@@locale": "fr",
+  "logsSystemLog": "Journal système Android pour cette application (les plantages s'y trouvent)",
+  "logsErrors": "Erreurs et plantages",
+  "logsWarnings": "Avertissements",
+  "logsInfo": "Info et débogage",
+  "logsNoMatches": "Aucune ligne correspondante. Activez plus de types ci-dessus pour voir le journal complet.",
+  "logsUnavailable": "logcat indisponible",
+  "logsReadFailed": "Impossible de lire logcat : {error}",
+  "logsUnknown": "inconnu"
+}

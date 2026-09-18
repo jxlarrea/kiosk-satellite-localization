@@ -1,0 +1,20 @@
+{
+  "@@locale": "fr",
+  "settingScreensaverWidgetsTitle": "Widgets",
+  "settingScreensaverWidgetsDescription": "Petites superpositions dans les coins de l'économiseur d'écran.",
+  "settingScreensaverWidgetScaleTitle": "Mise à l'échelle globale des widgets",
+  "settingScreensaverWidgetScaleDescription": "Mettre tous les widgets à l'échelle ensemble pour mieux les adapter à la taille de votre écran. Chaque widget conserve sa propre échelle par rapport aux autres.",
+  "settingScreensaverWidgetFontTitle": "Famille de police globale",
+  "settingScreensaverWidgetFontDescription": "La police avec laquelle chaque widget est dessiné. Un widget peut choisir la sienne.",
+  "settingScreensaverWidgetFontWeightTitle": "Graisse de police globale",
+  "settingScreensaverWidgetFontWeightDescription": "L'épaisseur avec laquelle le texte de chaque widget est dessiné. Par défaut, chaque ligne garde sa propre graisse. Un widget peut choisir la sienne.",
+  "settingScreensaverWidgetTextShadowTitle": "Ombre portée du texte",
+  "settingScreensaverWidgetTextShadowDescription": "Ajouter une ombre portée au texte des widgets pour la lisibilité sur les photos.",
+  "settingScreensaverVignetteStrengthTitle": "Intensité du vignettage",
+  "settingScreensaverVignetteStrengthDescription": "Obscurité de l'ombrage derrière les widgets, pour la lisibilité sur les photos claires. 0 le désactive.",
+  "screensaverOverlayWidgetsEmpty": "Pas encore de widgets",
+  "screensaverOverlayRemove": "Supprimer le widget",
+  "screensaverOverlayAdd": "Ajouter un widget",
+  "screensaverOverlayAddHelp": "Une petite horloge, la météo, la batterie ou une entité dans un coin.",
+  "screensaverOverlayWidgetsHint": "Superpositions en coin et leur échelle"
+}

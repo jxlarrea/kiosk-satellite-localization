@@ -1,0 +1,16 @@
+{
+  "@@locale": "fr",
+  "setupVoiceDetected": "Voice Satellite détecté",
+  "setupVoiceHelp": "Cette instance Home Assistant exécute l'intégration Voice Satellite. Choisissez le satellite que représente ce kiosque, puis vérifiez ses paramètres. Tout peut être modifié plus tard.",
+  "setupNoSatellites": "Aucun satellite trouvé",
+  "setupNoSatellitesHelp": "Ajoutez un satellite d'assistance dans l'intégration Voice Satellite, ou continuez sans en choisir un et sélectionnez-le plus tard sur le tableau de bord.",
+  "setupNewSatelliteHelp": "S'il s'agit d'un nouvel appareil, créez d'abord une nouvelle entité satellite dans Home Assistant. Paramètres → Appareils et services → Voice Satellite → Ajouter une entrée. IMPORTANT : deux appareils ne peuvent pas partager la même entité.",
+  "setupApplyRecommended": "Appliquer tous les paramètres recommandés",
+  "setupRecommendedHelp": "Les paramètres optimaux pour une intégration et un fonctionnement complets de Voice Satellite.",
+  "setupVoiceRequired": "Requis par Voice Satellite",
+  "setupMicrophoneAccess": "Accès au microphone",
+  "setupNativeWakeWord": "Détection native du mot de réveil",
+  "setupPullRefresh": "Tirer pour actualiser",
+  "setupAutoplay": "Lecture automatique de l'audio et de la vidéo",
+  "setupVoiceSkipped": "Non installé, ignoré"
+}

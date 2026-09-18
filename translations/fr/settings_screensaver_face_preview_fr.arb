@@ -1,0 +1,12 @@
+{
+  "@@locale": "fr",
+  "settingFacePreviewTitle": "Afficher l'aperçu caméra",
+  "settingFacePreviewDescription": "Afficher un petit aperçu rond en direct de la caméra dans un coin de l'écran pendant quelques secondes lorsqu'un visage réveille le kiosque.",
+  "settingFacePreviewSecondsTitle": "Durée de l'aperçu",
+  "settingFacePreviewSecondsDescription": "Durée d'affichage de l'aperçu à l'écran.",
+  "settingFacePreviewScaleTitle": "Mise à l'échelle de l'aperçu",
+  "settingFacePreviewScaleDescription": "Mettre l'aperçu à l'échelle pour mieux l'adapter à la taille de votre écran.",
+  "settingFacePreviewPositionTitle": "Position de l'aperçu",
+  "settingFacePreviewPositionDescription": "Dans quel coin l'aperçu apparaît.",
+  "screensaverDetectionPreviewSection": "Aperçu caméra"
+}

@@ -1,0 +1,11 @@
+{
+  "@@locale": "fr",
+  "voiceTimerDefaultName": "Minuteur",
+  "voiceTimerDrag": "Faites glisser pour déplacer les minuteurs",
+  "voiceTimerPauseHint": "Appuyez pour mettre en pause. Appuyez deux fois pour annuler. Faites glisser pour déplacer.",
+  "voiceTimerResumeHint": "Appuyez pour reprendre. Appuyez deux fois pour annuler. Faites glisser pour déplacer.",
+  "voiceTimerCancel": "Annuler le minuteur",
+  "voiceTimerActionError": "Impossible de modifier le minuteur. Vérifiez la connexion et mettez à jour Voice Satellite si nécessaire.",
+  "voiceTimerFinished": "Minuteur terminé",
+  "voiceTimerDismissHint": "Appuyez pour fermer l'alerte du minuteur."
+}

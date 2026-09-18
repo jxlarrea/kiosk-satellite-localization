@@ -1,0 +1,16 @@
+{
+  "@@locale": "fr",
+  "esphomeLocation": "Localisation",
+  "esphomeLocationSearch": "L'autorisation de localisation dont les capteurs de localisation ont besoin.",
+  "esphomeBluetoothSearch": "L'autorisation Appareils à proximité dont le proxy Bluetooth a besoin pour rechercher.",
+  "esphomeLocationMissing": "Sans cela, le récepteur GPS ne peut pas être lu et les capteurs de localisation restent inconnus.",
+  "esphomeLocationServicesOff": "La localisation est désactivée dans les paramètres de l'appareil, le récepteur ne fournit donc rien.",
+  "esphomeLocationGranted": "Les capteurs de localisation peuvent lire le récepteur GPS.",
+  "esphomeBluetoothGranted": "Le proxy peut rechercher les appareils Bluetooth à proximité.",
+  "esphomeBluetoothMissing": "Sans cela, le proxy ne peut pas rechercher d'appareils.",
+  "esphomeBluetoothLocationMissing": "Android ne transmet les résultats de recherche Bluetooth, balises comprises, que si la localisation est accordée. Le proxy ne lit jamais la position de l'appareil.",
+  "esphomeBluetoothLocationOff": "La localisation est désactivée dans les paramètres de l'appareil, la recherche Bluetooth ne trouve donc rien.",
+  "esphomeBluetoothBeacons": "La recherche Bluetooth peut détecter les balises.",
+  "esphomeSent": "Envoyé",
+  "esphomeNotsaved": "Non enregistré"
+}

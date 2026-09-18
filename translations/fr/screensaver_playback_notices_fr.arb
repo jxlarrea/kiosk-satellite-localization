@@ -1,0 +1,14 @@
+{
+  "@@locale": "fr",
+  "screensaverNoPhotos": "Aucune photo sélectionnée. Choisissez-en dans les Paramètres.",
+  "screensaverNoFolder": "Aucun dossier sélectionné. Choisissez-en un dans les Paramètres.",
+  "screensaverFolderEmpty": "Aucune photo ni vidéo dans {folder}",
+  "screensaverFolderUnreadable": "Impossible de lire {folder}. L'autorisation d'accès aux médias est-elle accordée ?",
+  "screensaverReadPhotosFailed": "Impossible de lire les photos.",
+  "screensaverImmichNotReady": "Immich n'est pas connecté. Validez-le dans les Paramètres.",
+  "screensaverNoMediaMatch": "Aucun média ne correspond à la source et aux filtres.",
+  "screensaverNoMediaSource": "Aucun média dans la source sélectionnée.",
+  "screensaverImmichUnreachable": "Impossible de joindre le serveur Immich.",
+  "screensaverRetryNotice": "{error} Nouvelle tentative automatique.",
+  "screensaverVideosTooLarge": "Toutes les vidéos de cette liste de lecture sont trop volumineuses pour être lues sur cet appareil."
+}

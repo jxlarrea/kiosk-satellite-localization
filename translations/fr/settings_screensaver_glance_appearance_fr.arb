@@ -1,0 +1,16 @@
+{
+  "@@locale": "fr",
+  "settingScreensaverGlanceScaleTitle": "Mise à l'échelle de la ligne",
+  "settingScreensaverGlanceScaleDescription": "Mettre la ligne à l'échelle pour mieux l'adapter à la taille de votre écran.",
+  "settingScreensaverGlanceFontTitle": "Famille de police",
+  "settingScreensaverGlanceFontDescription": "La police avec laquelle la ligne est dessinée.",
+  "settingScreensaverGlanceFontWeightTitle": "Graisse de police",
+  "settingScreensaverGlanceFontWeightDescription": "L'épaisseur avec laquelle le texte de la ligne est dessiné. Par défaut, chaque ligne garde sa propre graisse : normale pour les noms, semi-grasse pour les valeurs.",
+  "settingScreensaverGlanceHideNamesTitle": "Masquer les noms",
+  "settingScreensaverGlanceHideNamesDescription": "Afficher uniquement l'icône et la valeur, avec la valeur dessinée plus grande.",
+  "settingScreensaverGlanceBwIconsTitle": "Icônes monochromes",
+  "settingScreensaverGlanceBwIconsDescription": "Garder chaque icône dans un gris neutre au lieu de la couleur de son état.",
+  "settingScreensaverGlanceTextOnlyTitle": "Style de texte flottant",
+  "settingScreensaverGlanceTextOnlyDescription": "Afficher les entités sous forme de texte flottant au lieu de puces.",
+  "screensaverOverlayAppearance": "Apparence"
+}

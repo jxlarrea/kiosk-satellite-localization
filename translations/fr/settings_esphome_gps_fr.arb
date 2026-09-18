@@ -1,0 +1,16 @@
+{
+  "@@locale": "fr",
+  "settingLocationEnabledTitle": "Signaler la position",
+  "settingLocationEnabledDescription": "Lire la position GPS et la fournir à Home Assistant sous forme de capteurs latitude, longitude, précision, altitude et vitesse. Activer ou désactiver ceci réenregistre l'appareil ESPHome.",
+  "settingLocationIntervalTitle": "Intervalle de mise à jour",
+  "settingLocationIntervalDescription": "Secondes entre les relevés de position.",
+  "esphomeGps": "Capteur GPS",
+  "esphomeGpsHelp": "Exposer les données du capteur GPS à Home Assistant",
+  "esphomeLocationOff": "Désactivé.",
+  "esphomeLocationWaiting": "En attente du premier relevé. Un démarrage à froid à ciel ouvert peut prendre quelques minutes.",
+  "esphomeCoordinates": "Dernières coordonnées",
+  "esphomeLocationDenied": "Autorisation de localisation non accordée.",
+  "esphomeLocationAbsent": "Aucun récepteur GPS.",
+  "esphomeLocationError": "GPS indisponible : {error}",
+  "esphomeLocationUnsupported": "Non disponible sur cet appareil : il n'a pas de récepteur GPS."
+}

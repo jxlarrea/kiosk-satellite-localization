@@ -1,0 +1,8 @@
+{
+  "@@locale": "fr",
+  "remoteDisableTitle": "Désactiver la gestion à distance ?",
+  "remoteDisableHelp": "ATTENTION : vous ne pourrez plus accéder à cette page. Pour la réactiver, utilisez l'appareil ou l'interrupteur Gestion à distance dans Home Assistant.",
+  "remoteDisableConfirm": "Désactiver",
+  "remoteCopyHelp": "Sélectionnez la clé et copiez-la manuellement.",
+  "remoteSaveSettingFailed": "Impossible d'enregistrer ce paramètre. Réessayez."
+}

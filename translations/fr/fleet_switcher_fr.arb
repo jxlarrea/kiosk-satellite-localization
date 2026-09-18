@@ -1,0 +1,6 @@
+{
+  "@@locale": "fr",
+  "fleetSwitchKiosk": "Changer de kiosque",
+  "fleetKiosksOnThisNetworkWithTheRemoteAdminOn": "Kiosques détectés et membres de flotte enregistrés. En choisir un ouvre son administration à distance ici, sur cette même page.",
+  "fleetNoOtherKioskFoundOnThisNetworkAKioskDetail": "Aucun autre kiosque trouvé. Les kiosques apparaissent via la découverte réseau ou l'appartenance enregistrée à une flotte."
+}

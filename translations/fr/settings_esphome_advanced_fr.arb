@@ -1,0 +1,13 @@
+{
+  "@@locale": "fr",
+  "settingEsphomeRealMacTitle": "Utiliser l'adresse MAC Wi-Fi réelle",
+  "settingEsphomeRealMacDescription": "Home Assistant relie ce kiosque au même appareil que vos intégrations réseau suivent déjà. Modifier ceci crée un nouvel appareil ESPHome dans Home Assistant.",
+  "settingEsphomeMacOverrideTitle": "Usurper l'adresse MAC Wi-Fi",
+  "settingEsphomeMacOverrideDescription": "Comme l'adresse MAC ne peut pas être déterminée, vous pouvez utiliser ce champ pour saisir la vôtre. Modifier ceci crée un nouvel appareil ESPHome dans Home Assistant.",
+  "esphomeAdvanced": "Paramètres avancés",
+  "esphomeAdvancedHelp": "Adresse MAC Wi-Fi réelle ou usurpée",
+  "esphomeMacInvalid": "Saisissez une adresse MAC valide.",
+  "esphomeMacHardware": "Signale {mac}.",
+  "esphomeMacManual": "Signale {mac}, saisie ci-dessous.",
+  "esphomeMacUnavailable": "Android ne révélera pas l'adresse matérielle de cet appareil."
+}

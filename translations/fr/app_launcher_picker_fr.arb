@@ -1,0 +1,9 @@
+{
+  "@@locale": "fr",
+  "launcherNoneHelp": "Aucune pour l'instant. Choisissez les applications que le lanceur propose.",
+  "launcherNone": "Aucune pour l'instant",
+  "launcherListFailed": "Impossible de lister les applications",
+  "launcherListError": "Impossible de lister les applications : {error}",
+  "launcherListingFailed": "échec de la liste",
+  "launcherEmpty": "Aucune application lançable trouvée."
+}

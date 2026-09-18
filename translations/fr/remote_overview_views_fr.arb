@@ -1,0 +1,9 @@
+{
+  "@@locale": "fr",
+  "overviewGoView": "Aller à la vue",
+  "overviewLoadingViews": "Chargement des vues…",
+  "overviewPickView": "Choisir une vue du tableau de bord…",
+  "overviewDefaultView": "Vue par défaut",
+  "overviewNoDashboards": "Aucun tableau de bord trouvé",
+  "overviewViewsUnavailable": "Vues indisponibles"
+}

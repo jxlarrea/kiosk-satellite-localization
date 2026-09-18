@@ -1,0 +1,6 @@
+{
+  "@@locale": "fr",
+  "settingScreensaverBlackHideExtrasTitle": "Masquer tous les extras",
+  "settingScreensaverBlackHideExtrasDescription": "Garde l'écran entièrement noir : pas de petite horloge, d'entités À un coup d'œil, ni d'autres superpositions.",
+  "screensaverBlackSection": "Économiseur d'écran noir"
+}

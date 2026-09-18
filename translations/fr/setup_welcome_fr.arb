@@ -1,0 +1,23 @@
+{
+  "@@locale": "fr",
+  "setupRemoteHeading": "Administration à distance",
+  "setupTitle": "Configurer\nKiosk Satellite",
+  "setupWelcomeLead": "Transformez cette tablette en kiosque Home Assistant. La configuration prend quelques minutes et cet assistant vous guide à chaque étape.",
+  "setupDeviceName": "Nom de l'appareil",
+  "setupDeviceNameHelp": "Le nom de ce kiosque dans Home Assistant, dans l'administration à distance et sur le réseau. Modifiable à tout moment dans Paramètres, Appareil.",
+  "setupEnableRemote": "Activer l'administration à distance",
+  "setupEnableRemoteHelp": "Continuez à gérer ce kiosque depuis un navigateur web après la configuration, où coller le jeton d'accès Home Assistant est bien plus simple.",
+  "setupRemotePassword": "Mot de passe d'administration à distance",
+  "setupRestoreHeading": "Restaurer une sauvegarde",
+  "setupRestore": "Restaurer depuis un fichier de configuration",
+  "setupRestoreHelp": "Importez une configuration exportée depuis Kiosk Satellite et passez le reste de cet assistant. Les paramètres, le tableau de bord et la connexion sont inclus.",
+  "setupServicePermissions": "Autorisations de service recommandées",
+  "setupPasswordShort": "Mot de passe trop court",
+  "setupPasswordMinimum": "Utilisez au moins 4 caractères.",
+  "setupRemoteAddress": "Vous pouvez poursuivre cette configuration à distance depuis un navigateur web à l'adresse {address}, que l'interrupteur ci-dessus soit activé ou non.",
+  "remoteWelcomeTitle": "Bienvenue dans Kiosk Satellite",
+  "remoteWelcomePassword": "Cette tablette attend d'être configurée. Protégez d'abord cette administration à distance avec un mot de passe.",
+  "remoteWelcomeReady": "Cette tablette attend d'être configurée. Le mot de passe d'administration à distance est déjà défini ; saisissez-en un nouveau ici pour le modifier.",
+  "remoteInitialPassword": "Mot de passe d'administration (4 caractères min.)",
+  "remoteNewPassword": "Nouveau mot de passe d'administration (laisser vide pour conserver l'actuel)"
+}

@@ -1,0 +1,10 @@
+{
+  "@@locale": "fr",
+  "settingDlnaEnabledTitle": "Activer le récepteur DLNA",
+  "settingDlnaEnabledDescription": "Afficher des images et lire des médias envoyés depuis Home Assistant ou toute application DLNA. L'appareil apparaît comme un lecteur multimédia nommé d'après le nom de l'appareil.",
+  "settingDlnaAudioBackgroundTitle": "Garder l'audio en arrière-plan",
+  "settingDlnaAudioBackgroundDescription": "L'audio envoyé est lu sans prendre le contrôle de l'écran.",
+  "settingDlnaPortTitle": "Port du serveur",
+  "settingDlnaPortDescription": "Le port sur lequel le récepteur fonctionne, renseigné à son démarrage. Modifiez-le pour déplacer le récepteur, ou effacez-le pour le laisser en choisir un autre.",
+  "settingDlnaPortPlaceholder": "Défini au démarrage du récepteur"
+}

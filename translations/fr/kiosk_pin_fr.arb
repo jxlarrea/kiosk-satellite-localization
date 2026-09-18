@@ -1,0 +1,7 @@
+{
+  "@@locale": "fr",
+  "kioskPinTitle": "Code PIN du kiosque",
+  "kioskPinHint": "Code PIN",
+  "kioskWrongPin": "Code PIN incorrect",
+  "kioskUnlock": "Déverrouiller"
+}

@@ -1,0 +1,19 @@
+{
+  "@@locale": "fr",
+  "kioskBackClose": "Appuyez à nouveau sur retour pour fermer l'application",
+  "kioskBackAgain": "Appuyez à nouveau sur retour pour revenir en arrière",
+  "kioskHoldOn": "Mode maintien activé",
+  "kioskHoldOff": "Mode maintien désactivé",
+  "kioskHoldNotice": "La vue actuelle reste affichée jusqu'à ce que vous le désactiviez.",
+  "kioskDownloadComplete": "Téléchargement terminé",
+  "kioskDownloadFailed": "Échec du téléchargement",
+  "kioskDownload": "Télécharger",
+  "kioskDownloading": "Téléchargement en cours",
+  "kioskOpen": "Ouvrir",
+  "kioskTip": "Astuce",
+  "kioskMenuHint": "Balayez depuis le bord gauche pour ouvrir le menu.",
+  "kioskUnknownLink": "Lien de kiosque inconnu",
+  "kioskOpenAppFailed": "Impossible d'ouvrir l'application",
+  "kioskWebViewMissing": "Android System WebView n'est pas installé",
+  "kioskWebViewMissingHelp": "Cet appareil n'a pas de fournisseur WebView, Home Assistant ne peut donc pas être affiché. Installez Android System WebView ou Chrome, puis redémarrez Kiosk Satellite."
+}

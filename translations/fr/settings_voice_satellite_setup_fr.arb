@@ -1,0 +1,12 @@
+{
+  "@@locale": "fr",
+  "voiceDisconnected": "Home Assistant non connecté",
+  "voiceValidate": "Validez d'abord la connexion dans Configuration Home Assistant.",
+  "voiceChecking": "Recherche de Voice Satellite…",
+  "voiceMissing": "Voice Satellite n'est pas installé dans Home Assistant",
+  "voiceInstallHelp": "Voice Satellite transforme ce kiosque en un assistant vocal mains libres complet pour Home Assistant : détection du mot de réveil, conversations, minuteries et annonces, directement sur le tableau de bord.\n\nIl est disponible dans le dépôt HACS par défaut. Installez-le sur votre instance Home Assistant, puis revenez ici.",
+  "voiceLearnMore": "En savoir plus sur ",
+  "voiceGithub": "Voice Satellite sur Github",
+  "voiceHacs": "Ouvrir le dépôt HACS",
+  "voiceLoading": "Chargement des contrôles Voice Satellite…"
+}

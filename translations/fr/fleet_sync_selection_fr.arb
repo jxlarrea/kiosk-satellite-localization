@@ -1,0 +1,23 @@
+{
+  "@@locale": "fr",
+  "fleetSyncedCredentials": "Identifiants synchronisés",
+  "fleetTheSettingsOnThisListWillNotBeSynced": "Les paramètres de cette liste ne seront pas synchronisés avec les suiveurs.",
+  "fleetNothingLeftOut": "Rien n'est exclu",
+  "fleetSyncItAgain": "Le resynchroniser",
+  "fleetAddASetting": "Ajouter un paramètre",
+  "fleetExcludeASetting": "Exclure un paramètre",
+  "fleetSearchSettings": "Rechercher des paramètres",
+  "fleetCountMoreTypeToNarrowTheList": "{count} de plus. Tapez pour affiner la liste.",
+  "fleetNotSyncedNote": "Non synchronisé : {note}",
+  "fleetTheAssignedSatellite": "le satellite assigné",
+  "fleetMicrophoneAndSpeakerDevicesMicGain": "périphériques microphone et haut-parleur, gain du micro",
+  "fleetTheDeviceCamera": "la caméra de l'appareil",
+  "fleetTheFollowedPlayerTheSendspinPlayerId": "le lecteur suivi, l'identifiant du lecteur Sendspin",
+  "fleetNodeNameMacEncryptionKey": "nom du nœud, MAC, clé de chiffrement",
+  "fleetThePinIsAlsoSynced": "le code PIN est également synchronisé",
+  "fleetTheKeyUnlessSyncedAsACredential": "la clé, sauf si synchronisée comme identifiant",
+  "fleetNameRemoteAdministrationRendererWorkaroundsScale": "nom, administration à distance, contournements de rendu, échelle",
+  "fleetHomeAssistantToken": "Jeton Home Assistant",
+  "fleetMusicAssistantToken": "Jeton Music Assistant",
+  "fleetImmichApiKey": "Clé API Immich"
+}

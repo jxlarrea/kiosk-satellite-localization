@@ -1,0 +1,8 @@
+{
+  "@@locale": "fr",
+  "setupPasswordFirst": "Définissez d'abord le mot de passe d'administration",
+  "setupPasswordBeforeImport": "Saisissez un mot de passe d'administration ci-dessus (4 caractères minimum), puis importez la sauvegarde.",
+  "setupPasswordFailed": "Impossible de définir le mot de passe",
+  "setupPasswordExists": "Un mot de passe est déjà défini",
+  "setupPasswordExistsHelp": "Connectez-vous avec le mot de passe défini sur la tablette pour continuer ici. Rechargement…"
+}

@@ -1,0 +1,20 @@
+{
+  "@@locale": "fr",
+  "settingScreensaverCameraViewsTitle": "Vues caméra",
+  "settingScreensaverCameraViewsDescription": "Les vues caméra que l'économiseur d'écran affiche, dans cet ordre.",
+  "settingScreensaverCameraViewSecondsTitle": "Secondes par vue caméra",
+  "settingScreensaverCameraViewSecondsDescription": "Durée d'affichage de chaque vue avant la suivante. Avec une seule vue sélectionnée, rien ne tourne.",
+  "settingScreensaverCameraMuteTitle": "Couper le son sur toutes les vues",
+  "settingScreensaverCameraMuteDescription": "Garde toutes les vues silencieuses, même une seule caméra.",
+  "screensaverMediaCameraPage": "Économiseur d'écran flux de caméras",
+  "screensaverMediaCameraHint": "Vues à afficher, secondes par vue, son",
+  "screensaverMediaNoCameras": "Aucune vue caméra n'a de caméras pour l'instant. Ajoutez-en une dans Flux de caméras.",
+  "screensaverMediaNoCamerasRemote": "Aucune vue caméra n'a de caméras pour l'instant",
+  "screensaverMediaAddCameras": "Ajoutez-en une dans Flux de caméras.",
+  "screensaverMediaNoViews": "Aucune pour l'instant. Choisissez les vues que l'économiseur d'écran doit faire défiler.",
+  "screensaverMediaRotation": "Dans la rotation (glisser pour réorganiser)",
+  "screensaverMediaAvailable": "Disponible",
+  "screensaverMediaOneCamera": "{count} caméra",
+  "screensaverMediaCameras": "{count} caméras",
+  "screensaverMediaPosition": "Position {index} · {cameras}"
+}

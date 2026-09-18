@@ -1,0 +1,16 @@
+{
+  "@@locale": "fr",
+  "mediaPickPlayer": "Choisir un lecteur",
+  "mediaMaPlayer": "Lecteur Music Assistant",
+  "mediaHaPlayer": "Lecteur multimédia Home Assistant",
+  "mediaSonosRoom": "Pièce Sonos",
+  "mediaSearchPlayers": "Rechercher des lecteurs",
+  "mediaOffline": "Hors ligne",
+  "mediaOfflineName": "{name} (hors ligne)",
+  "mediaSetUpMa": "Configurez Music Assistant pour lister ses lecteurs.",
+  "mediaSetUpHa": "Connectez Home Assistant pour lister ses lecteurs multimédias.",
+  "mediaSetUpSonos": "Aucune enceinte Sonos connue pour l'instant. Trouvez-en une ou ajoutez-en une sur la page Sonos.",
+  "mediaHaFailed": "Home Assistant n'a pas répondu : {error}",
+  "mediaSaveFailed": "Impossible d'enregistrer le lecteur.",
+  "mediaSelectFailed": "Impossible de sélectionner le lecteur"
+}

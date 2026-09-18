@@ -1,0 +1,4 @@
+{
+  "@@locale": "fr",
+  "androidAccessibilityHelp": "Ferme le panneau de notifications et l'écran des applications récentes chaque fois qu'ils s'ouvrent tant que le mode Kiosque ou le mode Verrouillage protège l'écran. Kiosk Satellite ne lit aucun contenu d'écran."
+}

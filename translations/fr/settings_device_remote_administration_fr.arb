@@ -1,0 +1,19 @@
+{
+  "@@locale": "fr",
+  "settingRemoteEnabledTitle": "Gestion à distance",
+  "settingRemoteEnabledDescription": "Exécuter le serveur web d'administration intégré.",
+  "settingRemotePortTitle": "Port du serveur",
+  "settingRemotePortDescription": "Port de l'interface d'administration à distance.",
+  "settingRemotePasswordTitle": "Mot de passe d'administration",
+  "settingRemotePasswordDescription": "Requis pour se connecter à l'interface à distance.",
+  "settingRemoteFleetDiscoveryTitle": "Trouver d'autres kiosques",
+  "settingRemoteFleetDiscoveryDescription": "Annoncer cet appareil sur le réseau et lister les autres kiosques dans l'administration à distance, pour basculer entre eux.",
+  "deviceRemotePage": "Administration à distance",
+  "deviceAdminAddress": "Adresse d'administration",
+  "deviceAdminAddressHelp": "Ouvrez cette adresse dans un navigateur sur votre ordinateur.",
+  "deviceByName": "Par nom",
+  "deviceByNameHelp": "La même adresse par nom d'hôte, sur les réseaux qui résolvent les noms .local.",
+  "devicePasswordNeeded": "Définissez un mot de passe d'administration ci-dessous pour démarrer le serveur.",
+  "deviceServerStopped": "Le serveur n'est pas en cours d'exécution.",
+  "devicePortError": "Impossible d'écouter sur le port {port} : {error}"
+}

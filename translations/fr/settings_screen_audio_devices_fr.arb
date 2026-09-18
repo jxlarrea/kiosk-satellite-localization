@@ -1,0 +1,10 @@
+{
+  "@@locale": "fr",
+  "settingAudioMicDeviceTitle": "Microphone",
+  "settingAudioMicDeviceDescription": "Le microphone utilisé pour la détection du mot de réveil et les échanges vocaux.",
+  "settingAudioSpeakerDeviceTitle": "Haut-parleur",
+  "settingAudioSpeakerDeviceDescription": "Sortie pour les sons de Voice Satellite ; la lecture multimédia suit la route système. L'annulation d'écho ne fonctionne qu'avec le microphone et le haut-parleur sur le même appareil.",
+  "screenAudioDevices": "Périphériques audio",
+  "screenAudioSelectedDevice": "Périphérique sélectionné",
+  "screenAudioDisconnected": "{name} (non connecté)"
+}

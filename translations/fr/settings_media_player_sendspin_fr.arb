@@ -1,0 +1,16 @@
+{
+  "@@locale": "fr",
+  "settingSendspinEnabledTitle": "Activer le lecteur Sendspin",
+  "settingSendspinEnabledDescription": "Transformer cet appareil en lecteur Sendspin synchronisé. Il apparaît dans Music Assistant sous le nom de l'appareil, synchronisé avec chaque autre enceinte Sendspin.",
+  "settingSendspinServerTitle": "Serveur",
+  "settingSendspinServerDescription": "Adresse du serveur Sendspin, par exemple 192.168.1.10:8927. Laissez vide pour trouver automatiquement le serveur sur le réseau.",
+  "settingSendspinCodecTitle": "Codec audio préféré",
+  "settingSendspinCodecDescription": "FLAC est sans perte et idéal sur Wi-Fi ou Ethernet. Le serveur fait le choix final parmi ce que cet appareil propose.",
+  "settingSendspinSyncOffsetTitle": "Décalage de synchronisation audio (ms)",
+  "settingSendspinSyncOffsetDescription": "Négatif fait jouer cet appareil plus tôt, pour les enceintes en retard sur le groupe (Bluetooth). Ajustez à l'oreille ; s'applique en direct.",
+  "mediaSendspinPage": "Lecteur Sendspin",
+  "mediaSendspinHint": "Faire de cet appareil un lecteur Music Assistant synchronisé",
+  "mediaFlac": "FLAC (sans perte)",
+  "mediaOpus": "Opus (efficace)",
+  "mediaPcm": "PCM (non compressé)"
+}

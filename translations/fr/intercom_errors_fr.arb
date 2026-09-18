@@ -1,0 +1,22 @@
+{
+  "@@locale": "fr",
+  "intercomCallFailed": "Impossible d'appeler",
+  "intercomKeyFailed": "Impossible de changer la clé",
+  "intercomBroadcastFailed": "Impossible de parler à tout le monde",
+  "intercomDeviceNoAnswer": "L'appareil n'a pas répondu.",
+  "intercomUnknownKiosk": "kiosque inconnu",
+  "intercomNothingRinging": "rien ne sonne",
+  "intercomNoCall": "aucun appel",
+  "intercomDisabled": "l'interphone est désactivé",
+  "intercomNeedsRemote": "nécessite l'administration à distance",
+  "intercomNeedsDiscovery": "l'interphone nécessite l'administration à distance et Trouver d'autres kiosques",
+  "intercomAlreadyCalling": "déjà en communication",
+  "intercomNoReadyError": "aucun kiosque n'est prêt",
+  "intercomKeyLength": "une clé fait au moins 16 caractères",
+  "intercomMicHeld": "la page occupe le microphone",
+  "intercomMicPermission": "microphone non accordé",
+  "intercomCallerNoAnswer": "l'appelant n'a pas répondu",
+  "intercomMissedcall": "Appel manqué",
+  "intercomListening": "En écoute",
+  "intercomAnnouncementsoff": "Annonces désactivées"
+}

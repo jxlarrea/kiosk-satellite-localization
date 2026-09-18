@@ -1,0 +1,9 @@
+{
+  "@@locale": "fr",
+  "settingDisableCacheTitle": "Désactiver le cache",
+  "settingDisableCacheDescription": "Toujours récupérer depuis le réseau et abandonner les données de page en cache au chargement, afin qu'un tableau de bord redéployé revienne toujours à jour. Lent ; à considérer comme une aide au développement.",
+  "settingAllowMixedContentTitle": "Autoriser le contenu mixte",
+  "settingAllowMixedContentDescription": "Laisser les pages HTTPS charger des ressources HTTP non sécurisées. Utile quand un tableau de bord https:// affiché par Home Assistant contient du contenu http:// non sécurisé.",
+  "settingIgnoreSslErrorsTitle": "Ignorer les erreurs SSL",
+  "settingIgnoreSslErrorsDescription": "Accepter les certificats non fiables ou auto-signés. À n'utiliser que sur votre propre réseau, car cela désactive la vérification des certificats."
+}

@@ -1,0 +1,9 @@
+{
+  "@@locale": "fr",
+  "mediaCacheTitle": "Cache des pochettes d'album",
+  "mediaCacheReadFailed": "Impossible de lire la taille du cache.",
+  "mediaCacheClearFailed": "Impossible de vider le cache.",
+  "mediaCacheChecking": "Vérification de la taille du cache...",
+  "mediaCacheClearing": "Suppression...",
+  "mediaCacheUsage": "{used} utilisés sur {limit}. Les miniatures de la file d'attente sont mises en cache automatiquement."
+}

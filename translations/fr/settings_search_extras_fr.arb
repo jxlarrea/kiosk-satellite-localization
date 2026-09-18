@@ -1,0 +1,20 @@
+{
+  "@@locale": "fr",
+  "searchInstallApk": "Envoyez un APK de Kiosk Satellite via l'administration à distance et installez-le.",
+  "searchPermissionsHelp": "Chaque autorisation Android utilisable par l'application, avec son statut : microphone, caméra, notifications, batterie sans restriction, affichage par-dessus d'autres applications, modification des paramètres système, protection de l'interface système, administrateur de l'appareil, accès à tous les fichiers, accès à l'utilisation et localisation.",
+  "searchServiceStatus": "État du service",
+  "searchServiceHelp": "Indique si le Kiosk Satellite Service est en cours d'exécution et ce qu'il maintient actif.",
+  "searchServicePermissions": "Les autorisations dont le Kiosk Satellite Service a besoin.",
+  "searchIntercomKiosks": "Les kiosques connus et si chacun peut recevoir un appel.",
+  "searchHaValidate": "Vérifiez l'URL et le jeton auprès de votre Home Assistant.",
+  "searchHaProxy": "Servir un Home Assistant en http simple via un proxy sécurisé intégré à l'application.",
+  "searchHaDashboard": "Choisissez le tableau de bord et la vue que le kiosque affiche.",
+  "searchKioskPermissions": "Les autorisations dont s'appuient les protections du kiosque et du verrouillage.",
+  "searchHomeStatus": "État de l'écran d'accueil",
+  "searchHomeHelp": "Indique si Kiosk Satellite est l'écran d'accueil de l'appareil, et où terminer sa définition par défaut.",
+  "searchMasterVolume": "Le volume de l'appareil sur lequel s'appuient les curseurs média et assistant.",
+  "searchSmallClock": "Un widget horloge dans un coin de l'économiseur d'écran.",
+  "searchBattery": "Un widget batterie dans un coin de l'économiseur d'écran : la charge de cet appareil.",
+  "searchPersonPermission": "L'autorisation d'accès aux journaux dont le capteur de présence de l'appareil a besoin.",
+  "searchSonosSpeakers": "Les enceintes Sonos connues de cet appareil, une recherche sur le réseau et un champ d'adresse."
+}

@@ -1,0 +1,16 @@
+{
+  "@@locale": "fr",
+  "settingLockdownEnabledTitle": "Activer le mode verrouillage",
+  "settingLockdownEnabledDescription": "Désactive les interactions à l'écran jusqu'à sa désactivation depuis Home Assistant ou via le geste de sortie.",
+  "settingLockdownMenuTitle": "Afficher dans le menu du kiosque",
+  "settingLockdownMenuDescription": "Ajoute une entrée Mode verrouillage au menu du kiosque qui verrouille l'écran. Utilisez le geste de sortie, l'administration à distance ou Home Assistant pour le déverrouiller.",
+  "settingLockdownBlackoutTitle": "Écran noir",
+  "settingLockdownBlackoutDescription": "Rend l'écran noir tant qu'il est verrouillé.",
+  "settingLockdownAllowScreensaverTitle": "Autoriser l'économiseur d'écran",
+  "settingLockdownAllowScreensaverDescription": "Permet à l'économiseur d'écran de fonctionner pendant le verrouillage. Fermer sur mouvement reste désactivé tant que le verrouillage n'est pas levé.",
+  "settingLockdownExitGestureTitle": "Geste de sortie du verrouillage",
+  "settingLockdownExitGestureDescription": "Des appuis rapides n'importe où désactivent le mode verrouillage, après le code PIN du kiosque s'il en existe un. Les variantes avec maintien nécessitent de maintenir le dernier appui. Une fois désactivé, seuls l'administration à distance ou Home Assistant peuvent le désactiver.",
+  "lockdownGestureNone": "Désactivé (à distance uniquement)",
+  "lockdownExplanation": "Le mode verrouillage rend le tableau de bord non interactif, arme toutes les protections du mode kiosque sans modifier vos paramètres de mode kiosque, et coupe la détection du mot de réveil tant qu'il est activé. Avec la protection de l'interface système activée (ci-dessus), le panneau de notifications et les applications récentes sont également bloqués. Home Assistant reçoit un interrupteur Mode verrouillage via ESPHome.",
+  "lockdownSearch": "Bouclier tactile à distance uniquement. Configurez-le depuis l'interface d'administration à distance ; ses autorisations se trouvent sous Autorisations système requises."
+}

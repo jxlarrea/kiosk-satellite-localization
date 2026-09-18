@@ -1,0 +1,9 @@
+{
+  "@@locale": "fr",
+  "offlineDashboard": "Tableau de bord indisponible",
+  "offlineNetwork": "Aucune connexion réseau",
+  "offlinePageHelp": "La page n'a pas pu être chargée.",
+  "offlineNetworkHelp": "Le tableau de bord reviendra dès que le réseau sera de retour.",
+  "offlineLost": "Connexion réseau perdue",
+  "offlineRestored": "Connexion réseau rétablie"
+}

@@ -1,0 +1,11 @@
+{
+  "@@locale": "fr",
+  "remoteReconnecting": "Reconnexion…",
+  "remoteConnectionLost": "La connexion à {name} a été perdue. Cette page reprend d'elle-même une fois la connexion rétablie.",
+  "remoteConnectionLostUnnamed": "La connexion au kiosque a été perdue. Cette page reprend d'elle-même une fois la connexion rétablie.",
+  "remoteReloadPage": "Recharger la page",
+  "remoteUpdated": "Kiosk Satellite a été mis à jour",
+  "remoteUpdatedHelp": "L'appareil exécute maintenant la version {version}{build}. Cette page appartient à la version précédente et se rechargera dans {seconds} s.",
+  "remoteBuild": " (build {build})",
+  "remoteReloadNow": "Recharger maintenant"
+}

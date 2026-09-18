@@ -1,0 +1,14 @@
+{
+  "@@locale": "fr",
+  "settingScreensaverDismissOnProximityTitle": "Fermer sur proximité",
+  "settingScreensaverDismissOnProximityDescription": "Surveiller le capteur de proximité tant que l'économiseur d'écran est actif et réveiller l'écran quand quelque chose s'approche de l'appareil. Un appareil équipé uniquement de capteurs conçus pour les appels (« paume », « toucher ») ne fonctionnera pas.",
+  "settingScreensaverDismissOnProximityScreenOffOnlyTitle": "Uniquement quand l'écran est éteint",
+  "settingScreensaverDismissOnProximityScreenOffOnlyDescription": "Garder l'économiseur d'écran visible quand quelque chose s'approche alors que l'écran est allumé. Une fois l'écran éteint, la détection réveille le tableau de bord. Toucher l'écran ferme toujours l'économiseur d'écran.",
+  "settingScreensaverPostponeOnProximityTitle": "Reporter l'économiseur d'écran sur proximité",
+  "settingScreensaverPostponeOnProximityDescription": "Retarder l'activation de l'économiseur d'écran tant que quelque chose est proche du capteur.",
+  "screensaverDetectionProximityPage": "Détection de proximité",
+  "screensaverDetectionProximityHint": "Fermer ou reporter l'économiseur d'écran via le capteur de proximité",
+  "screensaverDetectionNoProximity": "Non disponible sur cet appareil : il n'a pas de capteur de proximité.",
+  "screensaverDetectionSensor": "Capteur",
+  "screensaverDetectionSensorHelp": "Ce que l'appareil indique comme capteur de proximité. Un capteur conçu pour les appels nommé « paume » ou « toucher » ne fonctionnera pas."
+}

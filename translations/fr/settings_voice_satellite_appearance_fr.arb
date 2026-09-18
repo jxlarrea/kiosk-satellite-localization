@@ -1,0 +1,15 @@
+{
+  "@@locale": "fr",
+  "voiceAppearanceHint": "Habillage de la superposition, thème, barre d'activité, taille du texte",
+  "voiceSkin": "Habillage",
+  "voiceSkinHelp": "L'apparence de la superposition de l'assistant vocal.",
+  "voiceTheme": "Mode du thème",
+  "voiceThemeHelp": "Rendu clair ou sombre de la superposition.",
+  "voiceReactive": "Barre d'activité réactive",
+  "voiceReactiveHelp": "La barre d'activité réagit à l'audio. NON RECOMMANDÉ pour les appareils peu puissants comme l'Echo Show.",
+  "voiceRate": "Fréquence de mise à jour de la barre réactive",
+  "voiceRateHelp": "Fréquence de rafraîchissement de la barre d'activité. Plus élevé est plus fluide et utilise davantage le CPU.",
+  "voiceScaleHelp": "La taille du texte de la superposition.",
+  "voiceUpdateIntegration": "Mettez à jour l'intégration Voice Satellite dans Home Assistant pour contrôler ces paramètres depuis le kiosque.",
+  "voiceDashboardRequired": "Disponible tant que le kiosque affiche votre tableau de bord Home Assistant."
+}

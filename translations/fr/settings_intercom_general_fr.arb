@@ -1,0 +1,20 @@
+{
+  "@@locale": "fr",
+  "settingIntercomEnabledTitle": "Activer l'interphone",
+  "settingIntercomEnabledDescription": "Appeler les autres kiosques sur ce réseau et recevoir leurs appels.",
+  "settingIntercomKeyTitle": "Clé de l'interphone",
+  "settingIntercomKeyDescription": "Les kiosques ayant la même clé peuvent s'appeler entre eux. La Gestion de flotte peut la synchroniser.",
+  "settingIntercomKeyPlaceholder": "Créée lors de l'activation de l'interphone",
+  "settingIntercomMenuTitle": "Afficher dans le menu du kiosque",
+  "settingIntercomMenuDescription": "Ajoute une entrée Interphone au menu du kiosque.",
+  "intercomNeedsAdmin": "L'interphone nécessite l'administration à distance",
+  "intercomAdminHelp": "Les kiosques se trouvent et se joignent entre eux grâce à elle. Activez Gestion à distance et Trouver d'autres kiosques dans Appareil, puis revenez ici.",
+  "intercomChangeKey": "Changer la clé",
+  "intercomChangeKeyHelp": "Collez la clé d'un autre kiosque, ou créez-en une nouvelle.",
+  "intercomChange": "Changer",
+  "intercomKeyWarning": "Les kiosques ayant cette clé peuvent s'appeler entre eux. Une nouvelle clé coupe ce kiosque des autres jusqu'à ce qu'ils l'obtiennent aussi.",
+  "intercomRegenerate": "Régénérer",
+  "intercomKeyChanged": "Clé modifiée",
+  "intercomNotSet": "Non définie",
+  "intercomOpen": "Ouvrir"
+}

@@ -1,0 +1,13 @@
+{
+  "@@locale": "fr",
+  "settingSendspinLyricsEnabledTitle": "Activer les paroles",
+  "settingSendspinLyricsEnabledDescription": "Paroles synchronisées sur la vue Lecture en cours, pour toutes les sources de lecture.",
+  "settingSendspinLyricsSourceTitle": "Source des paroles",
+  "settingSendspinLyricsSourceDescription": "D'où proviennent les paroles. Music Assistant nécessite l'adresse du serveur et le jeton sur sa page.",
+  "settingSendspinLyricsFallbackTitle": "Repli sur Music Assistant",
+  "settingSendspinLyricsFallbackDescription": "Si LRCLIB est injoignable, Music Assistant est interrogé à la place. Nécessite la connexion à Music Assistant.",
+  "settingSendspinLyricsOffsetTitle": "Synchronisation des paroles",
+  "settingSendspinLyricsOffsetDescription": "Décaler les paroles par rapport à la musique. Positif affiche chaque ligne plus tôt, négatif plus tard. Utile pour ajuster les morceaux systématiquement décalés.",
+  "mediaLyricsPage": "Paroles",
+  "mediaLyricsHint": "Paroles synchronisées, leur source et leur synchronisation"
+}

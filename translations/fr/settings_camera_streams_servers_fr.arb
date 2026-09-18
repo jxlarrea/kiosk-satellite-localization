@@ -1,0 +1,17 @@
+{
+  "@@locale": "fr",
+  "cameraStreamsServers": "Serveurs Go2RTC",
+  "cameraStreamsImportStreams": "Importer les flux",
+  "cameraStreamsDeleteServer": "Supprimer le serveur",
+  "cameraStreamsAddServer": "Ajouter un serveur Go2RTC",
+  "cameraStreamsAddServerHelp": "Se connecter à un serveur et importer ses flux.",
+  "cameraStreamsEditServer": "Modifier le serveur",
+  "cameraStreamsName": "Nom",
+  "cameraStreamsBaseUrl": "URL de base",
+  "cameraStreamsUsername": "Nom d'utilisateur (facultatif)",
+  "cameraStreamsNewPassword": "Nouveau mot de passe (laisser vide pour conserver)",
+  "cameraStreamsPassword": "Mot de passe (facultatif)",
+  "cameraStreamsInvalidCertificate": "Autoriser un certificat TLS invalide",
+  "cameraStreamsSaveServerFailed": "Impossible d'enregistrer le serveur",
+  "cameraStreamsDeleteServerHelp": "Ses caméras seront retirées de toutes les vues."
+}
