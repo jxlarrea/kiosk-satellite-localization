@@ -4,5 +4,6 @@
   "setupQrTitle": "Scanner le code QR du jeton",
   "setupQrHelp": "Il apparaît à côté d'un jeton nouvellement créé dans votre profil Home Assistant.",
   "setupQrFlashOff": "Éteindre la lampe torche",
-  "setupQrFlashOn": "Allumer la lampe torche"
+  "setupQrFlashOn": "Allumer la lampe torche",
+  "setupQrFlipCamera": "Changer de caméra"
 }

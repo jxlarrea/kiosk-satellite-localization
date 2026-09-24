@@ -19920,5 +19920,11 @@
     "translation": "e40bb3afca60612d9f6b68ba7524559d6fe2fe488a1d7fe1e5cf06b9762aeddf",
     "author": "Xavier Larrea",
     "ownerAuthored": true
+  },
+  "setupQrFlipCamera": {
+    "source": "4adecbe21ae2cedd1c2e20101761e93daee2f2cef6745d9008c6fe48718db61e",
+    "translation": "235a0a9440bdc64030eb9224ac4e04fbce60a196e955dd2575f961a462262fe6",
+    "author": "Xavier Larrea",
+    "ownerAuthored": true
   }
 }

@@ -16583,5 +16583,10 @@
     "source": "8ab44f79e6a54a3391170334b83aa2b14c778b6016f05b68eb14679ef4d7a03f",
     "translation": "bf95e9cfab665ac2ffba68cb72d2909db4a4ac2f10e1ca56437a2d056eeeaa54",
     "author": "Xavier Larrea"
+  },
+  "setupQrFlipCamera": {
+    "source": "4adecbe21ae2cedd1c2e20101761e93daee2f2cef6745d9008c6fe48718db61e",
+    "translation": "4ac1fe067e6a5f26b0f2f062c4a4b78296826d725d64044dd61aacf04a37327a",
+    "author": "Xavier Larrea"
   }
 }

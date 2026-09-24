@@ -20105,5 +20105,11 @@
     "translation": "0729f1724d730e08f5f71714061735aa94919d03a689903c70cdb5e8a7cdde47",
     "author": "Xavier Larrea",
     "ownerAuthored": true
+  },
+  "setupQrFlipCamera": {
+    "source": "4adecbe21ae2cedd1c2e20101761e93daee2f2cef6745d9008c6fe48718db61e",
+    "translation": "698db1252f4d7487ba57b21bdacfec2252523938369ca4e961cee0946aabc91a",
+    "author": "Xavier Larrea",
+    "ownerAuthored": true
   }
 }

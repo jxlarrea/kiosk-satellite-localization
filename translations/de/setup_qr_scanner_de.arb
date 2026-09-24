@@ -4,5 +4,6 @@
   "setupQrTitle": "QR-Code des Tokens scannen",
   "setupQrHelp": "Er wird neben einem neu erstellten Token in deinem Home-Assistant-Profil angezeigt.",
   "setupQrFlashOff": "Taschenlampe ausschalten",
-  "setupQrFlashOn": "Taschenlampe einschalten"
+  "setupQrFlashOn": "Taschenlampe einschalten",
+  "setupQrFlipCamera": "Kamera wechseln"
 }

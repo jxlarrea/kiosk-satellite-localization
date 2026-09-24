@@ -4,5 +4,6 @@
   "setupQrTitle": "Escanea el código QR del token",
   "setupQrHelp": "Aparece junto a un token recién creado en tu perfil de Home Assistant.",
   "setupQrFlashOff": "Apagar la linterna",
-  "setupQrFlashOn": "Encender la linterna"
+  "setupQrFlashOn": "Encender la linterna",
+  "setupQrFlipCamera": "Cambiar de cámara"
 }
