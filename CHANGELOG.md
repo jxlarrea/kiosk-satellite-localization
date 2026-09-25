@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add the Weather Mood Show titles setting in Spanish, German, French and Ukrainian. The German, French and Ukrainian messages are maintainer additions.
+
 - Add the setup QR scanner's Flip camera button in Spanish, German and French. The German and French messages are maintainer additions.
 
 - Record the complete Ukrainian translation by kdinya from PR #7, with 3,318 reviewed messages and device and Remote Admin rendering checks. Apply 13 maintainer wording corrections while preserving contributor evidence and credit.

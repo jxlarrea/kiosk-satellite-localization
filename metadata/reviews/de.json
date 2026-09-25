@@ -20111,5 +20111,17 @@
     "translation": "698db1252f4d7487ba57b21bdacfec2252523938369ca4e961cee0946aabc91a",
     "author": "Xavier Larrea",
     "ownerAuthored": true
+  },
+  "settingScreensaverWeatherBarTitlesTitle": {
+    "source": "59c2d5454be38ec53364078c746a3f50de05ae5daf08766141629f98741fd5a1",
+    "translation": "909391fbb8901e525fac4c15fe60c89daad2e498b8519c6ee5809cc896b15724",
+    "author": "Xavier Larrea",
+    "ownerAuthored": true
+  },
+  "settingScreensaverWeatherBarTitlesDescription": {
+    "source": "3311c9e531a062ac1120d6525364195bf75fc062c6844f05ee4043029e544856",
+    "translation": "1b30e98ef0be19655bb03155c58660bf75d5fb0318b447c74bbbdac1b9593141",
+    "author": "Xavier Larrea",
+    "ownerAuthored": true
   }
 }

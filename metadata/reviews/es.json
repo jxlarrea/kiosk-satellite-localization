@@ -16588,5 +16588,15 @@
     "source": "4adecbe21ae2cedd1c2e20101761e93daee2f2cef6745d9008c6fe48718db61e",
     "translation": "4ac1fe067e6a5f26b0f2f062c4a4b78296826d725d64044dd61aacf04a37327a",
     "author": "Xavier Larrea"
+  },
+  "settingScreensaverWeatherBarTitlesTitle": {
+    "source": "59c2d5454be38ec53364078c746a3f50de05ae5daf08766141629f98741fd5a1",
+    "translation": "cf38860d8bdce064c2553ad8d31e2afa25e9531b84624b440ec56ab3dd7d952c",
+    "author": "Xavier Larrea"
+  },
+  "settingScreensaverWeatherBarTitlesDescription": {
+    "source": "3311c9e531a062ac1120d6525364195bf75fc062c6844f05ee4043029e544856",
+    "translation": "5745fb9f37667fdf2015350c832e037eaff5e046bf421274ef46074deda15e68",
+    "author": "Xavier Larrea"
   }
 }

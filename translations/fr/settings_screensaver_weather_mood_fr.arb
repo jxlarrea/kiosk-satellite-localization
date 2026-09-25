@@ -43,6 +43,8 @@
   "settingScreensaverWeatherBarColorDescription": "La couleur des informations météo.",
   "settingScreensaverWeatherBarOpacityTitle": "Opacité de l’arrière-plan",
   "settingScreensaverWeatherBarOpacityDescription": "Assombrir la barre inférieure pour que les informations météo restent lisibles.",
+  "settingScreensaverWeatherBarTitlesTitle": "Afficher les titres",
+  "settingScreensaverWeatherBarTitlesDescription": "Nommer chaque mesure au-dessus de sa valeur. Sans titres, les valeurs ont la taille de la température.",
   "screensaverWeatherBarHumidityDescription": "Afficher l’humidité lorsque l’entité météo la fournit.",
   "screensaverWeatherBarWindDescription": "Afficher la vitesse du vent lorsque l’entité météo la fournit.",
   "screensaverWeatherBarVisibilityDescription": "Afficher la visibilité lorsque l’entité météo la fournit.",

@@ -19971,5 +19971,17 @@
       "originalTranslation": "8c9957e50005315ac30922adcabd664ea26b22b6143943241af2ac90ae6b36c6",
       "reason": "Describe Black as a font weight rather than a color."
     }
+  },
+  "settingScreensaverWeatherBarTitlesTitle": {
+    "source": "59c2d5454be38ec53364078c746a3f50de05ae5daf08766141629f98741fd5a1",
+    "translation": "3caa4e3bec46cf1359befca14509e1fa26c338db533a2f49c02a9f3ef02c4fcc",
+    "author": "Xavier Larrea",
+    "ownerAuthored": true
+  },
+  "settingScreensaverWeatherBarTitlesDescription": {
+    "source": "3311c9e531a062ac1120d6525364195bf75fc062c6844f05ee4043029e544856",
+    "translation": "c68838adc8772cab7296e53657f1e2d95f031440af4869fa95f28bc368612d35",
+    "author": "Xavier Larrea",
+    "ownerAuthored": true
   }
 }
