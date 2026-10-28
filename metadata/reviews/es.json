@@ -23288,5 +23288,35 @@
     "source": "58bb1ad1ea074f8822f2cdc65695be9709a18428ce4005e2e0b4b1a388d6eeae",
     "translation": "b9537ae2f86c668e10f3a5187d84e036e48f2743fab8427c2fa97370e76f2e11",
     "author": "Xavier Larrea"
+  },
+  "settingScreensaverDashboardHideSidebarTitle": {
+    "source": "f3c4d03a53d0139a8bcf9d4f174948c366bceef1995585e363b2ad27d970a72a",
+    "translation": "ba9b922ec3ac1b593b74adc481202c15a394ead59b60307e8697bef91fc5145e",
+    "author": "Xavier Larrea"
+  },
+  "settingScreensaverDashboardHideHeaderDescription": {
+    "source": "4fc47a2b17a985a1356e5f0b9bf29f94084619f0e26ec787bbbd270f49031204",
+    "translation": "86707ba8eacf82680c2a2cd203a94e658249af65b742ba974ee3763f6f905132",
+    "author": "Xavier Larrea"
+  },
+  "settingScreensaverDashboardHideSidebarDescription": {
+    "source": "50101c984c8e706e0c36f478216958b11534bd6918784a95f024e168510a67fa",
+    "translation": "6dc6064d84371b97e2f88fbdc7082462d5c22f57fe1293eb9b4d1daac2141c55",
+    "author": "Xavier Larrea"
+  },
+  "settingScreensaverDashboardKioskDescription": {
+    "source": "116601f73dd734499743cc67df1e6315085afc90ed95bd3a88acb2918cc61465",
+    "translation": "79d936a3c98b2f8cf1ee660b0eeee076a1217e99e5d9f5dd2903bc331a017215",
+    "author": "Xavier Larrea"
+  },
+  "settingScreensaverDashboardHideHeaderTitle": {
+    "source": "25764333d0e49be43cba372dfe4572d74cbb804a33cce737873fc7eaac245e91",
+    "translation": "03380f61005a5e96c194a0fd8af9cf404946d57733607e1dbf481961d60638e2",
+    "author": "Xavier Larrea"
+  },
+  "settingScreensaverDashboardKioskTitle": {
+    "source": "815d5e6ae4ee75f839457ce076ea3540b54d640519ead8bf0d398d197dd1d7b1",
+    "translation": "7764fc67e58c351a20378bca1699de09b9fbcbcfe8b7e4ee4500567638d7cc9c",
+    "author": "Xavier Larrea"
   }
 }

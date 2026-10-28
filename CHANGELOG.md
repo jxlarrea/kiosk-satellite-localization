@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add HA kiosk mode override in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the switch in the Home Assistant Dashboard screensaver group, its description and the Hide the header and Hide the sidebar switches it reveals, on the device and in the remote admin. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
+
 - Add Home Assistant page in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the second line of Home Assistant's own pages, such as Energy, History and Media, in the dashboard pickers on the device and in the remote admin. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
 
 - Reword the system update help in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian so it names the device instead of the Echo Dot: the guidance below the release notes before a system update installs and the Overview's Needs attention entry for an available system update, now also shown on the Echo Show images. The previous messages are removed from every language. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.

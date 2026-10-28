@@ -28176,5 +28176,41 @@
     "translation": "85abce24413f05cf18c7443203b9dca97e4f3abcf0e90ff4bed7807d52875567",
     "author": "Xavier Larrea",
     "ownerAuthored": true
+  },
+  "settingScreensaverDashboardKioskDescription": {
+    "source": "116601f73dd734499743cc67df1e6315085afc90ed95bd3a88acb2918cc61465",
+    "translation": "90def7d6a91edb47c785e5e55d85810a837a55ea97eced34eae7b1a7a5a0f094",
+    "author": "Xavier Larrea",
+    "ownerAuthored": true
+  },
+  "settingScreensaverDashboardKioskTitle": {
+    "source": "815d5e6ae4ee75f839457ce076ea3540b54d640519ead8bf0d398d197dd1d7b1",
+    "translation": "185e0eff2701d0f8656d943fde6d3a4ce979f062b49146cda51678092b4bf282",
+    "author": "Xavier Larrea",
+    "ownerAuthored": true
+  },
+  "settingScreensaverDashboardHideSidebarTitle": {
+    "source": "f3c4d03a53d0139a8bcf9d4f174948c366bceef1995585e363b2ad27d970a72a",
+    "translation": "c2ddfa967cf13ee7c0eba0356c87329c717e045641f2ddf0d3f98cbc581622c2",
+    "author": "Xavier Larrea",
+    "ownerAuthored": true
+  },
+  "settingScreensaverDashboardHideSidebarDescription": {
+    "source": "50101c984c8e706e0c36f478216958b11534bd6918784a95f024e168510a67fa",
+    "translation": "8d413e94365f932dedbb3aa9699124310a95c19c15ba731ac1137aa78716e4dc",
+    "author": "Xavier Larrea",
+    "ownerAuthored": true
+  },
+  "settingScreensaverDashboardHideHeaderTitle": {
+    "source": "25764333d0e49be43cba372dfe4572d74cbb804a33cce737873fc7eaac245e91",
+    "translation": "47b2a9951959190487964f71c92633ed7fcfe6be751884d1cea9f1e33f74e006",
+    "author": "Xavier Larrea",
+    "ownerAuthored": true
+  },
+  "settingScreensaverDashboardHideHeaderDescription": {
+    "source": "4fc47a2b17a985a1356e5f0b9bf29f94084619f0e26ec787bbbd270f49031204",
+    "translation": "d438101c771eb5d2703f4599a4477d8c8cad1169e1043f48ebc52711a0002ac0",
+    "author": "Xavier Larrea",
+    "ownerAuthored": true
   }
 }
