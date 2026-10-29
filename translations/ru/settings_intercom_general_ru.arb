@@ -5,8 +5,6 @@
   "settingIntercomKeyTitle": "Ключ интеркома",
   "settingIntercomKeyDescription": "Киоски с одним ключом могут звонить друг другу. Управление группой киосков может его синхронизировать.",
   "settingIntercomKeyPlaceholder": "Создаётся при включении интеркома",
-  "settingIntercomMenuTitle": "Показывать в меню киоска",
-  "settingIntercomMenuDescription": "Добавить пункт «Интерком» в меню киоска.",
   "intercomNeedsAdmin": "Интеркому нужно удалённое администрирование",
   "intercomAdminHelp": "Через него киоски находят друг друга и связываются. Включите «Удалённое управление» и «Поиск других киосков» в разделе «Устройство», затем вернитесь.",
   "intercomChangeKey": "Изменить ключ",

@@ -6,8 +6,6 @@
   "settingCalendarWeekStartDescription": "Volgt de taal van het apparaat, tenzij ingesteld.",
   "settingCalendarWeatherEntityTitle": "Weer",
   "settingCalendarWeatherEntityDescription": "Voegt de weersverwachting aan elke dag toe.",
-  "settingCalendarMenuTitle": "Toon in het kioskmenu",
-  "settingCalendarMenuDescription": "Voeg de optie Agenda toe aan het kioskmenu.",
   "settingCalendarIdleCloseMinutesTitle": "Sluiten bij inactiviteit",
   "settingCalendarIdleCloseMinutesDescription": "Keert na zo lang zonder aanraking terug naar het dashboard.",
   "settingKioskAllowCalendarTitle": "Agenda",

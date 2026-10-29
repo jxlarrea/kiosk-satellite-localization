@@ -91,7 +91,6 @@
   "libraryGroupWith": "Mit {speaker} gruppieren",
   "libraryGroupHint": "Gruppierte Lautsprecher spielen dieselbe Musik synchron.",
   "libraryGroupName": "{speaker} + {count}",
-  "settingLibraryMenuDescription": "Fügt dem Kiosk-Menü den Eintrag „Musikbibliothek“ hinzu.",
   "settingKioskAllowMusicLibraryDescription": "Musik durchsuchen und auf einem Lautsprecher abspielen.",
   "libraryPageHint": "Musik durchsuchen und auf einem Lautsprecher abspielen",
   "settingLibrarySourceDescription": "Woher die Bibliothek Musik auflistet. Automatisch beginnt mit der Quelle des Lautsprechers, dem „Wird gespielt“ folgt.",

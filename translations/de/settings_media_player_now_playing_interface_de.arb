@@ -23,8 +23,6 @@
   "mediaReturnChosenView": "Gewählte Ansicht",
   "settingSendspinFullscreenReturnViewTitle": "Dashboard-Ansicht",
   "settingSendspinFullscreenReturnViewDescription": "Die Ansicht, die nach dem Schließen von „Jetzt läuft“ angezeigt wird.",
-  "settingSendspinFullscreenShortcutTitle": "Im Kiosk-Menü anzeigen",
-  "settingSendspinFullscreenShortcutDescription": "Fügt dem Kiosk-Menü einen Eintrag hinzu, um „Jetzt läuft“ anzuzeigen. WARNUNG: Wird nicht angezeigt, wenn für diesen Player weder eine Wiedergabe noch eine Warteschlange vorhanden ist.",
   "settingSendspinSpeakerPillTitle": "Lautsprecherauswahl anzeigen",
   "settingSendspinSpeakerPillDescription": "Zeigt die Lautsprecherauswahl 5 Sekunden lang nach einer Interaktion mit dem Bildschirm an. Damit können Lautsprecher zur aktuellen Gruppe hinzugefügt oder daraus entfernt werden.",
   "settingSendspinSpeakerPillPlayersTitle": "Lautsprecherauswahl filtern",

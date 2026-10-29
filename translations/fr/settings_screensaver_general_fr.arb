@@ -8,8 +8,6 @@
   "settingScreensaverModeDescription": "Ce que l'économiseur d'écran affiche après le délai d'inactivité. « Tamisé » se contente de baisser le rétroéclairage et laisse le tableau de bord à l'écran.",
   "settingScreensaverPixelShiftTitle": "Décalage de pixels",
   "settingScreensaverPixelShiftDescription": "Déplace légèrement l'image chaque minute pour protéger les écrans OLED. Sans effet pour l'économiseur d'écran noir, dont les pixels sont déjà éteints.",
-  "settingScreensaverMenuTitle": "Afficher dans le menu du kiosque",
-  "settingScreensaverMenuDescription": "Ajoute une entrée Démarrer l'économiseur d'écran au menu du kiosque.",
   "settingScreensaverFollowAnimationScaleTitle": "Suivre les paramètres d'animation d'Android",
   "settingScreensaverFollowAnimationScaleDescription": "Met en pause les économiseurs d'écran animés quand les animations d'Android sont désactivées.",
   "settingScreensaverDimLevelTitle": "Niveau de tamisage",

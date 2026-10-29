@@ -8,8 +8,6 @@
   "settingScreensaverModeDescription": "无操作达到设定时间后，屏保显示的内容。“调暗”只降低背光，仍会显示仪表盘。",
   "settingScreensaverPixelShiftTitle": "像素偏移",
   "settingScreensaverPixelShiftDescription": "每分钟轻微移动画面，保护 OLED 屏幕。不适用于黑屏屏保，其像素已关闭。",
-  "settingScreensaverMenuTitle": "在 Kiosk 菜单中显示",
-  "settingScreensaverMenuDescription": "在 Kiosk 菜单中添加“启动屏保”入口。",
   "settingScreensaverFollowAnimationScaleTitle": "跟随 Android 动画设置",
   "settingScreensaverFollowAnimationScaleDescription": "Android 动画关闭时暂停动态屏保。",
   "settingScreensaverDimLevelTitle": "调暗亮度",

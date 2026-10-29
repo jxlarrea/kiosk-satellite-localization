@@ -23,8 +23,6 @@
   "mediaReturnChosenView": "指定页面",
   "settingSendspinFullscreenReturnViewTitle": "仪表盘页面",
   "settingSendspinFullscreenReturnViewDescription": "关闭“正在播放”后显示的页面。",
-  "settingSendspinFullscreenShortcutTitle": "在 Kiosk 菜单中显示",
-  "settingSendspinFullscreenShortcutDescription": "在 Kiosk 菜单中添加显示“正在播放”页面的入口。注意：此播放器没有正在播放的内容或播放队列时，不会显示。",
   "settingSendspinSpeakerPillTitle": "显示扬声器选择按钮",
   "settingSendspinSpeakerPillDescription": "操作屏幕后，显示扬声器选择按钮 5 秒。可将扬声器加入当前播放组，或从组中移除。",
   "settingSendspinSpeakerPillPlayersTitle": "筛选扬声器选择按钮",

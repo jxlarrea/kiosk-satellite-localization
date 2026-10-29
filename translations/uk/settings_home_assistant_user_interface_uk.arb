@@ -6,8 +6,6 @@
   "settingHaKioskHideHeaderDescription": "Приховувати панель інструментів панелі керування та вкладки видів, доки увімкнено режим кіоска HA. Залиште вимкненим, якщо ви перемикаєте види із заголовка.",
   "settingHaKioskHideSidebarTitle": "Приховати бічну панель",
   "settingHaKioskHideSidebarDescription": "Приховувати навігаційну бічну панель, доки увімкнено режим кіоска HA.",
-  "settingHaKioskMenuTitle": "Показувати в меню кіоска",
-  "settingHaKioskMenuDescription": "Додати до меню кіоска пункт HA Kiosk Mode, що вмикає та вимикає його.",
   "settingHaDashboardCarouselTitle": "Увімкнути карусель панелі керування",
   "settingHaDashboardCarouselDescription": "Проведіть пальцем ліворуч або праворуч по панелі керування, щоб перемикатися між її видами. Проведення пальцем по повзунках, картах і прокручуваних картках не зачіпається.",
   "settingHaCarouselOverCardsTitle": "Перехоплювати жести проведення над картками",

@@ -6,8 +6,6 @@
   "settingScreensaverClockAlarmTakeoverDescription": "Будильник, що дзвонить, з'являється на цій заставці в її стилі, а не на окремому екрані.",
   "settingScreensaverWeatherAlarmTakeoverTitle": "Показувати будильники тут",
   "settingScreensaverWeatherAlarmTakeoverDescription": "Будильник, що дзвонить, з'являється на цій заставці в її стилі, а не на окремому екрані.",
-  "settingAlarmsMenuTitle": "Показувати в меню кіоска",
-  "settingAlarmsMenuDescription": "Додати пункт «Будильники» до меню кіоска.",
   "settingAlarmsVolumeTitle": "Гучність будильника",
   "settingAlarmsVolumeDescription": "Гучність будильників окремо від гучності медіа.",
   "settingAlarmsToneTitle": "Мелодія будильника",

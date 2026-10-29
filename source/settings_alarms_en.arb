@@ -78,32 +78,6 @@
       ]
     }
   },
-  "settingAlarmsMenuTitle": "Show in the kiosk menu",
-  "@settingAlarmsMenuTitle": {
-    "context": "Settings > Alarms",
-    "description": "Setting label.",
-    "x-locations": {
-      "device": [
-        "Settings > Alarms > Show in the kiosk menu"
-      ],
-      "remoteAdmin": [
-        "Alarms > Show in the kiosk menu"
-      ]
-    }
-  },
-  "settingAlarmsMenuDescription": "Add an Alarms entry to the kiosk menu.",
-  "@settingAlarmsMenuDescription": {
-    "context": "Settings > Alarms",
-    "description": "Setting description.",
-    "x-locations": {
-      "device": [
-        "Settings > Alarms > Show in the kiosk menu"
-      ],
-      "remoteAdmin": [
-        "Alarms > Show in the kiosk menu"
-      ]
-    }
-  },
   "settingAlarmsVolumeTitle": "Alarm volume",
   "@settingAlarmsVolumeTitle": {
     "context": "Settings > Alarms",

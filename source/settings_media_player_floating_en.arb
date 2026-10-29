@@ -104,32 +104,6 @@
       ]
     }
   },
-  "settingSendspinPlayerShortcutTitle": "Show in the kiosk menu",
-  "@settingSendspinPlayerShortcutTitle": {
-    "context": "Settings > Media Player > Floating Player",
-    "description": "Setting label.",
-    "x-locations": {
-      "device": [
-        "Settings > Media Player > Floating Player"
-      ],
-      "remoteAdmin": [
-        "Media Player > Floating Player"
-      ]
-    }
-  },
-  "settingSendspinPlayerShortcutDescription": "Add an entry in the kiosk menu that shows or hides the floating player. WARNING: If nothing is playing or there is no queue for this player, it won't show up.",
-  "@settingSendspinPlayerShortcutDescription": {
-    "context": "Settings > Media Player > Floating Player",
-    "description": "Help below this setting.",
-    "x-locations": {
-      "device": [
-        "Settings > Media Player > Floating Player"
-      ],
-      "remoteAdmin": [
-        "Media Player > Floating Player"
-      ]
-    }
-  },
   "mediaFloatingPage": "Floating Player",
   "@mediaFloatingPage": {
     "context": "Settings > Media Player > Floating Player",

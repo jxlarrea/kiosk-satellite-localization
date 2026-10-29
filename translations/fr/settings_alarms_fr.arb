@@ -6,8 +6,6 @@
   "settingScreensaverClockAlarmTakeoverDescription": "Une alarme qui sonne s'affiche sur cet économiseur d'écran, dans son style, au lieu de son propre écran.",
   "settingScreensaverWeatherAlarmTakeoverTitle": "Laisser les alarmes prendre le relais",
   "settingScreensaverWeatherAlarmTakeoverDescription": "Une alarme qui sonne s'affiche sur cet économiseur d'écran, dans son style, au lieu de son propre écran.",
-  "settingAlarmsMenuTitle": "Afficher dans le menu du kiosque",
-  "settingAlarmsMenuDescription": "Ajoute une entrée Alarmes au menu du kiosque.",
   "settingAlarmsVolumeTitle": "Volume des alarmes",
   "settingAlarmsVolumeDescription": "Volume des alarmes, indépendamment du volume multimédia.",
   "settingAlarmsToneTitle": "Sonnerie d'alarme",

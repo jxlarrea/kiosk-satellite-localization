@@ -27,5 +27,7 @@
   "drawerHoldHelp": "Schermbeveiliging en timers worden gepauzeerd · tik om uit te schakelen",
   "drawerThemeDark": "Donker",
   "drawerThemeLight": "Licht",
-  "drawerThemeAndroid": "Android volgen"
+  "drawerThemeAndroid": "Android volgen",
+  "drawerItemsSearch": "Menu-items zoeken",
+  "drawerItemsSettingsKept": "Altijd zichtbaar zolang beheer op afstand uit staat."
 }

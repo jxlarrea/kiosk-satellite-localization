@@ -6,8 +6,6 @@
   "settingHaKioskHideHeaderDescription": "Oculta la barra de herramientas del panel de control y las pestañas de las vistas mientras está activo el modo kiosko de HA. Déjalo desactivado si cambias de vista desde la cabecera.",
   "settingHaKioskHideSidebarTitle": "Ocultar la barra lateral",
   "settingHaKioskHideSidebarDescription": "Oculta la barra lateral de navegación mientras está activo el modo kiosko de HA.",
-  "settingHaKioskMenuTitle": "Mostrar en el menú del kiosko",
-  "settingHaKioskMenuDescription": "Añade una opción al menú del kiosko para activar y desactivar el modo kiosko de HA.",
   "settingHaDashboardCarouselTitle": "Activar el carrusel del panel de control",
   "settingHaDashboardCarouselDescription": "Desliza a izquierda o derecha sobre el panel de control para cambiar de vista. No afecta a los gestos sobre controles deslizantes, mapas y tarjetas con desplazamiento.",
   "settingHaCarouselOverCardsTitle": "Capturar deslizamientos sobre tarjetas",

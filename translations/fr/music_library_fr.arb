@@ -91,7 +91,6 @@
   "libraryGroupWith": "Grouper avec {speaker}",
   "libraryGroupHint": "Les enceintes groupées lisent la même musique de façon synchronisée.",
   "libraryGroupName": "{speaker} + {count}",
-  "settingLibraryMenuDescription": "Ajoute une entrée Bibliothèque musicale au menu du kiosque.",
   "settingKioskAllowMusicLibraryDescription": "Parcourir la musique et la lire sur une enceinte.",
   "libraryPageHint": "Parcourir la musique et la lire sur une enceinte",
   "settingLibrarySourceDescription": "D’où la bibliothèque liste la musique. Automatique commence par la source de l’enceinte suivie par En cours de lecture.",

@@ -27,5 +27,7 @@
   "drawerHoldHelp": "El protector de pantalla y los temporizadores están en pausa · toca para desactivar",
   "drawerThemeDark": "Oscuro",
   "drawerThemeLight": "Claro",
-  "drawerThemeAndroid": "Seguir Android"
+  "drawerThemeAndroid": "Seguir Android",
+  "drawerItemsSearch": "Buscar elementos del menú",
+  "drawerItemsSettingsKept": "Siempre visible mientras la administración remota está desactivada."
 }

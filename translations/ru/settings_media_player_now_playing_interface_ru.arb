@@ -23,8 +23,6 @@
   "mediaReturnChosenView": "Выбранный вид",
   "settingSendspinFullscreenReturnViewTitle": "Вид панели",
   "settingSendspinFullscreenReturnViewDescription": "Вид, который откроется после закрытия «Сейчас играет».",
-  "settingSendspinFullscreenShortcutTitle": "Показывать в меню киоска",
-  "settingSendspinFullscreenShortcutDescription": "Добавить в меню киоска пункт, показывающий вид «Сейчас играет». ВНИМАНИЕ: если ничего не воспроизводится или нет очереди, он не появится.",
   "settingSendspinSpeakerPillTitle": "Показывать бейдж выбора динамиков",
   "settingSendspinSpeakerPillDescription": "Показывает выбор динамиков на 5 секунд после касания экрана. Добавляйте или убирайте динамики из текущей группы.",
   "settingSendspinSpeakerPillPlayersTitle": "Фильтр бейджа выбора динамиков",

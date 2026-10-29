@@ -8,8 +8,6 @@
   "settingSendspinPausedHideMinutesDescription": "Hoelang een gepauzeerde speler zichtbaar blijft. Dit geldt voor zowel de zwevende speler als de weergave Speelt nu.",
   "settingSendspinDismissKeepsPlayingTitle": "Blijven afspelen na sluiten",
   "settingSendspinDismissKeepsPlayingDescription": "Veeg de zwevende speler van het scherm om deze te verbergen zonder de muziek te stoppen.",
-  "settingSendspinPlayerShortcutTitle": "Toon in het kioskmenu",
-  "settingSendspinPlayerShortcutDescription": "Voeg een menuoptie toe waarmee je de zwevende speler toont of verbergt. WAARSCHUWING: als er niets wordt afgespeeld en de wachtrij leeg is, verschijnt de speler niet.",
   "mediaFloatingPage": "Zwevende speler",
   "mediaFloatingHint": "De kleine kaart over het dashboard",
   "mediaCompact": "Compact",

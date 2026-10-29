@@ -28032,5 +28032,35 @@
     "translation": "90aab3e54a6b14e59c06a2ad8f418e3d5bb85ac0d4ab5017536ad1396d0161e4",
     "author": "Xavier Larrea",
     "ownerAuthored": true
+  },
+  "drawerItemsSettingsKept": {
+    "source": "3b00a517889f37608b33d3cef15a29b3e9ad7c874be023f08a6235c0d2bbd858",
+    "translation": "837f351aeb9fa801946ccb7b7bd56c89a9007a8003c900ad89760f25a8cc2c86",
+    "author": "Xavier Larrea",
+    "ownerAuthored": true
+  },
+  "drawerItemsSearch": {
+    "source": "c4afee1e2a807a1926a21f3c4c3cdffab1524446486e4fc400a7b92d644d7496",
+    "translation": "6b05bec1c2224223fb4b15c28a47c8353ed4a6479152db1dfc4716528de568f2",
+    "author": "Xavier Larrea",
+    "ownerAuthored": true
+  },
+  "settingUiDrawerItemsTitle": {
+    "source": "f3c0117bac0594bace8a7fdeb53fb7fc472f62ae856483e3b9c87c063f0f6c76",
+    "translation": "3713ad28258441b9ce216bcd2969f7c886683ac9a25050e20c9fd06ec39e796f",
+    "author": "Xavier Larrea",
+    "ownerAuthored": true
+  },
+  "settingUiDrawerItemsDescription": {
+    "source": "45a632b7eed3261b25119251bf99ea6811a2a2a890a3d201df53e514d097bcef",
+    "translation": "42dd0002beb2e658dc63a5bbc8e20bd40653373a8e988f90ef438dc061b18e45",
+    "author": "Xavier Larrea",
+    "ownerAuthored": true
+  },
+  "settingShowInKioskMenuTitle": {
+    "source": "10853374455655251c6b98e28f295a9644c333b7e7ea6ebdde71aab1dd361ffe",
+    "translation": "d297299b85a9b6ca264675848b57885a2172e37a49452601919e3ec5879ced6e",
+    "author": "Xavier Larrea",
+    "ownerAuthored": true
   }
 }

@@ -6,8 +6,6 @@
   "settingScreensaverClockAlarmTakeoverDescription": "闹钟响铃时，直接按当前屏保的样式显示闹钟，不再单独打开闹钟界面。",
   "settingScreensaverWeatherAlarmTakeoverTitle": "允许闹钟接管屏保",
   "settingScreensaverWeatherAlarmTakeoverDescription": "闹钟响铃时，直接按当前屏保的样式显示闹钟，不再单独打开闹钟界面。",
-  "settingAlarmsMenuTitle": "在 Kiosk 菜单中显示",
-  "settingAlarmsMenuDescription": "在 Kiosk 菜单中添加“闹钟”入口。",
   "settingAlarmsVolumeTitle": "闹钟音量",
   "settingAlarmsVolumeDescription": "闹钟响铃的音量，独立于媒体音量。",
   "settingAlarmsToneTitle": "闹钟铃声",

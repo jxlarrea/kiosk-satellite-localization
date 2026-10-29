@@ -5,8 +5,6 @@
   "settingIntercomKeyTitle": "Clave del intercomunicador",
   "settingIntercomKeyDescription": "Los kioskos con la misma clave pueden llamarse entre sí. La gestión de flota puede sincronizarla.",
   "settingIntercomKeyPlaceholder": "Se crea al activar el intercomunicador",
-  "settingIntercomMenuTitle": "Mostrar en el menú del kiosko",
-  "settingIntercomMenuDescription": "Añade la opción Intercomunicador al menú del kiosko.",
   "intercomNeedsAdmin": "El intercomunicador necesita la administración remota",
   "intercomAdminHelp": "Los kioskos se encuentran y se conectan a través de ella. Activa Administración remota y Buscar otros kioskos en Dispositivo y luego vuelve aquí.",
   "intercomChangeKey": "Cambiar clave",

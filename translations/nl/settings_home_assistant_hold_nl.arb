@@ -4,8 +4,6 @@
   "settingHaHoldModeDescription": "Houd de huidige weergave op het scherm. De schermbeveiliging, dashboardrotatie en timer voor terugkeer naar de startpagina worden gepauzeerd totdat je de wachtstand uitschakelt.",
   "settingHaHoldReleaseMinutesTitle": "Wachtstand automatisch beëindigen na",
   "settingHaHoldReleaseMinutesDescription": "Schakelt de wachtstand automatisch uit na de ingestelde tijd. Stel 0 in om de wachtstand handmatig uit te schakelen.",
-  "settingHaHoldMenuTitle": "Toon in het kioskmenu",
-  "settingHaHoldMenuDescription": "Voegt een menuoptie toe waarmee je de wachtstand in- en uitschakelt.",
   "haHoldHint": "Huidige weergave vasthouden, automatisch uitschakelen en menuoptie",
   "haNever": "Nooit",
   "haMinutes": "{minutes} min",

@@ -27,5 +27,7 @@
   "drawerHoldHelp": "Заставку й таймери призупинено · торкніться, щоб вимкнути",
   "drawerThemeDark": "Темна тема",
   "drawerThemeLight": "Світла тема",
-  "drawerThemeAndroid": "Системна тема"
+  "drawerThemeAndroid": "Системна тема",
+  "drawerItemsSearch": "Пошук пунктів меню",
+  "drawerItemsSettingsKept": "Завжди показується, поки віддалене адміністрування вимкнено."
 }

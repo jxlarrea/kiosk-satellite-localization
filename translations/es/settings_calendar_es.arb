@@ -6,8 +6,6 @@
   "settingCalendarWeekStartDescription": "Según el idioma del dispositivo, salvo que se elija otro día.",
   "settingCalendarWeatherEntityTitle": "Tiempo",
   "settingCalendarWeatherEntityDescription": "Añade la previsión a cada día.",
-  "settingCalendarMenuTitle": "Mostrar en el menú del kiosko",
-  "settingCalendarMenuDescription": "Añade la opción Calendario al menú del kiosko.",
   "settingCalendarIdleCloseMinutesTitle": "Cerrar si está inactivo",
   "settingCalendarIdleCloseMinutesDescription": "Vuelve al panel de control tras este tiempo sin tocar la pantalla.",
   "settingKioskAllowCalendarTitle": "Calendario",

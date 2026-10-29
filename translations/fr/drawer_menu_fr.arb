@@ -27,5 +27,7 @@
   "drawerHoldHelp": "L'économiseur d'écran et les minuteries sont en pause · appuyez pour désactiver",
   "drawerThemeDark": "Sombre",
   "drawerThemeLight": "Clair",
-  "drawerThemeAndroid": "Suivre Android"
+  "drawerThemeAndroid": "Suivre Android",
+  "drawerItemsSearch": "Rechercher des éléments du menu",
+  "drawerItemsSettingsKept": "Toujours affiché tant que l'administration à distance est désactivée."
 }

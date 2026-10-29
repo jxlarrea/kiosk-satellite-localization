@@ -27,5 +27,7 @@
   "drawerHoldHelp": "屏保和定时器已暂停 · 点击关闭",
   "drawerThemeDark": "深色",
   "drawerThemeLight": "浅色",
-  "drawerThemeAndroid": "跟随系统"
+  "drawerThemeAndroid": "跟随系统",
+  "drawerItemsSearch": "搜索菜单项",
+  "drawerItemsSettingsKept": "远程管理关闭时始终显示。"
 }

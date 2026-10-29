@@ -4,8 +4,6 @@
   "settingHaHoldModeDescription": "Mantiene la vista actual en pantalla. El protector de pantalla, la rotación de vistas y el temporizador de regreso al inicio quedan en pausa hasta desactivarlo.",
   "settingHaHoldReleaseMinutesTitle": "Terminar la pausa automáticamente después de",
   "settingHaHoldReleaseMinutesDescription": "Desactiva el modo de pausa al cumplirse el tiempo indicado. Con 0, continúa hasta desactivarlo manualmente.",
-  "settingHaHoldMenuTitle": "Mostrar en el menú del kiosko",
-  "settingHaHoldMenuDescription": "Añade una opción al menú para activar y desactivar el modo de pausa.",
   "haHoldHint": "Mantiene la vista actual, finalización automática y opción de menú",
   "haNever": "Nunca",
   "haMinutes": "{minutes} min",

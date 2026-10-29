@@ -4,8 +4,6 @@
   "settingSendspinMaUrlDescription": "Music Assistant 网页界面中显示的服务器地址，通常使用 https 和端口 8095。",
   "settingSendspinMaTokenTitle": "身份验证令牌",
   "settingSendspinMaTokenDescription": "从 Music Assistant（设置 > 用户）获取的长期令牌。歌词仅需读取权限；Kiosk 菜单快捷入口会以此令牌所属用户打开网页界面。",
-  "settingSendspinMaShortcutTitle": "在 Kiosk 菜单中显示",
-  "settingSendspinMaShortcutDescription": "在 Kiosk 菜单中添加 Music Assistant 入口，在仪表盘上方打开服务器网页界面。需要填写上方服务器地址。",
   "settingSendspinMaOpenFullscreenTitle": "直接打开“正在播放”",
   "settingSendspinMaOpenFullscreenDescription": "通过 Kiosk 菜单或“打开 Music Assistant”手势打开 Music Assistant 的全屏播放器。",
   "settingSendspinMaAutoCloseTitle": "无操作后关闭",

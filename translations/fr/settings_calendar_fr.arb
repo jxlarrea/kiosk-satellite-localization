@@ -6,8 +6,6 @@
   "settingCalendarWeekStartDescription": "Suit la langue de l'appareil, sauf choix contraire.",
   "settingCalendarWeatherEntityTitle": "Météo",
   "settingCalendarWeatherEntityDescription": "Ajoute la prévision à chaque jour.",
-  "settingCalendarMenuTitle": "Afficher dans le menu du kiosque",
-  "settingCalendarMenuDescription": "Ajoute une entrée Calendrier au menu du kiosque.",
   "settingCalendarIdleCloseMinutesTitle": "Fermer en cas d'inactivité",
   "settingCalendarIdleCloseMinutesDescription": "Revient au tableau de bord après ce délai sans contact.",
   "settingKioskAllowCalendarTitle": "Calendrier",

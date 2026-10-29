@@ -2,8 +2,6 @@
   "@@locale": "es",
   "settingLockdownEnabledTitle": "Activar modo de bloqueo",
   "settingLockdownEnabledDescription": "Desactiva las interacciones con la pantalla hasta que se desactive desde Home Assistant o con el gesto de salida.",
-  "settingLockdownMenuTitle": "Mostrar en el menú del kiosko",
-  "settingLockdownMenuDescription": "Añade una opción de modo de bloqueo al menú del kiosko para bloquear la pantalla. Usa el gesto de salida, la administración remota o Home Assistant para desbloquearla.",
   "settingLockdownBlackoutTitle": "Pantalla en negro",
   "settingLockdownBlackoutDescription": "Pone la pantalla en negro mientras está bloqueada.",
   "settingLockdownAllowScreensaverTitle": "Permitir el protector de pantalla",

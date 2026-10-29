@@ -5,8 +5,6 @@
   "settingIntercomKeyTitle": "Clé de l'interphone",
   "settingIntercomKeyDescription": "Les kiosques ayant la même clé peuvent s'appeler entre eux. La Gestion de flotte peut la synchroniser.",
   "settingIntercomKeyPlaceholder": "Créée lors de l'activation de l'interphone",
-  "settingIntercomMenuTitle": "Afficher dans le menu du kiosque",
-  "settingIntercomMenuDescription": "Ajoute une entrée Interphone au menu du kiosque.",
   "intercomNeedsAdmin": "L'interphone nécessite l'administration à distance",
   "intercomAdminHelp": "Les kiosques se trouvent et se joignent entre eux grâce à elle. Activez Gestion à distance et Trouver d'autres kiosques dans Appareil, puis revenez ici.",
   "intercomChangeKey": "Changer la clé",

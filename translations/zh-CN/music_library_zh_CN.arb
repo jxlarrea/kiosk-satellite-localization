@@ -91,7 +91,6 @@
   "libraryGroupWith": "与 {speaker} 编组",
   "libraryGroupHint": "编组的扬声器会同步播放同一音乐。",
   "libraryGroupName": "{speaker} + {count}",
-  "settingLibraryMenuDescription": "在 Kiosk 菜单中添加“音乐库”入口。",
   "settingKioskAllowMusicLibraryDescription": "浏览音乐并在扬声器上播放。",
   "libraryPageHint": "浏览音乐并在扬声器上播放",
   "settingLibrarySourceDescription": "音乐库从哪里列出音乐。“自动”从“正在播放”所跟随扬声器的来源开始。",

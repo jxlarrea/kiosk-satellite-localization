@@ -4,8 +4,6 @@
   "settingSendspinMaUrlDescription": "Die Adresse des Music-Assistant-Servers, wie sie in dessen Weboberfläche angezeigt wird. Üblicherweise wird HTTPS mit Port 8095 verwendet.",
   "settingSendspinMaTokenTitle": "Authentifizierungs-Token",
   "settingSendspinMaTokenDescription": "Ein Langzeit-Token aus Music Assistant unter Einstellungen und anschließend Benutzer. Für Songtexte reicht Leserechte-Zugriff aus. Der Menüeintrag im Kiosk-Menü öffnet die Weboberfläche mit dem Benutzer, zu dem das Token gehört.",
-  "settingSendspinMaShortcutTitle": "Im Kiosk-Menü anzeigen",
-  "settingSendspinMaShortcutDescription": "Fügt dem Kiosk-Menü einen Eintrag für Music Assistant hinzu, um die Weboberfläche des Servers über dem Dashboard zu öffnen. Erfordert die oben angegebene Serveradresse.",
   "settingSendspinMaOpenFullscreenTitle": "Direkt „Jetzt läuft“ öffnen",
   "settingSendspinMaOpenFullscreenDescription": "Öffnet den Vollbild-Player von Music Assistant über das Kiosk-Menü oder die Geste „Music Assistant öffnen“.",
   "settingSendspinMaAutoCloseTitle": "Nach Inaktivität schließen",

@@ -27,5 +27,7 @@
   "drawerHoldHelp": "Заставка и таймеры приостановлены · нажмите, чтобы выключить",
   "drawerThemeDark": "Тёмная",
   "drawerThemeLight": "Светлая",
-  "drawerThemeAndroid": "Как в Android"
+  "drawerThemeAndroid": "Как в Android",
+  "drawerItemsSearch": "Поиск пунктов меню",
+  "drawerItemsSettingsKept": "Всегда показывается, пока удалённое администрирование выключено."
 }

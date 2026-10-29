@@ -27,5 +27,8 @@
   "deviceToastMusicLibrary": "Muziekbibliotheek",
   "deviceToastIntercom": "Intercom",
   "deviceToastAppLauncher": "Appstarter",
-  "deviceToastPlugins": "Plug-inacties"
+  "deviceToastPlugins": "Plug-inacties",
+  "settingUiDrawerItemsTitle": "Items in het zijmenu",
+  "settingUiDrawerItemsDescription": "Kies welke items het zijmenu toont en in welke volgorde.",
+  "settingShowInKioskMenuTitle": "Toon in het kioskmenu"
 }

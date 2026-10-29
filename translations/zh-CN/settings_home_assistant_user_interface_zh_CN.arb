@@ -6,8 +6,6 @@
   "settingHaKioskHideHeaderDescription": "HA Kiosk 模式开启时，隐藏仪表盘工具栏和页面标签。如需从顶栏切换页面，请关闭此项。",
   "settingHaKioskHideSidebarTitle": "隐藏侧边栏",
   "settingHaKioskHideSidebarDescription": "HA Kiosk 模式开启时隐藏导航侧边栏。",
-  "settingHaKioskMenuTitle": "在 Kiosk 菜单中显示",
-  "settingHaKioskMenuDescription": "在 Kiosk 菜单中添加可开启和关闭 HA Kiosk 模式的入口。",
   "settingHaDashboardCarouselTitle": "启用仪表盘滑动切换",
   "settingHaDashboardCarouselDescription": "在仪表盘上左右滑动可切换页面。在滑块、地图或可滚动卡片上滑动时，仍执行控件自身的操作。",
   "settingHaCarouselOverCardsTitle": "捕获卡片上的滑动手势",

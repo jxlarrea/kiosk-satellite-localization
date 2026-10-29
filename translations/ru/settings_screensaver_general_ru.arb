@@ -8,8 +8,6 @@
   "settingScreensaverModeDescription": "Что показывает заставка после тайм-аута. «Затемнение» лишь снижает подсветку, оставляя панель на экране.",
   "settingScreensaverPixelShiftTitle": "Сдвиг пикселей",
   "settingScreensaverPixelShiftDescription": "Сдвигать изображение каждую минуту для защиты OLED-панелей. Не для чёрной заставки, у которой пиксели уже выключены.",
-  "settingScreensaverMenuTitle": "Показывать в меню киоска",
-  "settingScreensaverMenuDescription": "Добавить пункт «Запустить заставку» в меню киоска.",
   "settingScreensaverFollowAnimationScaleTitle": "Следовать настройкам анимации Android",
   "settingScreensaverFollowAnimationScaleDescription": "Приостанавливать анимированные заставки, когда анимация Android выключена.",
   "settingScreensaverDimLevelTitle": "Уровень затемнения",

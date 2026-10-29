@@ -52,32 +52,6 @@
       ]
     }
   },
-  "settingSendspinMaShortcutTitle": "Show in the kiosk menu",
-  "@settingSendspinMaShortcutTitle": {
-    "context": "Settings > Media Player > Music Assistant",
-    "description": "Setting label.",
-    "x-locations": {
-      "device": [
-        "Settings > Media Player > Music Assistant"
-      ],
-      "remoteAdmin": [
-        "Media Player > Music Assistant"
-      ]
-    }
-  },
-  "settingSendspinMaShortcutDescription": "Add a Music Assistant entry to the kiosk menu, opening the server's web interface over the dashboard. Needs the server address above.",
-  "@settingSendspinMaShortcutDescription": {
-    "context": "Settings > Media Player > Music Assistant",
-    "description": "Help below this setting.",
-    "x-locations": {
-      "device": [
-        "Settings > Media Player > Music Assistant"
-      ],
-      "remoteAdmin": [
-        "Media Player > Music Assistant"
-      ]
-    }
-  },
   "settingSendspinMaOpenFullscreenTitle": "Open directly to Now Playing",
   "@settingSendspinMaOpenFullscreenTitle": {
     "context": "Settings > Media Player > Music Assistant",

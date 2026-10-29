@@ -6,8 +6,6 @@
   "settingCalendarWeekStartDescription": "Folgt der Gerätesprache, sofern nicht festgelegt.",
   "settingCalendarWeatherEntityTitle": "Wetter",
   "settingCalendarWeatherEntityDescription": "Zeigt die Vorhersage für jeden Tag.",
-  "settingCalendarMenuTitle": "Im Kiosk-Menü anzeigen",
-  "settingCalendarMenuDescription": "Fügt dem Kiosk-Menü den Eintrag „Kalender“ hinzu.",
   "settingCalendarIdleCloseMinutesTitle": "Bei Inaktivität schließen",
   "settingCalendarIdleCloseMinutesDescription": "Kehrt nach dieser Zeit ohne Berührung zum Dashboard zurück.",
   "settingKioskAllowCalendarTitle": "Kalender",

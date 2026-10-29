@@ -2,8 +2,6 @@
   "@@locale": "uk",
   "settingLockdownEnabledTitle": "Увімкнути режим блокування",
   "settingLockdownEnabledDescription": "Вимикає взаємодію з екраном, доки його не буде вимкнено через Home Assistant або за допомогою жесту виходу.",
-  "settingLockdownMenuTitle": "Показувати в меню кіоска",
-  "settingLockdownMenuDescription": "Додати пункт режиму блокування до меню кіоска, який блокує екран. Використовуйте жест виходу, віддалене адміністрування або Home Assistant для розблокування.",
   "settingLockdownBlackoutTitle": "Затемнення екрана",
   "settingLockdownBlackoutDescription": "Робить екран чорним під час блокування.",
   "settingLockdownAllowScreensaverTitle": "Дозволити заставку",

@@ -20,26 +20,6 @@
       ]
     }
   },
-  "settingLockdownMenuTitle": "Show in the kiosk menu",
-  "@settingLockdownMenuTitle": {
-    "context": "Lockdown Mode > Show in the kiosk menu",
-    "description": "Setting label.",
-    "x-locations": {
-      "remoteAdmin": [
-        "Lockdown Mode > Show in the kiosk menu"
-      ]
-    }
-  },
-  "settingLockdownMenuDescription": "Add a Lockdown Mode entry to the kiosk menu that locks the screen. Use the exit gesture, Remote Admin or Home Assistant to unlock it.",
-  "@settingLockdownMenuDescription": {
-    "context": "Lockdown Mode > Show in the kiosk menu",
-    "description": "Help below this setting.",
-    "x-locations": {
-      "remoteAdmin": [
-        "Lockdown Mode > Show in the kiosk menu"
-      ]
-    }
-  },
   "settingLockdownBlackoutTitle": "Blackout screen",
   "@settingLockdownBlackoutTitle": {
     "context": "Lockdown Mode > Blackout screen",

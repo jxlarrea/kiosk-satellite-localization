@@ -4,8 +4,6 @@
   "settingSendspinMaUrlDescription": "La dirección del servidor Music Assistant, tal como aparece en su interfaz web. Normalmente usa https y el puerto 8095.",
   "settingSendspinMaTokenTitle": "Token de autenticación",
   "settingSendspinMaTokenDescription": "Un token de larga duración de Music Assistant, en Settings y luego Users. El acceso de lectura es suficiente para las letras. El acceso directo del menú del kiosko abre la interfaz web con el usuario al que pertenece el token.",
-  "settingSendspinMaShortcutTitle": "Mostrar en el menú del kiosko",
-  "settingSendspinMaShortcutDescription": "Añade una entrada de Music Assistant al menú del kiosko para abrir la interfaz web del servidor sobre el panel de control. Requiere la dirección del servidor indicada arriba.",
   "settingSendspinMaOpenFullscreenTitle": "Abrir directamente Reproduciendo Ahora",
   "settingSendspinMaOpenFullscreenDescription": "Abre el reproductor de pantalla completa de Music Assistant desde el menú del kiosko o con el gesto Abrir Music Assistant.",
   "settingSendspinMaAutoCloseTitle": "Cerrar tras inactividad",

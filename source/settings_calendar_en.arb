@@ -78,32 +78,6 @@
       ]
     }
   },
-  "settingCalendarMenuTitle": "Show in the kiosk menu",
-  "@settingCalendarMenuTitle": {
-    "context": "Settings > Calendar > Kiosk",
-    "description": "Setting label.",
-    "x-locations": {
-      "device": [
-        "Settings > Calendar > Show in the kiosk menu"
-      ],
-      "remoteAdmin": [
-        "Calendar > Show in the kiosk menu"
-      ]
-    }
-  },
-  "settingCalendarMenuDescription": "Add a Calendar entry to the kiosk menu.",
-  "@settingCalendarMenuDescription": {
-    "context": "Settings > Calendar > Kiosk",
-    "description": "Setting description.",
-    "x-locations": {
-      "device": [
-        "Settings > Calendar > Show in the kiosk menu"
-      ],
-      "remoteAdmin": [
-        "Calendar > Show in the kiosk menu"
-      ]
-    }
-  },
   "settingCalendarIdleCloseMinutesTitle": "Close when idle",
   "@settingCalendarIdleCloseMinutesTitle": {
     "context": "Settings > Calendar > Kiosk",

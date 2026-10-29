@@ -6,8 +6,6 @@
   "settingHaKioskHideHeaderDescription": "Verberg de dashboardwerkbalk en tabbladen met weergaven zolang de HA-kioskmodus actief is. Schakel dit niet in als je via de kopbalk tussen weergaven wisselt.",
   "settingHaKioskHideSidebarTitle": "Zijbalk verbergen",
   "settingHaKioskHideSidebarDescription": "Verberg de navigatiezijbalk zolang de HA-kioskmodus actief is.",
-  "settingHaKioskMenuTitle": "Toon in het kioskmenu",
-  "settingHaKioskMenuDescription": "Voeg een menuoptie toe waarmee je de HA-kioskmodus in- en uitschakelt.",
   "settingHaDashboardCarouselTitle": "Dashboardcarrousel inschakelen",
   "settingHaDashboardCarouselDescription": "Veeg op het dashboard naar links of rechts om tussen de weergaven te wisselen. Veegbewegingen op schuifregelaars, plattegronden en kaarten waarin je kunt scrollen blijven ongemoeid.",
   "settingHaCarouselOverCardsTitle": "Veegbewegingen boven kaarten opvangen",

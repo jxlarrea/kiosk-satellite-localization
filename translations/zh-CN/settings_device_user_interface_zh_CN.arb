@@ -27,5 +27,8 @@
   "deviceToastMusicLibrary": "音乐库",
   "deviceToastIntercom": "对讲",
   "deviceToastAppLauncher": "应用启动器",
-  "deviceToastPlugins": "插件操作"
+  "deviceToastPlugins": "插件操作",
+  "settingUiDrawerItemsTitle": "抽屉菜单项",
+  "settingUiDrawerItemsDescription": "选择抽屉菜单显示的项目及其顺序。",
+  "settingShowInKioskMenuTitle": "在 Kiosk 菜单中显示"
 }

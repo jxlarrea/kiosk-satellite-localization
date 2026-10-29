@@ -23,8 +23,6 @@
   "mediaReturnChosenView": "Vue choisie",
   "settingSendspinFullscreenReturnViewTitle": "Vue du tableau de bord",
   "settingSendspinFullscreenReturnViewDescription": "La vue affichée après la fermeture de Lecture en cours.",
-  "settingSendspinFullscreenShortcutTitle": "Afficher dans le menu du kiosque",
-  "settingSendspinFullscreenShortcutDescription": "Ajoute une entrée dans le menu du kiosque qui affiche la vue Lecture en cours. ATTENTION : si rien n'est en cours de lecture ou qu'il n'y a pas de file d'attente pour ce lecteur, elle n'apparaîtra pas.",
   "settingSendspinSpeakerPillTitle": "Afficher la pastille de sélection des enceintes",
   "settingSendspinSpeakerPillDescription": "Affiche la sélection des enceintes pendant 5 secondes après une interaction avec l'écran. Ajoutez ou retirez des enceintes du groupe actuel.",
   "settingSendspinSpeakerPillPlayersTitle": "Filtrer la pastille de sélection des enceintes",

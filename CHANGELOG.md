@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add Drawer menu items in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the row in the User Interface group on the Device page that picks and orders the drawer menu's entries, its description, the picker's search hint and the note under Settings while the remote admin is off, plus the Show in the kiosk menu rows on the feature pages that open it, on the device and in the remote admin. The Show in the kiosk menu switches each feature page had are removed from every language. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
+
 - Add HA kiosk mode override in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the switch in the Home Assistant Dashboard screensaver group, its description and the Hide the header and Hide the sidebar switches it reveals, on the device and in the remote admin. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
 
 - Add Home Assistant page in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the second line of Home Assistant's own pages, such as Energy, History and Media, in the dashboard pickers on the device and in the remote admin. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.

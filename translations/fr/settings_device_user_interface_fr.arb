@@ -27,5 +27,8 @@
   "deviceToastMusicLibrary": "Bibliothèque musicale",
   "deviceToastIntercom": "Interphone",
   "deviceToastAppLauncher": "Lanceur d'applications",
-  "deviceToastPlugins": "Actions des plugins"
+  "deviceToastPlugins": "Actions des plugins",
+  "settingUiDrawerItemsTitle": "Éléments du menu latéral",
+  "settingUiDrawerItemsDescription": "Choisissez les éléments affichés dans le menu latéral et leur ordre.",
+  "settingShowInKioskMenuTitle": "Afficher dans le menu du kiosque"
 }

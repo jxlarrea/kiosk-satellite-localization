@@ -8,8 +8,6 @@
   "settingScreensaverModeDescription": "Qué muestra el protector de pantalla tras el tiempo de inactividad. Atenuar solo reduce la iluminación y mantiene visible el panel de control.",
   "settingScreensaverPixelShiftTitle": "Desplazamiento de píxeles",
   "settingScreensaverPixelShiftDescription": "Mueve ligeramente la imagen cada minuto para proteger las pantallas OLED. No se aplica al protector de pantalla Negro, cuyos píxeles ya están apagados.",
-  "settingScreensaverMenuTitle": "Mostrar en el menú del kiosko",
-  "settingScreensaverMenuDescription": "Añade la opción Iniciar protector de pantalla al menú del kiosko.",
   "settingScreensaverFollowAnimationScaleTitle": "Seguir los ajustes de animación de Android",
   "settingScreensaverFollowAnimationScaleDescription": "Pausa los protectores de pantalla animados cuando las animaciones de Android están desactivadas.",
   "settingScreensaverDimLevelTitle": "Nivel de atenuación",

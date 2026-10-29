@@ -6,8 +6,6 @@
   "settingHaKioskHideHeaderDescription": "Blendet die Dashboard-Symbolleiste und die Registerkarten der Ansichten aus, solange der HA-Kioskmodus aktiv ist. Lass diese Option deaktiviert, wenn du Ansichten über die Kopfzeile wechselst.",
   "settingHaKioskHideSidebarTitle": "Seitenleiste ausblenden",
   "settingHaKioskHideSidebarDescription": "Blendet die Navigations-Seitenleiste aus, solange der HA-Kioskmodus aktiv ist.",
-  "settingHaKioskMenuTitle": "Im Kiosk-Menü anzeigen",
-  "settingHaKioskMenuDescription": "Fügt dem Kiosk-Menü eine Option zum Aktivieren und Deaktivieren des HA-Kioskmodus hinzu.",
   "settingHaDashboardCarouselTitle": "Dashboard-Karussell aktivieren",
   "settingHaDashboardCarouselDescription": "Wische auf dem Dashboard nach links oder rechts, um die Ansicht zu wechseln. Gesten auf Schiebereglern, Karten mit Bildlauf und Karten mit Kartenmaterial bleiben davon unberührt.",
   "settingHaCarouselOverCardsTitle": "Wischgesten über Karten erfassen",

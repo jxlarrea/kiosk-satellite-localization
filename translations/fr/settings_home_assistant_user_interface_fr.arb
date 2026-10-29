@@ -6,8 +6,6 @@
   "settingHaKioskHideHeaderDescription": "Masquer la barre d'outils du tableau de bord et les onglets de vue tant que le mode kiosque HA est activé. Laissez désactivé si vous changez de vue depuis l'en-tête.",
   "settingHaKioskHideSidebarTitle": "Masquer la barre latérale",
   "settingHaKioskHideSidebarDescription": "Masquer la barre de navigation latérale tant que le mode kiosque HA est activé.",
-  "settingHaKioskMenuTitle": "Afficher dans le menu du kiosque",
-  "settingHaKioskMenuDescription": "Ajouter une entrée Mode kiosque HA au menu du kiosque pour l'activer et le désactiver.",
   "settingHaDashboardCarouselTitle": "Activer le carrousel de tableau de bord",
   "settingHaDashboardCarouselDescription": "Balayez vers la gauche ou la droite sur le tableau de bord pour passer d'une vue à l'autre. Les balayages sur les curseurs, cartes et éléments défilants ne sont pas concernés.",
   "settingHaCarouselOverCardsTitle": "Capturer les balayages sur les cartes",

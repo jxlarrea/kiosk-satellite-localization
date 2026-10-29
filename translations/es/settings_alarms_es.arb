@@ -6,8 +6,6 @@
   "settingScreensaverClockAlarmTakeoverDescription": "Una alarma que suena se muestra en este protector de pantalla, con su estilo, en lugar de en su propia pantalla.",
   "settingScreensaverWeatherAlarmTakeoverTitle": "Dejar que las alarmas tomen el control",
   "settingScreensaverWeatherAlarmTakeoverDescription": "Una alarma que suena se muestra en este protector de pantalla, con su estilo, en lugar de en su propia pantalla.",
-  "settingAlarmsMenuTitle": "Mostrar en el menú del kiosko",
-  "settingAlarmsMenuDescription": "Añade la opción Alarmas al menú del kiosko.",
   "settingAlarmsVolumeTitle": "Volumen de alarma",
   "settingAlarmsVolumeDescription": "Volumen de las alarmas, independiente del volumen multimedia.",
   "settingAlarmsToneTitle": "Tono de alarma",

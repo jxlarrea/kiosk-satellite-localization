@@ -91,7 +91,6 @@
   "libraryGroupWith": "Групувати з {speaker}",
   "libraryGroupHint": "Згруповані динаміки синхронно відтворюють ту саму музику.",
   "libraryGroupName": "{speaker} + {count}",
-  "settingLibraryMenuDescription": "Додати пункт «Музична бібліотека» до меню кіоска.",
   "settingKioskAllowMusicLibraryDescription": "Переглядати музику та відтворювати її на динаміку.",
   "libraryPageHint": "Перегляд музики та відтворення на динаміку",
   "settingLibrarySourceDescription": "Звідки бібліотека бере музику. «Автоматично» починає з джерела динаміка, за яким стежить «Зараз грає».",

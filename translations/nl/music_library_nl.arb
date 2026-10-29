@@ -91,7 +91,6 @@
   "libraryGroupWith": "Groeperen met {speaker}",
   "libraryGroupHint": "Gegroepeerde luidsprekers spelen dezelfde muziek synchroon af.",
   "libraryGroupName": "{speaker} + {count}",
-  "settingLibraryMenuDescription": "Voeg de optie Muziekbibliotheek toe aan het kioskmenu.",
   "settingKioskAllowMusicLibraryDescription": "Muziek bladeren en afspelen op een luidspreker.",
   "libraryPageHint": "Muziek bladeren en afspelen op een luidspreker",
   "settingLibrarySourceDescription": "Waar de bibliotheek muziek vandaan haalt. Automatisch begint met de bron van de luidspreker die Nu aan het afspelen volgt.",

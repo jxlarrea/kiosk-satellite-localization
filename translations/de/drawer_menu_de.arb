@@ -27,5 +27,7 @@
   "drawerHoldHelp": "Bildschirmschoner und Timer sind pausiert · Tippen zum Deaktivieren",
   "drawerThemeDark": "Dunkel",
   "drawerThemeLight": "Hell",
-  "drawerThemeAndroid": "Android-Einstellung verwenden"
+  "drawerThemeAndroid": "Android-Einstellung verwenden",
+  "drawerItemsSearch": "Menüeinträge suchen",
+  "drawerItemsSettingsKept": "Immer sichtbar, solange die Fernverwaltung ausgeschaltet ist."
 }

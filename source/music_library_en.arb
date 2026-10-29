@@ -984,19 +984,6 @@
       }
     }
   },
-  "settingLibraryMenuDescription": "Add a Music Library entry to the kiosk menu.",
-  "@settingLibraryMenuDescription": {
-    "context": "Music Library",
-    "description": "Setting description.",
-    "x-locations": {
-      "device": [
-        "Settings > Media Player > Music Library"
-      ],
-      "remoteAdmin": [
-        "Media Player > Music Library"
-      ]
-    }
-  },
   "settingKioskAllowMusicLibraryDescription": "Browse music and play it on a speaker.",
   "@settingKioskAllowMusicLibraryDescription": {
     "context": "Music Library",

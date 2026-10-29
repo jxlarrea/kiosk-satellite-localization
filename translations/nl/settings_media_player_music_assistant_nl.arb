@@ -4,8 +4,6 @@
   "settingSendspinMaUrlDescription": "Het adres van de Music Assistant-server zoals het in de webinterface wordt getoond. Meestal https met poort 8095.",
   "settingSendspinMaTokenTitle": "Verificatietoken",
   "settingSendspinMaTokenDescription": "Een langdurig token uit Music Assistant (Instellingen > Gebruikers). Leestoegang is voldoende voor songteksten. De snelkoppeling in het kioskmenu opent de webinterface onder het account waaraan het token is gekoppeld.",
-  "settingSendspinMaShortcutTitle": "Toon in het kioskmenu",
-  "settingSendspinMaShortcutDescription": "Voeg Music Assistant toe aan het kioskmenu en open de webinterface van de server als venster over het dashboard. Hiervoor is het bovenstaande serveradres vereist.",
   "settingSendspinMaOpenFullscreenTitle": "Direct openen in Speelt nu",
   "settingSendspinMaOpenFullscreenDescription": "Open de speler van Music Assistant op volledig scherm vanuit het kioskmenu of met het gebaar Music Assistant openen.",
   "settingSendspinMaAutoCloseTitle": "Sluiten na inactiviteit",

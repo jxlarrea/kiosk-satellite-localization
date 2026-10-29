@@ -52,32 +52,6 @@
       ]
     }
   },
-  "settingHaHoldMenuTitle": "Show in the kiosk menu",
-  "@settingHaHoldMenuTitle": {
-    "context": "Settings:Home Assistant Setup:Hold mode",
-    "description": "Setting label.",
-    "x-locations": {
-      "device": [
-        "Settings > Home Assistant Setup > Hold mode"
-      ],
-      "remoteAdmin": [
-        "Home Assistant Setup > Hold mode"
-      ]
-    }
-  },
-  "settingHaHoldMenuDescription": "Adds a menu entry that turns hold mode on and off.",
-  "@settingHaHoldMenuDescription": {
-    "context": "Settings:Home Assistant Setup:Hold mode",
-    "description": "Help below the setting.",
-    "x-locations": {
-      "device": [
-        "Settings > Home Assistant Setup > Hold mode"
-      ],
-      "remoteAdmin": [
-        "Home Assistant Setup > Hold mode"
-      ]
-    }
-  },
   "haHoldHint": "Pin the current view, automatic release, menu entry",
   "@haHoldHint": {
     "context": "Settings:Home Assistant Setup:Hold mode",

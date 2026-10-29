@@ -299,32 +299,6 @@
       ]
     }
   },
-  "settingSendspinFullscreenShortcutTitle": "Show in the kiosk menu",
-  "@settingSendspinFullscreenShortcutTitle": {
-    "context": "Settings > Media Player > Now Playing > User Interface",
-    "description": "Setting label.",
-    "x-locations": {
-      "device": [
-        "Settings > Media Player > Now Playing > User Interface"
-      ],
-      "remoteAdmin": [
-        "Media Player > Now Playing > User Interface"
-      ]
-    }
-  },
-  "settingSendspinFullscreenShortcutDescription": "Add an entry in the kiosk menu that shows the Now Playing view. WARNING: If nothing is playing or there is no queue for this player, it won't show up.",
-  "@settingSendspinFullscreenShortcutDescription": {
-    "context": "Settings > Media Player > Now Playing > User Interface",
-    "description": "Help below this setting.",
-    "x-locations": {
-      "device": [
-        "Settings > Media Player > Now Playing > User Interface"
-      ],
-      "remoteAdmin": [
-        "Media Player > Now Playing > User Interface"
-      ]
-    }
-  },
   "settingSendspinSpeakerPillTitle": "Show speaker selection pill",
   "@settingSendspinSpeakerPillTitle": {
     "context": "Settings > Media Player > Now Playing > User Interface",

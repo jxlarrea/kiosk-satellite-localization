@@ -8,8 +8,6 @@
   "settingSendspinPausedHideMinutesDescription": "播放器暂停后在屏幕上保留的时长，适用于悬浮播放器和“正在播放”页面。",
   "settingSendspinDismissKeepsPlayingTitle": "关闭后继续播放",
   "settingSendspinDismissKeepsPlayingDescription": "快速滑动移走悬浮播放器时，只隐藏窗口，音乐继续播放。",
-  "settingSendspinPlayerShortcutTitle": "在 Kiosk 菜单中显示",
-  "settingSendspinPlayerShortcutDescription": "在 Kiosk 菜单中添加显示或隐藏悬浮播放器的入口。注意：此播放器没有正在播放的内容或播放队列时，不会显示。",
   "mediaFloatingPage": "悬浮播放器",
   "mediaFloatingHint": "显示在仪表盘上的小卡片",
   "mediaCompact": "紧凑",

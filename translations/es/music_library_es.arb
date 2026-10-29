@@ -91,7 +91,6 @@
   "libraryGroupWith": "Agrupar con {speaker}",
   "libraryGroupHint": "Los altavoces agrupados reproducen la misma música sincronizada.",
   "libraryGroupName": "{speaker} + {count}",
-  "settingLibraryMenuDescription": "Añade la opción Biblioteca musical al menú del kiosko.",
   "settingKioskAllowMusicLibraryDescription": "Explorar música y reproducirla en un altavoz.",
   "libraryPageHint": "Explora música y reprodúcela en un altavoz",
   "settingLibrarySourceDescription": "Dónde lista música la biblioteca. Automático empieza con la fuente del altavoz que sigue Reproduciendo ahora.",

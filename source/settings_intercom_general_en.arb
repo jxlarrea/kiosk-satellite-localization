@@ -65,32 +65,6 @@
       ]
     }
   },
-  "settingIntercomMenuTitle": "Show in the kiosk menu",
-  "@settingIntercomMenuTitle": {
-    "context": "Settings > Intercom",
-    "description": "Setting label.",
-    "x-locations": {
-      "device": [
-        "Settings > Intercom"
-      ],
-      "remoteAdmin": [
-        "Intercom"
-      ]
-    }
-  },
-  "settingIntercomMenuDescription": "Add an Intercom entry to the kiosk menu.",
-  "@settingIntercomMenuDescription": {
-    "context": "Settings > Intercom",
-    "description": "Help below this setting.",
-    "x-locations": {
-      "device": [
-        "Settings > Intercom"
-      ],
-      "remoteAdmin": [
-        "Intercom"
-      ]
-    }
-  },
   "intercomNeedsAdmin": "The intercom needs the remote admin",
   "@intercomNeedsAdmin": {
     "context": "Settings > Intercom",

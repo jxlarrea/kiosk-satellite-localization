@@ -8,8 +8,6 @@
   "settingSendspinPausedHideMinutesDescription": "Durée d'affichage à l'écran d'un lecteur en pause. S'applique au lecteur flottant comme à la vue Lecture en cours.",
   "settingSendspinDismissKeepsPlayingTitle": "Continuer la lecture une fois fermé",
   "settingSendspinDismissKeepsPlayingDescription": "Écarter le lecteur flottant d'un geste le masque sans arrêter la musique.",
-  "settingSendspinPlayerShortcutTitle": "Afficher dans le menu du kiosque",
-  "settingSendspinPlayerShortcutDescription": "Ajoute une entrée dans le menu du kiosque qui affiche ou masque le lecteur flottant. ATTENTION : si rien n'est en cours de lecture ou qu'il n'y a pas de file d'attente pour ce lecteur, elle n'apparaîtra pas.",
   "mediaFloatingPage": "Lecteur flottant",
   "mediaFloatingHint": "La petite carte par-dessus le tableau de bord",
   "mediaCompact": "Compact",

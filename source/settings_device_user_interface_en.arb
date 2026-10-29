@@ -367,5 +367,52 @@
         "Device > User Interface"
       ]
     }
+  },
+  "settingUiDrawerItemsTitle": "Drawer menu items",
+  "@settingUiDrawerItemsTitle": {
+    "context": "Settings:Device:User Interface",
+    "description": "Setting label. Also the label of the rows on other pages that open this setting.",
+    "x-locations": {
+      "device": [
+        "Settings > Device > User Interface"
+      ],
+      "remoteAdmin": [
+        "Device > User Interface"
+      ]
+    }
+  },
+  "settingUiDrawerItemsDescription": "Choose the items the drawer menu shows and their order.",
+  "@settingUiDrawerItemsDescription": {
+    "context": "Settings:Device:User Interface",
+    "description": "Help below this setting and below the rows on other pages that open it.",
+    "x-locations": {
+      "device": [
+        "Settings > Device > User Interface"
+      ],
+      "remoteAdmin": [
+        "Device > User Interface"
+      ]
+    }
+  },
+  "settingShowInKioskMenuTitle": "Show in the kiosk menu",
+  "@settingShowInKioskMenuTitle": {
+    "context": "Settings",
+    "description": "Label of a row on a feature's page that opens Device > User Interface > Drawer menu items, where the feature's kiosk menu entry is turned on or off.",
+    "x-locations": {
+      "device": [
+        "Settings > Alarms",
+        "Settings > Calendar",
+        "Settings > App Launcher",
+        "Settings > Media Player > Music Assistant",
+        "Settings > Media Player > Music Library"
+      ],
+      "remoteAdmin": [
+        "Alarms",
+        "Calendar",
+        "App Launcher",
+        "Media Player > Music Assistant",
+        "Media Player > Music Library"
+      ]
+    }
   }
 }

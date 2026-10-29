@@ -27,5 +27,8 @@
   "deviceToastMusicLibrary": "Музична бібліотека",
   "deviceToastIntercom": "Інтерком",
   "deviceToastAppLauncher": "Лаунчер застосунків",
-  "deviceToastPlugins": "Дії плагінів"
+  "deviceToastPlugins": "Дії плагінів",
+  "settingUiDrawerItemsTitle": "Пункти бічного меню",
+  "settingUiDrawerItemsDescription": "Виберіть, які пункти показує бічне меню і в якому порядку.",
+  "settingShowInKioskMenuTitle": "Показувати в меню кіоска"
 }

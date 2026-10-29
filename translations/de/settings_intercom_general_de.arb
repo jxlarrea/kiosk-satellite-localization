@@ -5,8 +5,6 @@
   "settingIntercomKeyTitle": "Intercom-Schlüssel",
   "settingIntercomKeyDescription": "Kiosks mit demselben Schlüssel können miteinander kommunizieren. Die Flottenverwaltung kann diesen Schlüssel synchronisieren.",
   "settingIntercomKeyPlaceholder": "Wird beim Aktivieren der Gegensprechanlage erstellt",
-  "settingIntercomMenuTitle": "Im Kiosk-Menü anzeigen",
-  "settingIntercomMenuDescription": "Fügt dem Kiosk-Menü den Eintrag „Gegensprechanlage“ hinzu.",
   "intercomNeedsAdmin": "Die Gegensprechanlage benötigt die Fernverwaltung",
   "intercomAdminHelp": "Kiosks finden und verbinden sich darüber. Aktiviere unter „Gerät“ die Optionen „Fernverwaltung“ und „Andere Kiosks finden“ und kehre anschließend hierher zurück.",
   "intercomChangeKey": "Schlüssel ändern",

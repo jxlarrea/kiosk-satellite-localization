@@ -4,8 +4,6 @@
   "settingSendspinMaUrlDescription": "L'adresse du serveur Music Assistant, telle qu'affichée par son interface web. Généralement https et port 8095.",
   "settingSendspinMaTokenTitle": "Jeton d'authentification",
   "settingSendspinMaTokenDescription": "Un jeton de longue durée provenant de Music Assistant (Paramètres, puis Utilisateurs). Un accès en lecture suffit pour les paroles ; le raccourci du menu du kiosque ouvre l'interface web avec l'identité du titulaire du jeton.",
-  "settingSendspinMaShortcutTitle": "Afficher dans le menu du kiosque",
-  "settingSendspinMaShortcutDescription": "Ajoute une entrée Music Assistant au menu du kiosque, ouvrant l'interface web du serveur par-dessus le tableau de bord. Nécessite l'adresse du serveur ci-dessus.",
   "settingSendspinMaOpenFullscreenTitle": "Ouvrir directement sur Lecture en cours",
   "settingSendspinMaOpenFullscreenDescription": "Ouvrir le lecteur plein écran de Music Assistant depuis le menu du kiosque ou le geste Ouvrir Music Assistant.",
   "settingSendspinMaAutoCloseTitle": "Fermer après inactivité",

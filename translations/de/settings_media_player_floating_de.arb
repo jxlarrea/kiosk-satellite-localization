@@ -8,8 +8,6 @@
   "settingSendspinPausedHideMinutesDescription": "Legt fest, wie lange ein pausierter Player sichtbar bleibt. Gilt sowohl für den schwebenden Player als auch für die Ansicht „Jetzt läuft“.",
   "settingSendspinDismissKeepsPlayingTitle": "Beim Ausblenden weiter abspielen",
   "settingSendspinDismissKeepsPlayingDescription": "Wenn der schwebende Player aus dem Bildschirm geschoben wird, wird er ausgeblendet, ohne die Wiedergabe zu stoppen.",
-  "settingSendspinPlayerShortcutTitle": "Im Kiosk-Menü anzeigen",
-  "settingSendspinPlayerShortcutDescription": "Fügt dem Kiosk-Menü einen Eintrag zum Ein- oder Ausblenden des schwebenden Players hinzu. WARNUNG: Wird nicht angezeigt, wenn weder etwas abgespielt wird noch eine Warteschlange für diesen Player vorhanden ist.",
   "mediaFloatingPage": "Schwebender Player",
   "mediaFloatingHint": "Das kleine Fenster über dem Dashboard",
   "mediaCompact": "Kompakt",

@@ -289,5 +289,31 @@
         "Swipe from the left edge > drawer menu"
       ]
     }
+  },
+  "drawerItemsSearch": "Search menu items",
+  "@drawerItemsSearch": {
+    "context": "Settings:Device:User Interface",
+    "description": "Search box hint in the picker of the drawer menu's items.",
+    "x-locations": {
+      "device": [
+        "Settings > Device > User Interface > Drawer menu items"
+      ],
+      "remoteAdmin": [
+        "Device > User Interface > Drawer menu items"
+      ]
+    }
+  },
+  "drawerItemsSettingsKept": "Always shown while remote admin is off.",
+  "@drawerItemsSettingsKept": {
+    "context": "Settings:Device:User Interface",
+    "description": "Note under the Settings item in the drawer menu items picker. It cannot be hidden while the remote admin is off.",
+    "x-locations": {
+      "device": [
+        "Settings > Device > User Interface > Drawer menu items"
+      ],
+      "remoteAdmin": [
+        "Device > User Interface > Drawer menu items"
+      ]
+    }
   }
 }

@@ -78,32 +78,6 @@
       ]
     }
   },
-  "settingHaKioskMenuTitle": "Show in the kiosk menu",
-  "@settingHaKioskMenuTitle": {
-    "context": "Settings:Home Assistant Setup:User Interface",
-    "description": "Setting label.",
-    "x-locations": {
-      "device": [
-        "Settings > Home Assistant Setup > User Interface"
-      ],
-      "remoteAdmin": [
-        "Home Assistant Setup > User Interface"
-      ]
-    }
-  },
-  "settingHaKioskMenuDescription": "Add an HA Kiosk Mode entry to the kiosk menu that turns it on and off.",
-  "@settingHaKioskMenuDescription": {
-    "context": "Settings:Home Assistant Setup:User Interface",
-    "description": "Help below the setting.",
-    "x-locations": {
-      "device": [
-        "Settings > Home Assistant Setup > User Interface"
-      ],
-      "remoteAdmin": [
-        "Home Assistant Setup > User Interface"
-      ]
-    }
-  },
   "settingHaDashboardCarouselTitle": "Enable dashboard carousel",
   "@settingHaDashboardCarouselTitle": {
     "context": "Settings:Home Assistant Setup:User Interface",

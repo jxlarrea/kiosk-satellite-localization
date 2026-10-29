@@ -27,5 +27,8 @@
   "deviceToastMusicLibrary": "Musikbibliothek",
   "deviceToastIntercom": "Gegensprechanlage",
   "deviceToastAppLauncher": "App-Launcher",
-  "deviceToastPlugins": "Plugin-Aktionen"
+  "deviceToastPlugins": "Plugin-Aktionen",
+  "settingUiDrawerItemsTitle": "Einträge im Seitenmenü",
+  "settingUiDrawerItemsDescription": "Wähle, welche Einträge das Seitenmenü zeigt und in welcher Reihenfolge.",
+  "settingShowInKioskMenuTitle": "Im Kiosk-Menü anzeigen"
 }

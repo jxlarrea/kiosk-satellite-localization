@@ -23,8 +23,6 @@
   "mediaReturnChosenView": "Вибраний вигляд",
   "settingSendspinFullscreenReturnViewTitle": "Вигляд панелі керування",
   "settingSendspinFullscreenReturnViewDescription": "Вигляд, який з'являється після закриття «Зараз грає».",
-  "settingSendspinFullscreenShortcutTitle": "Показувати в меню кіоска",
-  "settingSendspinFullscreenShortcutDescription": "Додати пункт до меню кіоска, який показує режим «Зараз грає». УВАГА: якщо нічого не відтворюється або в цього плеєра немає черги, він не з'явиться.",
   "settingSendspinSpeakerPillTitle": "Показувати панель вибору гучномовців",
   "settingSendspinSpeakerPillDescription": "Показує вибір гучномовців протягом 5 секунд після взаємодії з екраном. Дозволяє додати або вилучити гучномовці з поточної групи.",
   "settingSendspinSpeakerPillPlayersTitle": "Фільтр панелі вибору гучномовців",

@@ -6,8 +6,6 @@
   "settingHaKioskHideHeaderDescription": "Скрыть панель инструментов и вкладки видов, пока режим киоска HA включён. Оставьте выключенным, если переключаете виды из заголовка.",
   "settingHaKioskHideSidebarTitle": "Скрыть боковую панель",
   "settingHaKioskHideSidebarDescription": "Скрыть боковую панель навигации, пока режим киоска HA включён.",
-  "settingHaKioskMenuTitle": "Показывать в меню киоска",
-  "settingHaKioskMenuDescription": "Добавить в меню киоска пункт «Режим киоска HA», включающий и выключающий его.",
   "settingHaDashboardCarouselTitle": "Включить карусель панели",
   "settingHaDashboardCarouselDescription": "Свайп влево или вправо по панели перемещает между её видами. Свайпы по ползункам, картам и прокручиваемым карточкам не трогаются.",
   "settingHaCarouselOverCardsTitle": "Перехватывать свайпы над карточками",

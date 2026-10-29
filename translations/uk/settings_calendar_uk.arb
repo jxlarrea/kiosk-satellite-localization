@@ -6,8 +6,6 @@
   "settingCalendarWeekStartDescription": "Відповідає мові пристрою, якщо не вибрано інше.",
   "settingCalendarWeatherEntityTitle": "Погода",
   "settingCalendarWeatherEntityDescription": "Додає прогноз до кожного дня.",
-  "settingCalendarMenuTitle": "Показувати в меню кіоска",
-  "settingCalendarMenuDescription": "Додати пункт «Календар» до меню кіоска.",
   "settingCalendarIdleCloseMinutesTitle": "Закривати під час бездіяльності",
   "settingCalendarIdleCloseMinutesDescription": "Повертатися до панелі керування після такого часу без дотиків.",
   "settingKioskAllowCalendarTitle": "Календар",

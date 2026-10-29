@@ -91,7 +91,6 @@
   "libraryGroupWith": "Группировать с {speaker}",
   "libraryGroupHint": "Сгруппированные динамики синхронно воспроизводят одну и ту же музыку.",
   "libraryGroupName": "{speaker} + {count}",
-  "settingLibraryMenuDescription": "Добавить пункт «Музыкальная библиотека» в меню киоска.",
   "settingKioskAllowMusicLibraryDescription": "Просматривать музыку и воспроизводить её на динамике.",
   "libraryPageHint": "Просмотр музыки и воспроизведение на динамике",
   "settingLibrarySourceDescription": "Откуда библиотека берёт музыку. «Автоматически» начинает с источника динамика, за которым следит «Сейчас играет».",

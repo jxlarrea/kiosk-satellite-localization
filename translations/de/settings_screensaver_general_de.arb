@@ -8,8 +8,6 @@
   "settingScreensaverModeDescription": "Legt fest, was der Bildschirmschoner nach Ablauf der Leerlaufzeit anzeigt. „Dimmen“ reduziert lediglich die Helligkeit und lässt das Dashboard sichtbar.",
   "settingScreensaverPixelShiftTitle": "Pixelverschiebung",
   "settingScreensaverPixelShiftDescription": "Verschiebt das Bild jede Minute leicht, um OLED-Bildschirme zu schützen. Gilt nicht für den Bildschirmschoner „Schwarz“, da dessen Pixel bereits ausgeschaltet sind.",
-  "settingScreensaverMenuTitle": "Im Kiosk-Menü anzeigen",
-  "settingScreensaverMenuDescription": "Fügt dem Kiosk-Menü die Option „Bildschirmschoner starten“ hinzu.",
   "settingScreensaverFollowAnimationScaleTitle": "Android-Animationseinstellungen folgen",
   "settingScreensaverFollowAnimationScaleDescription": "Pausiert animierte Bildschirmschoner, wenn Android-Animationen ausgeschaltet sind.",
   "settingScreensaverDimLevelTitle": "Dimmstufe",

@@ -6,8 +6,6 @@
   "settingScreensaverClockAlarmTakeoverDescription": "Ein klingelnder Wecker erscheint in seinem Stil auf diesem Bildschirmschoner statt auf einem eigenen Bildschirm.",
   "settingScreensaverWeatherAlarmTakeoverTitle": "Wecker übernehmen lassen",
   "settingScreensaverWeatherAlarmTakeoverDescription": "Ein klingelnder Wecker erscheint in seinem Stil auf diesem Bildschirmschoner statt auf einem eigenen Bildschirm.",
-  "settingAlarmsMenuTitle": "Im Kiosk-Menü anzeigen",
-  "settingAlarmsMenuDescription": "Fügt dem Kiosk-Menü den Eintrag „Wecker“ hinzu.",
   "settingAlarmsVolumeTitle": "Weckerlautstärke",
   "settingAlarmsVolumeDescription": "Wie laut Wecker klingeln, unabhängig von der Medienlautstärke.",
   "settingAlarmsToneTitle": "Weckton",

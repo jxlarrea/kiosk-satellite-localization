@@ -5,8 +5,6 @@
   "settingIntercomKeyTitle": "Intercomsleutel",
   "settingIntercomKeyDescription": "Kiosken met dezelfde sleutel kunnen elkaar bellen. Vlootbeheer kan de sleutel synchroniseren.",
   "settingIntercomKeyPlaceholder": "Gemaakt wanneer de intercom is ingeschakeld",
-  "settingIntercomMenuTitle": "Toon in het kioskmenu",
-  "settingIntercomMenuDescription": "Voeg een intercomoptie toe aan het kioskmenu.",
   "intercomNeedsAdmin": "De intercom vereist beheer op afstand",
   "intercomAdminHelp": "Kiosken vinden en bereiken elkaar via beheer op afstand. Schakel onder Apparaat de opties Beheer op afstand en Andere kiosken zoeken in en kom daarna terug.",
   "intercomChangeKey": "Sleutel wijzigen",

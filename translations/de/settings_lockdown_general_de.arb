@@ -2,8 +2,6 @@
   "@@locale": "de",
   "settingLockdownEnabledTitle": "Sperrmodus aktivieren",
   "settingLockdownEnabledDescription": "Deaktiviert die Interaktion mit dem Bildschirm, bis der Sperrmodus über Home Assistant oder die Exit-Geste deaktiviert wird.",
-  "settingLockdownMenuTitle": "Im Kiosk-Menü anzeigen",
-  "settingLockdownMenuDescription": "Fügt dem Kiosk-Menü eine Sperrmodus-Option hinzu, um den Bildschirm zu sperren. Zum Entsperren die Exit-Geste, die Fernverwaltung oder Home Assistant verwenden.",
   "settingLockdownBlackoutTitle": "Bildschirm schwarz schalten",
   "settingLockdownBlackoutDescription": "Schaltet den Bildschirm während der Sperre auf Schwarz.",
   "settingLockdownAllowScreensaverTitle": "Bildschirmschoner zulassen",

@@ -4,8 +4,6 @@
   "settingHaHoldModeDescription": "Behält die aktuelle Ansicht auf dem Bildschirm. Bildschirmschoner, Ansichtsrotation und der Timer für die Rückkehr zur Startseite bleiben pausiert, bis der Modus deaktiviert wird.",
   "settingHaHoldReleaseMinutesTitle": "Pausenmodus automatisch beenden nach",
   "settingHaHoldReleaseMinutesDescription": "Deaktiviert den Pausenmodus nach der angegebenen Zeit. Bei 0 bleibt er aktiv, bis er manuell beendet wird.",
-  "settingHaHoldMenuTitle": "Im Kiosk-Menü anzeigen",
-  "settingHaHoldMenuDescription": "Fügt dem Menü eine Option zum Aktivieren und Deaktivieren des Pausenmodus hinzu.",
   "haHoldHint": "Aktuelle Ansicht beibehalten, automatische Beendigung und Menüoption",
   "haNever": "Nie",
   "haMinutes": "{minutes} Min.",

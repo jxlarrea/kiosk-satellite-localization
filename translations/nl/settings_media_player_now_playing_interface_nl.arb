@@ -23,8 +23,6 @@
   "mediaReturnChosenView": "Gekozen weergave",
   "settingSendspinFullscreenReturnViewTitle": "Dashboardweergave",
   "settingSendspinFullscreenReturnViewDescription": "De weergave die verschijnt nadat Speelt nu is gesloten.",
-  "settingSendspinFullscreenShortcutTitle": "Toon in het kioskmenu",
-  "settingSendspinFullscreenShortcutDescription": "Voeg een menuoptie toe waarmee Speelt nu wordt geopend. WAARSCHUWING: als er niets wordt afgespeeld en de wachtrij leeg is, verschijnt de weergave niet.",
   "settingSendspinSpeakerPillTitle": "Luidsprekerkeuze tonen",
   "settingSendspinSpeakerPillDescription": "Toon de luidsprekerkeuze 5 seconden nadat het scherm is aangeraakt. Voeg luidsprekers toe aan de huidige groep of verwijder ze eruit.",
   "settingSendspinSpeakerPillPlayersTitle": "Luidsprekerkeuze filteren",

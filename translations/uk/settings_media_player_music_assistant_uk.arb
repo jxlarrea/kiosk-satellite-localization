@@ -4,8 +4,6 @@
   "settingSendspinMaUrlDescription": "Адреса сервера Music Assistant, як її показує його вебінтерфейс. Зазвичай https і порт 8095.",
   "settingSendspinMaTokenTitle": "Токен автентифікації",
   "settingSendspinMaTokenDescription": "Довговічний токен із Music Assistant (Налаштування, потім Користувачі). Для текстів пісень достатньо доступу на читання; ярлик меню кіоска відкриває вебінтерфейс від імені власника токена.",
-  "settingSendspinMaShortcutTitle": "Показувати в меню кіоска",
-  "settingSendspinMaShortcutDescription": "Додати пункт Music Assistant до меню кіоска, який відкриває вебінтерфейс сервера поверх панелі керування. Потребує адресу сервера вище.",
   "settingSendspinMaOpenFullscreenTitle": "Відкривати одразу «Зараз грає»",
   "settingSendspinMaOpenFullscreenDescription": "Відкривати повноекранний плеєр Music Assistant з меню кіоска або жестом «Відкрити Music Assistant».",
   "settingSendspinMaAutoCloseTitle": "Закривати після бездіяльності",

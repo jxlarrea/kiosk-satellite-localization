@@ -104,32 +104,6 @@
       ]
     }
   },
-  "settingScreensaverMenuTitle": "Show in the kiosk menu",
-  "@settingScreensaverMenuTitle": {
-    "context": "Settings:Screensaver",
-    "description": "Setting label.",
-    "x-locations": {
-      "device": [
-        "Settings > Screensaver"
-      ],
-      "remoteAdmin": [
-        "Screensaver"
-      ]
-    }
-  },
-  "settingScreensaverMenuDescription": "Add a Start Screensaver entry to the kiosk menu.",
-  "@settingScreensaverMenuDescription": {
-    "context": "Settings:Screensaver",
-    "description": "Help below the setting.",
-    "x-locations": {
-      "device": [
-        "Settings > Screensaver"
-      ],
-      "remoteAdmin": [
-        "Screensaver"
-      ]
-    }
-  },
   "settingScreensaverFollowAnimationScaleTitle": "Follow Android animation settings",
   "@settingScreensaverFollowAnimationScaleTitle": {
     "context": "Settings:Screensaver",

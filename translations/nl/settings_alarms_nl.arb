@@ -6,8 +6,6 @@
   "settingScreensaverClockAlarmTakeoverDescription": "Als een alarm afgaat, wordt het in de stijl van deze schermbeveiliging getoond in plaats van op een apart scherm.",
   "settingScreensaverWeatherAlarmTakeoverTitle": "Alarmen op schermbeveiliging tonen",
   "settingScreensaverWeatherAlarmTakeoverDescription": "Als een alarm afgaat, wordt het in de stijl van deze schermbeveiliging getoond in plaats van op een apart scherm.",
-  "settingAlarmsMenuTitle": "Toon in het kioskmenu",
-  "settingAlarmsMenuDescription": "Voeg de optie Alarmen toe aan het kioskmenu.",
   "settingAlarmsVolumeTitle": "Alarmvolume",
   "settingAlarmsVolumeDescription": "Het volume waarmee alarmen afgaan, los van het mediavolume.",
   "settingAlarmsToneTitle": "Alarmtoon",

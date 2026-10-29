@@ -23,8 +23,6 @@
   "mediaReturnChosenView": "Vista elegida",
   "settingSendspinFullscreenReturnViewTitle": "Vista del panel de control",
   "settingSendspinFullscreenReturnViewDescription": "La vista que se muestra al cerrar Reproduciendo Ahora.",
-  "settingSendspinFullscreenShortcutTitle": "Mostrar en el menú del kiosko",
-  "settingSendspinFullscreenShortcutDescription": "Añade una entrada al menú del kiosko para mostrar Reproduciendo Ahora. ADVERTENCIA: No aparece si no hay nada en reproducción ni una cola para este reproductor.",
   "settingSendspinSpeakerPillTitle": "Mostrar selector de altavoces",
   "settingSendspinSpeakerPillDescription": "Muestra el selector de altavoces durante 5 segundos después de interactuar con la pantalla. Permite añadir o quitar altavoces del grupo actual.",
   "settingSendspinSpeakerPillPlayersTitle": "Filtrar el selector de altavoces",

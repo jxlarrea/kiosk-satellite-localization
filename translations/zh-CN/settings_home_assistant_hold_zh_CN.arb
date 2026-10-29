@@ -4,8 +4,6 @@
   "settingHaHoldModeDescription": "保持当前页面，暂停屏保、仪表盘页面轮播和自动返回主页的计时，直到关闭此模式。",
   "settingHaHoldReleaseMinutesTitle": "自动结束页面保持模式的时间",
   "settingHaHoldReleaseMinutesDescription": "达到设定时间后自动关闭页面保持模式。设为 0 则保持至手动关闭。",
-  "settingHaHoldMenuTitle": "在 Kiosk 菜单中显示",
-  "settingHaHoldMenuDescription": "添加用于开启和关闭页面保持模式的菜单项。",
   "haHoldHint": "保持当前页面、自动解除及菜单入口",
   "haNever": "永不",
   "haMinutes": "{minutes} 分钟",
