@@ -35,6 +35,8 @@
   "settingLibrarySquareArtworkDescription": "Affiche les artistes en vignettes carrées, comme les albums et les playlists.",
   "settingLibraryGridDensityTitle": "Densité de la grille",
   "settingLibraryGridDensityDescription": "Taille des vignettes de la bibliothèque. Compacte en affiche plus par ligne.",
+  "settingLibrarySourcePickerTitle": "Afficher le choix de la source",
+  "settingLibrarySourcePickerDescription": "Affiche le choix de la source dans la bibliothèque. Désactivez-le pour garder la bibliothèque sur la source choisie plus haut.",
   "libraryDensityComfortable": "Confortable",
   "libraryDensityStandard": "Standard",
   "libraryDensityCompact": "Compacte",

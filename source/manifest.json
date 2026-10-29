@@ -1,7 +1,7 @@
 {
   "schema": 2,
   "repository": "https://github.com/jxlarrea/kiosk-satellite",
-  "revision": "36ef0f6f9c4e6a29a38624dcbc5fdc233374998f",
+  "revision": "1faef8a2bb59d95e5bafe5870c4e78606861a639",
   "workingTree": true,
   "files": {
     "about_identity_en.arb": "dd006567f69f846e2e3b73f09ad13784f0022d282ea3101fa9be7fc95175ec2d",
@@ -44,7 +44,7 @@
     "logs_console_en.arb": "02d7388e4b742757e9472d1b1a77f58adcec0ba4004ba8e0704ab5d017fdce8e",
     "logs_general_en.arb": "aa0d8340c109e04aa6383c98642ff797667899c604719c2dcf94d059a8edab03",
     "logs_logcat_en.arb": "e859068386a59a36c581dfc0c973281f4c76a579590b6ee53656c0e3016f9ff4",
-    "music_library_en.arb": "b1b976b5284144c3e6a29d90bd0feabe472d9929caabe31c0278076e9d7ec59e",
+    "music_library_en.arb": "c418784f87f197ba8bf97c405b8393ae440e0d54f716d7193ea2c9f34cdf9c9c",
     "offline_notice_en.arb": "b0df7eeb481cd6fc6987f80789915dc3e7e6cec6e648af242df289ab254c013a",
     "player_controls_en.arb": "c1277d16a6a353e72fad08920384f281426f30364d11aac47c6af024f5b94a5b",
     "player_queue_en.arb": "2b9d165ec8649eab92534fc486a92172ba186e89d4f1632b6b2845d825796cda",

@@ -35,6 +35,8 @@
   "settingLibrarySquareArtworkDescription": "像专辑和播放列表一样，以方形卡片显示艺人。",
   "settingLibraryGridDensityTitle": "网格密度",
   "settingLibraryGridDensityDescription": "音乐库中卡片的大小。紧凑可在每行显示更多。",
+  "settingLibrarySourcePickerTitle": "显示来源选择",
+  "settingLibrarySourcePickerDescription": "在音乐库中显示来源选择器。关闭后，音乐库将保持在上方设置的来源。",
   "libraryDensityComfortable": "宽松",
   "libraryDensityStandard": "标准",
   "libraryDensityCompact": "紧凑",

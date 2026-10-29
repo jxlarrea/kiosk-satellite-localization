@@ -35,6 +35,8 @@
   "settingLibrarySquareArtworkDescription": "Показывает исполнителей квадратными плитками, как альбомы и плейлисты.",
   "settingLibraryGridDensityTitle": "Плотность сетки",
   "settingLibraryGridDensityDescription": "Размер плиток в библиотеке. Компактная вмещает больше в ряд.",
+  "settingLibrarySourcePickerTitle": "Показывать выбор источника",
+  "settingLibrarySourcePickerDescription": "Показывает выбор источника в библиотеке. Отключите, чтобы библиотека оставалась на источнике, выбранном выше.",
   "libraryDensityComfortable": "Просторная",
   "libraryDensityStandard": "Стандартная",
   "libraryDensityCompact": "Компактная",

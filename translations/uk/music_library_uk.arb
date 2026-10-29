@@ -35,6 +35,8 @@
   "settingLibrarySquareArtworkDescription": "Показує виконавців квадратними плитками, як альбоми та плейлисти.",
   "settingLibraryGridDensityTitle": "Щільність сітки",
   "settingLibraryGridDensityDescription": "Розмір плиток у бібліотеці. Компактна вміщує більше в ряд.",
+  "settingLibrarySourcePickerTitle": "Показувати вибір джерела",
+  "settingLibrarySourcePickerDescription": "Показує вибір джерела в бібліотеці. Вимкніть, щоб бібліотека лишалася на джерелі, вибраному вище.",
   "libraryDensityComfortable": "Простора",
   "libraryDensityStandard": "Стандартна",
   "libraryDensityCompact": "Компактна",

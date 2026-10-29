@@ -35,6 +35,8 @@
   "settingLibrarySquareArtworkDescription": "Muestra los artistas en mosaicos cuadrados, como los álbumes y las listas de reproducción.",
   "settingLibraryGridDensityTitle": "Densidad de la cuadrícula",
   "settingLibraryGridDensityDescription": "Tamaño de los mosaicos de la biblioteca. Compacta muestra más por fila.",
+  "settingLibrarySourcePickerTitle": "Mostrar selector de fuente",
+  "settingLibrarySourcePickerDescription": "Muestra el selector de fuente en la biblioteca. Desactívalo para que la biblioteca se quede en la fuente elegida arriba.",
   "libraryDensityComfortable": "Amplia",
   "libraryDensityStandard": "Estándar",
   "libraryDensityCompact": "Compacta",

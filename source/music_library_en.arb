@@ -366,6 +366,32 @@
       ]
     }
   },
+  "settingLibrarySourcePickerTitle": "Show source selection",
+  "@settingLibrarySourcePickerTitle": {
+    "context": "Music Library",
+    "description": "Setting label: show the picker in the library that switches between Music Assistant, Home Assistant and Sonos.",
+    "x-locations": {
+      "device": [
+        "Settings > Media Player > Music Library"
+      ],
+      "remoteAdmin": [
+        "Media Player > Music Library"
+      ]
+    }
+  },
+  "settingLibrarySourcePickerDescription": "Show the source picker in the library. Turn off to keep the library on the source set above.",
+  "@settingLibrarySourcePickerDescription": {
+    "context": "Music Library",
+    "description": "Setting description. 'The source set above' is the Source setting earlier on the same page.",
+    "x-locations": {
+      "device": [
+        "Settings > Media Player > Music Library"
+      ],
+      "remoteAdmin": [
+        "Media Player > Music Library"
+      ]
+    }
+  },
   "libraryDensityComfortable": "Comfortable",
   "@libraryDensityComfortable": {
     "context": "Music Library",

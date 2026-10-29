@@ -35,6 +35,8 @@
   "settingLibrarySquareArtworkDescription": "Toont artiesten als vierkante tegels, zoals albums en afspeellijsten.",
   "settingLibraryGridDensityTitle": "Rasterdichtheid",
   "settingLibraryGridDensityDescription": "Grootte van de tegels in de bibliotheek. Compact toont meer per rij.",
+  "settingLibrarySourcePickerTitle": "Bronkeuze tonen",
+  "settingLibrarySourcePickerDescription": "Toont de bronkeuze in de bibliotheek. Zet uit om de bibliotheek op de hierboven gekozen bron te houden.",
   "libraryDensityComfortable": "Ruim",
   "libraryDensityStandard": "Standaard",
   "libraryDensityCompact": "Compact",
