@@ -676,6 +676,16 @@
     "context": "Settings > Voice Satellite > Wake Word",
     "description": "Translate the visible label or help. Keep Voice Satellite, Kiosk Satellite, Home Assistant, ESPHome, HACS and model names unchanged."
   },
+  "settingVoiceStopWordFineTuneTitle": "Fine-tune stop word sensitivity",
+  "@settingVoiceStopWordFineTuneTitle": {
+    "context": "Settings > Voice Satellite > Wake Word",
+    "description": "Translate the visible label or help. Keep Voice Satellite, Kiosk Satellite, Home Assistant, ESPHome, HACS and model names unchanged."
+  },
+  "settingVoiceStopWordFineTuneDescription": "Adjusts the stop word sensitivity in smaller steps. Raise it if you often have to repeat \"stop\", lower it if answers stop by mistake.",
+  "@settingVoiceStopWordFineTuneDescription": {
+    "context": "Settings > Voice Satellite > Wake Word",
+    "description": "Translate the visible label or help. Keep Voice Satellite, Kiosk Satellite, Home Assistant, ESPHome, HACS and model names unchanged."
+  },
   "settingVoiceWakeArbitrationTitle": "Enable wake word arbitration",
   "@settingVoiceWakeArbitrationTitle": {
     "context": "Settings > Voice Satellite > Wake Word",

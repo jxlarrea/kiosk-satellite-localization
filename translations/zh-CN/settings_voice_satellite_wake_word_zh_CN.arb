@@ -65,6 +65,8 @@
   "settingVoiceNoiseGateDescription": "房间安静时暂停本地唤醒词识别，减少 CPU 使用。",
   "settingVoiceStopWordTitle": "停止词打断",
   "settingVoiceStopWordDescription": "说出“stop”可打断回复、计时器提醒或播报。",
+  "settingVoiceStopWordFineTuneTitle": "停止词灵敏度微调",
+  "settingVoiceStopWordFineTuneDescription": "以更小的幅度调整停止词灵敏度。如果经常需要重复“stop”，请调高；如果回复经常被误打断，请调低。",
   "settingVoiceWakeArbitrationTitle": "启用唤醒词仲裁",
   "settingVoiceWakeArbitrationDescription": "多台 Kiosk 设备听到唤醒词时，由最近的设备回答。会增加检测延迟。",
   "settingVoiceWakeArbitrationWindowTitle": "仲裁等待时间",

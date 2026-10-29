@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add Fine-tune stop word sensitivity in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the slider under Stop word interruption on the Voice Satellite Wake Word page and its description, on the device and in the remote admin. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
+
 - Add Always show close button in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the switch in Now Playing's User Interface group that keeps the close button while Double tap to dismiss is on and its description, on the device and in the remote admin. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
 
 - Add Show source selection in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the switch in the Music Library's User Interface group that shows or hides the library's source picker and its description, on the device and in the remote admin. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.

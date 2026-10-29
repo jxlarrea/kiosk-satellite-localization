@@ -65,6 +65,8 @@
   "settingVoiceNoiseGateDescription": "Ignore la détection du mot de réveil tant que la pièce est calme, ce qui économise le processeur.",
   "settingVoiceStopWordTitle": "Interruption par mot d'arrêt",
   "settingVoiceStopWordDescription": "Dites « stop » pour interrompre une réponse, une alerte de minuteur ou une annonce.",
+  "settingVoiceStopWordFineTuneTitle": "Réglage fin de la sensibilité du mot d'arrêt",
+  "settingVoiceStopWordFineTuneDescription": "Ajuste la sensibilité du mot d'arrêt par petits pas. Augmentez-la si vous devez souvent répéter « stop », baissez-la si les réponses s'arrêtent par erreur.",
   "settingVoiceWakeArbitrationTitle": "Activer l'arbitrage du mot de réveil",
   "settingVoiceWakeArbitrationDescription": "Quand plusieurs kiosques entendent le mot de réveil, le plus proche répond. Augmente la latence de détection.",
   "settingVoiceWakeArbitrationWindowTitle": "Fenêtre d'arbitrage",

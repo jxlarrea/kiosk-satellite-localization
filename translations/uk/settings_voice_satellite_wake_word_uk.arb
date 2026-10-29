@@ -65,6 +65,8 @@
   "settingVoiceNoiseGateDescription": "Пропускає розпізнавання слова активації, поки в кімнаті тихо, заощаджуючи процесор.",
   "settingVoiceStopWordTitle": "Переривання стоп-словом",
   "settingVoiceStopWordDescription": "Скажіть «stop», щоб перервати відповідь, сповіщення таймера або оголошення.",
+  "settingVoiceStopWordFineTuneTitle": "Точне налаштування чутливості стоп-слова",
+  "settingVoiceStopWordFineTuneDescription": "Змінює чутливість стоп-слова меншими кроками. Підвищте її, якщо часто доводиться повторювати «stop», і знизьте, якщо відповіді обриваються помилково.",
   "settingVoiceWakeArbitrationTitle": "Увімкнути арбітраж слова активації",
   "settingVoiceWakeArbitrationDescription": "Коли кілька кіосків чують слово активації, відповідає найближчий. Збільшує затримку виявлення.",
   "settingVoiceWakeArbitrationWindowTitle": "Вікно арбітражу",

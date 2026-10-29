@@ -65,6 +65,8 @@
   "settingVoiceNoiseGateDescription": "Überspringt die Aktivierungswort-Erkennung, solange der Raum still ist, und spart so CPU.",
   "settingVoiceStopWordTitle": "Unterbrechung per Stoppwort",
   "settingVoiceStopWordDescription": "Sag „stop“, um eine Antwort, einen Timer-Alarm oder eine Durchsage abzubrechen.",
+  "settingVoiceStopWordFineTuneTitle": "Empfindlichkeit des Stoppworts feinjustieren",
+  "settingVoiceStopWordFineTuneDescription": "Passt die Empfindlichkeit des Stoppworts in kleineren Schritten an. Erhöhe sie, wenn du „stop“ oft wiederholen musst, und senke sie, wenn Antworten versehentlich abbrechen.",
   "settingVoiceWakeArbitrationTitle": "Aktivierungswort-Arbitrierung aktivieren",
   "settingVoiceWakeArbitrationDescription": "Wenn mehrere Kiosks das Aktivierungswort hören, antwortet der nächstgelegene. Erhöht die Erkennungslatenz.",
   "settingVoiceWakeArbitrationWindowTitle": "Arbitrierungsfenster",

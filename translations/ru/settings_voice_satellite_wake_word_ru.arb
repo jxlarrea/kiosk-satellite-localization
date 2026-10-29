@@ -65,6 +65,8 @@
   "settingVoiceNoiseGateDescription": "Пропускать распознавание слова пробуждения в тишине, экономя ЦП.",
   "settingVoiceStopWordTitle": "Перебивание стоп-словом",
   "settingVoiceStopWordDescription": "Скажите «стоп», чтобы оборвать ответ, оповещение таймера или объявление.",
+  "settingVoiceStopWordFineTuneTitle": "Точная настройка чувствительности стоп-слова",
+  "settingVoiceStopWordFineTuneDescription": "Меняет чувствительность стоп-слова более мелкими шагами. Повысьте, если «стоп» часто приходится повторять, и понизьте, если ответы обрываются по ошибке.",
   "settingVoiceWakeArbitrationTitle": "Включить арбитраж слова пробуждения",
   "settingVoiceWakeArbitrationDescription": "Когда несколько киосков слышат слово пробуждения, отвечает ближайший. Увеличивает задержку определения.",
   "settingVoiceWakeArbitrationWindowTitle": "Окно арбитража",

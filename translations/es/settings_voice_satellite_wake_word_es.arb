@@ -65,6 +65,8 @@
   "settingVoiceNoiseGateDescription": "Omite la detección de la palabra de activación mientras la sala está en silencio, lo que ahorra CPU.",
   "settingVoiceStopWordTitle": "Interrupción con palabra de parada",
   "settingVoiceStopWordDescription": "Di «stop» para cortar una respuesta, una alerta de temporizador o un anuncio.",
+  "settingVoiceStopWordFineTuneTitle": "Ajuste fino de la sensibilidad de la palabra de parada",
+  "settingVoiceStopWordFineTuneDescription": "Ajusta la sensibilidad de la palabra de parada en pasos más pequeños. Súbelo si a menudo tienes que repetir «stop» y bájalo si las respuestas se detienen por error.",
   "settingVoiceWakeArbitrationTitle": "Activar el arbitraje de la palabra de activación",
   "settingVoiceWakeArbitrationDescription": "Cuando varios kioskos oyen la palabra de activación, responde el más cercano. Aumenta la latencia de detección.",
   "settingVoiceWakeArbitrationWindowTitle": "Ventana de arbitraje",

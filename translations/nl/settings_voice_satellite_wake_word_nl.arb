@@ -65,6 +65,8 @@
   "settingVoiceNoiseGateDescription": "Sla wekwoorddetectie over wanneer de kamer stil is om processorkracht te besparen.",
   "settingVoiceStopWordTitle": "Onderbreken met stopwoord",
   "settingVoiceStopWordDescription": "Zeg 'stop' om een antwoord, timerwaarschuwing of aankondiging af te breken.",
+  "settingVoiceStopWordFineTuneTitle": "Gevoeligheid van stopwoord fijnafstellen",
+  "settingVoiceStopWordFineTuneDescription": "Past de gevoeligheid van het stopwoord in kleinere stappen aan. Verhoog dit als je 'stop' vaak moet herhalen en verlaag het als antwoorden per ongeluk stoppen.",
   "settingVoiceWakeArbitrationTitle": "Wekwoordarbitrage inschakelen",
   "settingVoiceWakeArbitrationDescription": "Als meerdere kiosken het wekwoord horen, antwoordt de dichtstbijzijnde. Verhoogt de detectielatentie.",
   "settingVoiceWakeArbitrationWindowTitle": "Arbitrageperiode",
