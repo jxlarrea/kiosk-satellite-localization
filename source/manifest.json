@@ -1,7 +1,7 @@
 {
   "schema": 2,
   "repository": "https://github.com/jxlarrea/kiosk-satellite",
-  "revision": "1faef8a2bb59d95e5bafe5870c4e78606861a639",
+  "revision": "d7a2be76114407f54f412e29ade62cfafef093bf",
   "workingTree": true,
   "files": {
     "about_identity_en.arb": "dd006567f69f846e2e3b73f09ad13784f0022d282ea3101fa9be7fc95175ec2d",
@@ -136,7 +136,7 @@
     "settings_media_player_general_en.arb": "dfc221778ab5a831c4c33fa1a1797130804f2bd4ca97a46d0cd4f8db6931cd07",
     "settings_media_player_lyrics_en.arb": "a3e9a76488b78b46f4f7eef3307d4547250ec5b8c549731b78148eaaade4556e",
     "settings_media_player_music_assistant_en.arb": "2e2196c369fb3740e2bde1994bb1975b12992aa498408fa470867b39fb9befcf",
-    "settings_media_player_now_playing_interface_en.arb": "784f95503c77f68eeb925bfc1d724de17f5c03a302d5d869341338b15897aee6",
+    "settings_media_player_now_playing_interface_en.arb": "a6e086c0356d43641487cd7bdabeff1ef4c85dfb8b701e5c9fda77b82ae7184c",
     "settings_media_player_now_playing_screensaver_en.arb": "1139d0652691c3d4c63ca59b9ac454b60912bcc65037fea1d41837c0540a45b4",
     "settings_media_player_picker_en.arb": "42ec3e6f91bee4bd316a6e6ac1d56040a309c5edbf1ccac3c90e59af1d87dab3",
     "settings_media_player_sendspin_en.arb": "a133c99627d4a702f56fa379b1026314584a0f7536ad20aa726ee2821d3b6541",

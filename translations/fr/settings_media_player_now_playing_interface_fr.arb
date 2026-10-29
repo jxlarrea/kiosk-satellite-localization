@@ -13,6 +13,8 @@
   "mediaLayoutArtOnly": "Pochette seule",
   "settingSendspinFullscreenDoubleTapTitle": "Double appui pour fermer",
   "settingSendspinFullscreenDoubleTapDescription": "Un double appui n'importe où sur la vue Lecture en cours la ferme. Le bouton de fermeture ne sera pas affiché. Ignoré tant que Lecture en cours est affichée aux côtés d'un économiseur d'écran.",
+  "settingSendspinFullscreenCloseButtonTitle": "Toujours afficher le bouton de fermeture",
+  "settingSendspinFullscreenCloseButtonDescription": "Affiche le bouton de fermeture même quand Double appui pour fermer est activé.",
   "settingSendspinFullscreenOnPlayTitle": "Lancer Lecture en cours quand la musique démarre",
   "settingSendspinFullscreenOnPlayDescription": "Ouvrir la vue Lecture en cours dès le début de la lecture au lieu d'attendre le délai de l'économiseur d'écran.",
   "settingSendspinFullscreenMotionTitle": "Fermer « Lecture en cours » sur mouvement",

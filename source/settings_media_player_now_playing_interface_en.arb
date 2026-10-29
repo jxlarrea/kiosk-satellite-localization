@@ -169,6 +169,32 @@
       ]
     }
   },
+  "settingSendspinFullscreenCloseButtonTitle": "Always show close button",
+  "@settingSendspinFullscreenCloseButtonTitle": {
+    "context": "Settings > Media Player > Now Playing > User Interface",
+    "description": "Setting label: keep the X button that closes Now Playing even when Double tap to dismiss is on.",
+    "x-locations": {
+      "device": [
+        "Settings > Media Player > Now Playing > User Interface"
+      ],
+      "remoteAdmin": [
+        "Media Player > Now Playing > User Interface"
+      ]
+    }
+  },
+  "settingSendspinFullscreenCloseButtonDescription": "Show the close button while Double tap to dismiss is on.",
+  "@settingSendspinFullscreenCloseButtonDescription": {
+    "context": "Settings > Media Player > Now Playing > User Interface",
+    "description": "Help below this setting. 'Double tap to dismiss' is the name of the setting just above it.",
+    "x-locations": {
+      "device": [
+        "Settings > Media Player > Now Playing > User Interface"
+      ],
+      "remoteAdmin": [
+        "Media Player > Now Playing > User Interface"
+      ]
+    }
+  },
   "settingSendspinFullscreenOnPlayTitle": "Launch Now Playing when music starts playing",
   "@settingSendspinFullscreenOnPlayTitle": {
     "context": "Settings > Media Player > Now Playing > User Interface",

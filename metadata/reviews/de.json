@@ -28254,5 +28254,17 @@
     "translation": "af59ebb1d62bc3171235bfc1ce2c9a12f88eebaf54b8707f4ecdb568d5363eee",
     "author": "Xavier Larrea",
     "ownerAuthored": true
+  },
+  "settingSendspinFullscreenCloseButtonTitle": {
+    "source": "cb20e0132a3545043929f03de85e422ce75de348fc4ab349d857fd56e8db83f2",
+    "translation": "3f9717b939a5578fa738171f3a72f803e5b206fa661eb52fcfd7f6d0be4d50e9",
+    "author": "Xavier Larrea",
+    "ownerAuthored": true
+  },
+  "settingSendspinFullscreenCloseButtonDescription": {
+    "source": "9e5f30cd2ac92bfc4310827dc415b30ed6ea45a9cad115ffb5f798882906062e",
+    "translation": "c838a61158d18c0b459b131dbf70863b7ac8f5a765dbb779329d13a218c9410f",
+    "author": "Xavier Larrea",
+    "ownerAuthored": true
   }
 }

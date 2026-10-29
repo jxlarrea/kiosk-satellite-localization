@@ -13,6 +13,8 @@
   "mediaLayoutArtOnly": "仅封面",
   "settingSendspinFullscreenDoubleTapTitle": "双击关闭",
   "settingSendspinFullscreenDoubleTapDescription": "双击“正在播放”页面的任意位置即可关闭页面，不显示关闭按钮。“正在播放”与屏保同时显示时，此设置不生效。",
+  "settingSendspinFullscreenCloseButtonTitle": "始终显示关闭按钮",
+  "settingSendspinFullscreenCloseButtonDescription": "开启“双击关闭”时仍显示关闭按钮。",
   "settingSendspinFullscreenOnPlayTitle": "音乐开始播放时打开“正在播放”",
   "settingSendspinFullscreenOnPlayDescription": "播放开始时立即显示“正在播放”，无需等待屏保启动。",
   "settingSendspinFullscreenMotionTitle": "检测到运动时关闭“正在播放”",

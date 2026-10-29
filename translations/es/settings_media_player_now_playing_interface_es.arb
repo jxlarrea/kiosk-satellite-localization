@@ -13,6 +13,8 @@
   "mediaLayoutArtOnly": "Solo portada",
   "settingSendspinFullscreenDoubleTapTitle": "Tocar dos veces para cerrar",
   "settingSendspinFullscreenDoubleTapDescription": "Tocar dos veces cualquier parte de Reproduciendo Ahora cierra la vista. No se muestra el botón de cierre. No se aplica cuando Reproduciendo Ahora se muestra junto al protector de pantalla.",
+  "settingSendspinFullscreenCloseButtonTitle": "Mostrar siempre el botón de cierre",
+  "settingSendspinFullscreenCloseButtonDescription": "Muestra el botón de cierre aunque Tocar dos veces para cerrar esté activado.",
   "settingSendspinFullscreenOnPlayTitle": "Abrir Reproduciendo Ahora al empezar la música",
   "settingSendspinFullscreenOnPlayDescription": "Abre Reproduciendo Ahora en cuanto comienza la reproducción, sin esperar el tiempo de espera del protector de pantalla.",
   "settingSendspinFullscreenMotionTitle": "Cerrar \"Reproduciendo Ahora\" al detectar movimiento",

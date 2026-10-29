@@ -13,6 +13,8 @@
   "mediaLayoutArtOnly": "Alleen albumhoes",
   "settingSendspinFullscreenDoubleTapTitle": "Dubbele tik om af te sluiten",
   "settingSendspinFullscreenDoubleTapDescription": "Dubbeltik op een willekeurige plek in Speelt nu om de weergave te sluiten. De sluitknop wordt dan niet getoond. Wordt genegeerd als Speelt nu naast een schermbeveiliging staat.",
+  "settingSendspinFullscreenCloseButtonTitle": "Sluitknop altijd tonen",
+  "settingSendspinFullscreenCloseButtonDescription": "Toont de sluitknop ook als Dubbele tik om af te sluiten aan staat.",
   "settingSendspinFullscreenOnPlayTitle": "Speelt nu openen wanneer muziek begint",
   "settingSendspinFullscreenOnPlayDescription": "Open Speelt nu zodra het afspelen begint, zonder op de time-out van de schermbeveiliging te wachten.",
   "settingSendspinFullscreenMotionTitle": "Speelt nu sluiten bij beweging",

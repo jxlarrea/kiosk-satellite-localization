@@ -13,6 +13,8 @@
   "mediaLayoutArtOnly": "Только обложка",
   "settingSendspinFullscreenDoubleTapTitle": "Двойное касание для закрытия",
   "settingSendspinFullscreenDoubleTapDescription": "Двойное касание где угодно на виде «Сейчас играет» закрывает его. Кнопка закрытия не показывается. Игнорируется, пока «Сейчас играет» показан рядом с заставкой.",
+  "settingSendspinFullscreenCloseButtonTitle": "Всегда показывать кнопку закрытия",
+  "settingSendspinFullscreenCloseButtonDescription": "Показывает кнопку закрытия, даже когда «Двойное касание для закрытия» включено.",
   "settingSendspinFullscreenOnPlayTitle": "Открывать «Сейчас играет» при старте музыки",
   "settingSendspinFullscreenOnPlayDescription": "Открывать вид «Сейчас играет» сразу при старте воспроизведения, не дожидаясь тайм-аута заставки.",
   "settingSendspinFullscreenMotionTitle": "Прятать «Сейчас играет» при движении",

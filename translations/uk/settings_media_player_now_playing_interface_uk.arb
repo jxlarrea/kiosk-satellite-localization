@@ -13,6 +13,8 @@
   "mediaLayoutArtOnly": "Лише обкладинка",
   "settingSendspinFullscreenDoubleTapTitle": "Подвійний дотик для закриття",
   "settingSendspinFullscreenDoubleTapDescription": "Подвійний дотик будь-де у режимі «Зараз грає» закриває його. Кнопка закриття не показуватиметься. Ігнорується, коли «Зараз грає» показано поруч із заставкою.",
+  "settingSendspinFullscreenCloseButtonTitle": "Завжди показувати кнопку закриття",
+  "settingSendspinFullscreenCloseButtonDescription": "Показує кнопку закриття, навіть коли «Подвійний дотик для закриття» увімкнено.",
   "settingSendspinFullscreenOnPlayTitle": "Відкривати «Зараз грає» при початку музики",
   "settingSendspinFullscreenOnPlayDescription": "Відкривати режим «Зараз грає» щойно починається відтворення, замість очікування часу спрацювання заставки.",
   "settingSendspinFullscreenMotionTitle": "Закривати «Зараз грає» при русі",

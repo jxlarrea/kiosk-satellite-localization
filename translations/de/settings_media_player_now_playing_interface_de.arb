@@ -13,6 +13,8 @@
   "mediaLayoutArtOnly": "Nur Cover",
   "settingSendspinFullscreenDoubleTapTitle": "Zum Schließen doppeltippen",
   "settingSendspinFullscreenDoubleTapDescription": "Ein Doppeltipp an einer beliebigen Stelle von „Jetzt läuft“ schließt die Ansicht. Es wird keine Schließen-Schaltfläche angezeigt. Gilt nicht, wenn „Jetzt läuft“ neben dem Bildschirmschoner angezeigt wird.",
+  "settingSendspinFullscreenCloseButtonTitle": "Schließen-Schaltfläche immer anzeigen",
+  "settingSendspinFullscreenCloseButtonDescription": "Zeigt die Schließen-Schaltfläche auch, wenn „Zum Schließen doppeltippen“ an ist.",
   "settingSendspinFullscreenOnPlayTitle": "„Jetzt läuft“ beim Start der Wiedergabe öffnen",
   "settingSendspinFullscreenOnPlayDescription": "Öffnet „Jetzt läuft“ sofort, sobald die Wiedergabe beginnt, ohne auf das Timeout des Bildschirmschoners zu warten.",
   "settingSendspinFullscreenMotionTitle": "„Jetzt läuft“ bei Bewegungserkennung schließen",
