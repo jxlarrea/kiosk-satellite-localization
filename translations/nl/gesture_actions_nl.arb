@@ -43,5 +43,7 @@
   "gestureIntercomEmpty": "Er is nog geen kiosk op het netwerk gevonden.",
   "gestureVoiceWake": "Een spraakopdracht starten",
   "gestureVoiceStop": "De spraakassistent stoppen",
-  "gestureVoiceMute": "Voice Satellite dempen of het dempen opheffen"
+  "gestureVoiceMute": "Voice Satellite dempen of het dempen opheffen",
+  "gestureOpenAlarmList": "Alarmlijst openen",
+  "gestureOpenNextAlarm": "Volgende alarm openen"
 }

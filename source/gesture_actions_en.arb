@@ -577,5 +577,31 @@
         "Gestures > Add gesture > Choose an action"
       ]
     }
+  },
+  "gestureOpenAlarmList": "Open the alarm list",
+  "@gestureOpenAlarmList": {
+    "context": "Settings > Gestures > Add gesture > Choose an action",
+    "description": "Gesture action that opens the full screen alarm list.",
+    "x-locations": {
+      "device": [
+        "Settings > Gestures > Add gesture > Choose an action"
+      ],
+      "remoteAdmin": [
+        "Gestures > Add gesture > Choose an action"
+      ]
+    }
+  },
+  "gestureOpenNextAlarm": "Open the next alarm",
+  "@gestureOpenNextAlarm": {
+    "context": "Settings > Gestures > Add gesture > Choose an action",
+    "description": "Gesture action that opens the alarm that rings next on its details page.",
+    "x-locations": {
+      "device": [
+        "Settings > Gestures > Add gesture > Choose an action"
+      ],
+      "remoteAdmin": [
+        "Gestures > Add gesture > Choose an action"
+      ]
+    }
   }
 }

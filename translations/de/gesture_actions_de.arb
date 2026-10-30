@@ -43,5 +43,7 @@
   "gestureIntercomEmpty": "Es wurde noch kein Kiosk im Netzwerk gefunden.",
   "gestureVoiceWake": "Sprachbefehl starten",
   "gestureVoiceStop": "Sprachassistenten stoppen",
-  "gestureVoiceMute": "Voice Satellite stummschalten oder Stummschaltung aufheben"
+  "gestureVoiceMute": "Voice Satellite stummschalten oder Stummschaltung aufheben",
+  "gestureOpenAlarmList": "Weckerliste öffnen",
+  "gestureOpenNextAlarm": "Nächsten Wecker öffnen"
 }

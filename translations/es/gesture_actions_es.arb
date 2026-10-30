@@ -43,5 +43,7 @@
   "gestureIntercomEmpty": "Aún no se ha encontrado ningún kiosko en la red.",
   "gestureVoiceWake": "Iniciar un comando de voz",
   "gestureVoiceStop": "Detener el asistente de voz",
-  "gestureVoiceMute": "Silenciar o reactivar Voice Satellite"
+  "gestureVoiceMute": "Silenciar o reactivar Voice Satellite",
+  "gestureOpenAlarmList": "Abrir la lista de alarmas",
+  "gestureOpenNextAlarm": "Abrir la próxima alarma"
 }

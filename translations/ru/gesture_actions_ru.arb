@@ -43,5 +43,7 @@
   "gestureIntercomEmpty": "Киоски в сети пока не найдены.",
   "gestureVoiceWake": "Начать голосовую команду",
   "gestureVoiceStop": "Остановить голосового ассистента",
-  "gestureVoiceMute": "Выключить или включить звук Voice Satellite"
+  "gestureVoiceMute": "Выключить или включить звук Voice Satellite",
+  "gestureOpenAlarmList": "Открыть список будильников",
+  "gestureOpenNextAlarm": "Открыть следующий будильник"
 }
