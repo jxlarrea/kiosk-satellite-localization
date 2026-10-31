@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add Days shown, Today and tomorrow and Next 7 days in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the row in the Up next screensaver widget's settings that picks how many days ahead it lists events from and its options, on the device and in the remote admin. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
+
 - Add Open the alarm list and Open the next alarm in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the two gesture actions in the Gestures action chooser that open the alarm list and the alarm that rings next, on the device and in the remote admin. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
 
 - Add Fine-tune stop word sensitivity in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the slider under Stop word interruption on the Voice Satellite Wake Word page and its description, on the device and in the remote admin. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
