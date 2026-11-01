@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add the Music Library's Show speaker selection pill description in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the switch in the Music Library's User Interface group that shows or hides the speaker pill at the top of the library, on the device and in the remote admin. Its title reuses the Now Playing message. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
+
 - Add Days shown, Today and tomorrow and Next 7 days in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the row in the Up next screensaver widget's settings that picks how many days ahead it lists events from and its options, on the device and in the remote admin. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
 
 - Add Open the alarm list and Open the next alarm in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the two gesture actions in the Gestures action chooser that open the alarm list and the alarm that rings next, on the device and in the remote admin. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
