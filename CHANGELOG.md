@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add High and low and its description in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the switch in the Weather screensaver widget's settings that shows today's high and low temperatures, on the device and in the remote admin. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
+
 - Add the Music Library's Show speaker selection pill description in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the switch in the Music Library's User Interface group that shows or hides the speaker pill at the top of the library, on the device and in the remote admin. Its title reuses the Now Playing message. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
 
 - Add Days shown, Today and tomorrow and Next 7 days in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the row in the Up next screensaver widget's settings that picks how many days ahead it lists events from and its options, on the device and in the remote admin. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
