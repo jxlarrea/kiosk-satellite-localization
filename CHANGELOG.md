@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add the Android System Updates group in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: Install Android updates with its description and its Ask on the device, Right away and In a time window choices, Install from and Install until with their descriptions and the Kiosk Satellite Updates heading on the Updates page in Settings > Device, on the device and in the remote admin. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
+
 - Add Description and its description in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the switch in the Immich Media screensaver's Metadata settings that shows the photo's description at the bottom of the screen, on the device and in the remote admin. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
 
 - Add Colored dots and its description in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the switch in the Up next screensaver widget's settings that marks each event with its calendar's color instead of the person's picture, on the device and in the remote admin. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
