@@ -18,6 +18,8 @@
   "screensaverOverlayForecastDays": "Angezeigte Tage",
   "screensaverOverlayForecastToday": "Heute einbeziehen",
   "screensaverOverlayForecastTodayHelp": "Beginnt die Liste mit der heutigen Vorhersage.",
+  "screensaverOverlayForecastColored": "Farbige Symbole",
+  "screensaverOverlayForecastColoredHelp": "Zeigt die Wettersymbole in ihren eigenen Farben.",
   "screensaverOverlayHumidity": "Luftfeuchtigkeit",
   "screensaverOverlayWind": "Windgeschwindigkeit",
   "screensaverOverlayVisibility": "Sichtweite",

@@ -18,6 +18,8 @@
   "screensaverOverlayForecastDays": "显示的天数",
   "screensaverOverlayForecastToday": "包含今天",
   "screensaverOverlayForecastTodayHelp": "列表从今天的预报开始。",
+  "screensaverOverlayForecastColored": "彩色图标",
+  "screensaverOverlayForecastColoredHelp": "以天气图标本身的颜色显示。",
   "screensaverOverlayHumidity": "湿度",
   "screensaverOverlayWind": "风速",
   "screensaverOverlayVisibility": "能见度",

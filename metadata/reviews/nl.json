@@ -28184,5 +28184,17 @@
     "translation": "8d40c6665e76565b1fd4d3cf7f0b8f6e3d261deb7e0911b6c2f42a41e0678a7d",
     "author": "Xavier Larrea",
     "ownerAuthored": true
+  },
+  "screensaverOverlayForecastColored": {
+    "source": "90c608f1d428e52f29d8589db40462f1af69537151731f029d2a5556d3793903",
+    "translation": "2f217b6b971a2519c210602b68ee4e3bc69ee4f071ecb1bea5e465f57e27b968",
+    "author": "Xavier Larrea",
+    "ownerAuthored": true
+  },
+  "screensaverOverlayForecastColoredHelp": {
+    "source": "96d4ec4e8eeef14efbc849aa1c1800e03eeb8ce9b5698532dd3febb0de338d84",
+    "translation": "5fe751a30982b3262a408528b40a76e977b30eeee9f5d5fd7169d6b02b5b9328",
+    "author": "Xavier Larrea",
+    "ownerAuthored": true
   }
 }

@@ -18,6 +18,8 @@
   "screensaverOverlayForecastDays": "Getoonde dagen",
   "screensaverOverlayForecastToday": "Vandaag meenemen",
   "screensaverOverlayForecastTodayHelp": "Begin de lijst met de voorspelling van vandaag.",
+  "screensaverOverlayForecastColored": "Gekleurde pictogrammen",
+  "screensaverOverlayForecastColoredHelp": "Toon de weerpictogrammen in hun eigen kleuren.",
   "screensaverOverlayHumidity": "Vochtigheid",
   "screensaverOverlayWind": "Windsnelheid",
   "screensaverOverlayVisibility": "Zicht",

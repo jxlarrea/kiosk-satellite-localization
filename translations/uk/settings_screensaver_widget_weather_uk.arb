@@ -18,6 +18,8 @@
   "screensaverOverlayForecastDays": "Показано днів",
   "screensaverOverlayForecastToday": "Включати сьогодні",
   "screensaverOverlayForecastTodayHelp": "Почати список із прогнозу на сьогодні.",
+  "screensaverOverlayForecastColored": "Кольорові піктограми",
+  "screensaverOverlayForecastColoredHelp": "Показувати піктограми погоди у власних кольорах.",
   "screensaverOverlayHumidity": "Вологість",
   "screensaverOverlayWind": "Швидкість вітру",
   "screensaverOverlayVisibility": "Видимість",

@@ -18,6 +18,8 @@
   "screensaverOverlayForecastDays": "Показано дней",
   "screensaverOverlayForecastToday": "Включать сегодня",
   "screensaverOverlayForecastTodayHelp": "Начинать список с прогноза на сегодня.",
+  "screensaverOverlayForecastColored": "Цветные значки",
+  "screensaverOverlayForecastColoredHelp": "Показывать значки погоды в их собственных цветах.",
   "screensaverOverlayHumidity": "Влажность",
   "screensaverOverlayWind": "Скорость ветра",
   "screensaverOverlayVisibility": "Видимость",
