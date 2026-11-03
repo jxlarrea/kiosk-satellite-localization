@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add Echo cancellation method, its description, GTCRN (detected) and AEC3 (detected) in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the row in Microphone settings that picks the echo canceller or tests the device for it, and the choices that show the result of that test, on the device and in the remote admin. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
+
 - Add Colored icons and its description in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the switch in the Weather forecast screensaver widget's settings that shows the weather icons in their own colors, on the device and in the remote admin. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
 
 - Add Weather forecast, Days shown, Include today and its description and the Weather forecast search summary in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the screensaver widget that lists the coming days of a weather entity's forecast and its settings, on the device and in the remote admin. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
