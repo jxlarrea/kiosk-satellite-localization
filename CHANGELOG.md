@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add Weather forecast, Days shown, Include today and its description and the Weather forecast search summary in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the screensaver widget that lists the coming days of a weather entity's forecast and its settings, on the device and in the remote admin. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
+
 - Add Control the device volume and its description in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the switch on the Sendspin Player page that lets Music Assistant set the volume the volume buttons change instead of the media volume, on the device and in the remote admin. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
 
 - Add High and low and its description in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the switch in the Weather screensaver widget's settings that shows today's high and low temperatures, on the device and in the remote admin. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
