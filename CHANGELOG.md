@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add Colored dots and its description in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the switch in the Up next screensaver widget's settings that marks each event with its calendar's color instead of the person's picture, on the device and in the remote admin. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
+
 - Add the calendar's event form and its settings in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: New event, Edit event and the form's fields and Repeat choices, the save and delete confirmations with their This event, This and following events and All events choices, the messages after saving or deleting and the Editing group in Settings > Calendar with Allow adding and editing events and Allow deleting events, on the device and in the remote admin. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
 
 - Add Echo cancellation method, its description, GTCRN (detected) and AEC3 (detected) in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the row in Microphone settings that picks the echo canceller or tests the device for it, and the choices that show the result of that test, on the device and in the remote admin. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
