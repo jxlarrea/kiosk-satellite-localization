@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add the music picker and the alarm Music row in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: Choose music with its search, source and speaker menus, the Random picks, the Whole album, playlist, artist and folder rows, Shuffle, Preview and the footer and speaker notes, the Music row on an alarm with None, Remove music and its note, and the Alarm music setting with its description in Settings > Alarms, on the device and in the remote admin. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
+
 - Add the Android System Updates group in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: Install Android updates with its description and its Ask on the device, Right away and In a time window choices, Install from and Install until with their descriptions and the Kiosk Satellite Updates heading on the Updates page in Settings > Device, on the device and in the remote admin. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
 
 - Add Description and its description in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the switch in the Immich Media screensaver's Metadata settings that shows the photo's description at the bottom of the screen, on the device and in the remote admin. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.

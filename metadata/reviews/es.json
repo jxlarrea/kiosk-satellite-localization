@@ -23758,5 +23758,185 @@
     "source": "70c894e04a0b20a81b251b60b921f3a67509b70ce682566ccd34e746840ef33a",
     "translation": "fc01efaf53a738930938dfa6e9d32232ff54aa82dcbf1d63dd288cc49a59980e",
     "author": "Xavier Larrea"
+  },
+  "musicPickerWholeArtist": {
+    "source": "5d7bed3155a682fc9e4a85e299a2600287e5f51289e141ef98262b5e745cece4",
+    "translation": "fce0556185abf7a1c1da6e067ca10f685aeff105157275d2c17769966bf7d1de",
+    "author": "Xavier Larrea"
+  },
+  "musicPickerWholePlaylist": {
+    "source": "d0d19432131594f8c3a9de602d9cc8d9e75f3bc9b151aee63c7812e6c8aee3f7",
+    "translation": "dce0cf9e3a6dbd046555259c707a019c792695cb097a849784b7d739934459e9",
+    "author": "Xavier Larrea"
+  },
+  "alarmsMusic": {
+    "source": "ed4cae37e9e0c1175d79465db936adfcb907fae08fb8e31854fbcb578d01e569",
+    "translation": "0e0cc1a93fe567a4935c582cb5bb54c2ee942dff9e635e861f3339b636f83087",
+    "author": "Xavier Larrea"
+  },
+  "musicPickerFollowsNote": {
+    "source": "6cf5915ff6b63f6e4835b97399be389534d739d2ecd65358d8ddae1cb9582728",
+    "translation": "e8be906b914d1dec4358fac5498805a452069b9ce2505951c771cfd33a0aa462",
+    "author": "Xavier Larrea"
+  },
+  "musicPickerNothing": {
+    "source": "536063026fa5c9052cab81f4a277a69944c31217d2220a30f4b9d6684a690dea",
+    "translation": "d77b23fb7a805d22592749507339b03f2b5e53c367b092e2a5ff812633ee2862",
+    "author": "Xavier Larrea"
+  },
+  "musicPickerRandomEach": {
+    "source": "8d53db498b326366021e7af46898c316cd9462eee16db9566fd4246275bcf437",
+    "translation": "098cdf935ec500b2fadd033438ac682e52e58bcd9b7391fcb589d98b5864e11c",
+    "author": "Xavier Larrea"
+  },
+  "alarmsMusicHint": {
+    "source": "ced011bb66dad19b3384660d347c7ee6ddff044bac0d19f89be870b570c4f97d",
+    "translation": "7f0b19b920e2bcf540c7f2eeb4567f5e0dd406fb7314442d38c3d0d324962a2f",
+    "author": "Xavier Larrea"
+  },
+  "musicPickerAnyAlbum": {
+    "source": "4413128edad32c1fb6fa3b121907ca71517bb66e7ddf02d45cfa1642e0487dfb",
+    "translation": "ded8f979cc8bb7dc5275defd4050653e489c1db8e1a4bd9d5b4f93e0fedd3b0b",
+    "author": "Xavier Larrea"
+  },
+  "musicPickerShuffle": {
+    "source": "5c9cc0c690f4f657d97db6fbddbbd86497b2f989b8f1c9264c0d7af66bc39a29",
+    "translation": "62edb7d808fccb2ebd3aa7afea94359abb0776cf2b251060b9a88219dbb7a0bd",
+    "author": "Xavier Larrea"
+  },
+  "musicPickerStopPreview": {
+    "source": "0c2051d00597cfbf44df14ac2dee1f50139609dc2db18899ccc9e3159b729c6b",
+    "translation": "f463306cc7a60197b27a1c5b2ff6050d9603c1bc9beba76c414c3d1263485799",
+    "author": "Xavier Larrea"
+  },
+  "musicPickerSpeakerLabel": {
+    "source": "f33701eb1fdd393bcf3f0744e079c5186f59d83ea284eb1047195eab77a63999",
+    "translation": "9567523961b3c3610b1ae5682ae2565ba188347bf2545ef0ef77b060f50dd42b",
+    "author": "Xavier Larrea"
+  },
+  "musicPickerOpen": {
+    "source": "56683652ea1e817e21e616da830ca151b7111c9b32438a5dc77c8d04c87dc22c",
+    "translation": "2b48693695006c6504717abe1de4a28973415f7b4f97b6b4df41ebdc73e057a9",
+    "author": "Xavier Larrea"
+  },
+  "musicPickerTitle": {
+    "source": "3e5b7ef37880931a86e89030ff1168ba84406cfff808fda3f1caccbaa8549d1e",
+    "translation": "2dae28587c103c3caf3477ae3a1ed8b7cf99d76af028e863c44af32e4315647d",
+    "author": "Xavier Larrea"
+  },
+  "musicPickerAnyStation": {
+    "source": "a7d133dfb558c639327b5a2ecc41b98393e36b634dee129d4205d529a05eb1ea",
+    "translation": "ba5e507a867b9d35d877f9329930f31f08c73051f230858ef96ae8dd262c65cf",
+    "author": "Xavier Larrea"
+  },
+  "alarmsMusicRemove": {
+    "source": "2e7978806aa6afc41b2da6beb06ebe500c93f51a58ade6c98f20312230ccd6b4",
+    "translation": "1d6c75e4188bfe5b3dd5670225969536396bff71697715917111ce43808b980f",
+    "author": "Xavier Larrea"
+  },
+  "musicPickerAnyPlaylist": {
+    "source": "bef7cece8aec6e9d8e68d403e7c9d76dc23d9739717b35304339c1085e4bbede",
+    "translation": "26e126b839889cfc36ff759abe5e642d66bf5d1ac67c7984b25a86bfce8f4926",
+    "author": "Xavier Larrea"
+  },
+  "musicPickerWholeAlbum": {
+    "source": "33aaf9b393870cbc5a38506596de4f7b5fc9d9ad066ed8b3eff04b60ba80980a",
+    "translation": "a23e74c211ff6d2eed1477a27a24c77051ae7a3d59a80d26ff8c230dd3a33cd9",
+    "author": "Xavier Larrea"
+  },
+  "musicPickerRandom": {
+    "source": "c5c9b5d7a61317e979e797533ece53ae3d752c5db12c41123776504ac592e099",
+    "translation": "62edb7d808fccb2ebd3aa7afea94359abb0776cf2b251060b9a88219dbb7a0bd",
+    "author": "Xavier Larrea"
+  },
+  "musicPickerSonosNote": {
+    "source": "75d493eba8476436ea358b8eb704a987ddf23bee599b95dbf5fa8c29f32de07d",
+    "translation": "a2d8df9e9516b94a55e63f97b3f0cdf6f92ba5ac84f08f620902cb2c36cbf927",
+    "author": "Xavier Larrea"
+  },
+  "musicPickerAllTracks": {
+    "source": "e815393cefa308d5e892624bcbc53e2d2efc6286a5205583c2191950b02e45dc",
+    "translation": "1778541978c01f6768edd0aa3304d88ebb27c61a6e684a7f5c021c4eaf4487b8",
+    "author": "Xavier Larrea"
+  },
+  "musicPickerAnyTrack": {
+    "source": "cf2a9b9d5893be0f0e66b16c2abc5de93f90637b4d9e7c9b8ecaa99a57fe940b",
+    "translation": "5f21bcedce5717555ead0bbb0b33176620c73291324b6dafbfa5ab0f924bfefd",
+    "author": "Xavier Larrea"
+  },
+  "musicPickerAnyFavorite": {
+    "source": "114b33d7e9e9190bac31f9fccb3bfd72ce4555a235587a79bbaeb69571ffa47d",
+    "translation": "42b50f4d9f71d052e6ba1a61d48bc8e23596746d846d48f505d38a9347f991ad",
+    "author": "Xavier Larrea"
+  },
+  "musicPickerWholeFolder": {
+    "source": "c5aa00109959a7d4378947979471d857f0d54a73ac38ca1fcd5c3541b7d7d5cb",
+    "translation": "4c33f34ee7278e4a2f9d84fc5a75de9173dddaf07bda498be21fad11000f53fb",
+    "author": "Xavier Larrea"
+  },
+  "musicPickerSourceLabel": {
+    "source": "f5dc2acd8e7ded6615dbdaf97340ec251e098573e8db547cda1e2da5626c90a4",
+    "translation": "9a49a70e213e7dd3fc9e1fa3924e1c3e88d3a4a8912352be85cf62674014440e",
+    "author": "Xavier Larrea"
+  },
+  "musicPickerKindFolder": {
+    "source": "666504c90c1ce4c945a0d62f24d8761af17c6578f7719a0a18f7b814881f8d75",
+    "translation": "7342decb572868d3debb276065ce50018fdaa18c13660d4d9fe9cfd539f27f37",
+    "author": "Xavier Larrea"
+  },
+  "musicPickerPreview": {
+    "source": "959ac5e4e015d339c427eea539b7c469e6846175e0c4c6d18bcc7a1c83856cd2",
+    "translation": "06343b80aaa3e3f386d6539a8cce0e3fe0af1e5dacca33056cc553e6075ee33c",
+    "author": "Xavier Larrea"
+  },
+  "musicPickerMusicFrom": {
+    "source": "5d9b87aac5f14e5d5464ca157b58f8721644ae4e80dc3cd27f6797735c48f8c0",
+    "translation": "dbda55099b35c641b3821220dbc288203348c85320a948bf914b7cc59cfb4b13",
+    "author": "Xavier Larrea"
+  },
+  "musicPickerRandomHint": {
+    "source": "88ea1f52d931ecb67682df8c065535c996a62d61f54651e1574984d34b3628bb",
+    "translation": "ee1c8ed35a641e68b57f03cfd66074c5a8a5d5ee424a4f9fc8b52b979e1a81e6",
+    "author": "Xavier Larrea"
+  },
+  "musicPickerPlaysOn": {
+    "source": "b703a5c8cfe8359bc87cc0ffc0ec13bf385d8d614bad0e71d4fa91d00443e7bf",
+    "translation": "d98e8c6c7945c97e39887451617ad3e3c0cc65661416f4f103ab99343ffaf596",
+    "author": "Xavier Larrea"
+  },
+  "musicPickerNothingHint": {
+    "source": "291de779115e7ebcbee8f4914cd70bad53d3f49a7f1b0cfc0615885b838f5e58",
+    "translation": "9fe7cc502ab4e19da9cc8637abb439cebb82c9bc4b6c43d998ad62d673e51f05",
+    "author": "Xavier Larrea"
+  },
+  "musicPickerNoSpeakers": {
+    "source": "23dcf6714e801b9edefdf29d58e69a0b20fbc6d0bfee7ea01e0c5a1fc417681d",
+    "translation": "e18b12de3aea5b7a235d0e4da4a17b6d410bffd6f4b0e8446153726d25d97dc0",
+    "author": "Xavier Larrea"
+  },
+  "alarmsMusicNone": {
+    "source": "13289c6315ec6d34190d6dace90709e60f8c1f68d9ab58bd53f6c5713ae09d77",
+    "translation": "265a0222634a7a2e8a9be6368b8ea68adfe434d3930454d408a07ae693c1c4aa",
+    "author": "Xavier Larrea"
+  },
+  "musicPickerPreviewFailed": {
+    "source": "99efcbfc16396be86e373a4adbda8238d7b93ec8c722f45b5727d4d1e11c7288",
+    "translation": "3e44fa226330700d953b4d94ba967fe988756283ba237fb9dc676d2e190e8347",
+    "author": "Xavier Larrea"
+  },
+  "musicPickerSearchHint": {
+    "source": "e508a0a1a3ce9e7316dbbfe3e279e87ed25249d76ef2266ab751a1c4635e3b05",
+    "translation": "5ef7a4f096049c4c1bb454b4cbe7d6d2c0dd19ffb43cb213159602166e9298a6",
+    "author": "Xavier Larrea"
+  },
+  "settingAlarmsMusicTitle": {
+    "source": "450ab0ad47c83f66084583344a88b6f59e44599421f27b43f2561345eb67ee9f",
+    "translation": "a874046dc585281c05df34d5b26fde81b2df5348ca59c43b06a3b8f40278ae28",
+    "author": "Xavier Larrea"
+  },
+  "settingAlarmsMusicDescription": {
+    "source": "47dfd1ad52dc84a516da70f86b616af56dc5de8dbff285ef491a3bad152c7328",
+    "translation": "7f0b19b920e2bcf540c7f2eeb4567f5e0dd406fb7314442d38c3d0d324962a2f",
+    "author": "Xavier Larrea"
   }
 }
