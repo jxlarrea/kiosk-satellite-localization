@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add Available variables in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the hint under an alarm's Phrase box, which now lists every variable a phrase can use. The old hint is removed from every language. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
+
 - Add Enable screensaver widgets, its description and Show this widget in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the switch at the top of the Widgets page and the switch on each widget in its list.
 
 - Add intercom video calls in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the Video group with Video calls and Video quality, the Voice call and Video call buttons, Voice only, Video, Camera, Camera off, Your camera is off, Video reconnecting and the notice for a kiosk with its camera off.
