@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add intercom video calls in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the Video group with Video calls and Video quality, the Voice call and Video call buttons, Voice only, Video, Camera, Camera off, Your camera is off, Video reconnecting and the notice for a kiosk with its camera off.
+
 - Add Video length in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the row in the Home Assistant Media, Local Media, Photo Gallery and Immich Media screensaver settings that plays each video in full or for the seconds per photo, with its description and its Whole video and Same as photos choices. Seconds per image and Seconds per photo get shorter descriptions that no longer say videos play in full, and the old descriptions are removed from every language. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
 
 - Add the music picker and the alarm Music row in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: Choose music with its search, source and speaker menus, the Random picks, the Whole album, playlist, artist and folder rows, Shuffle, Preview and the footer and speaker notes, the Music row on an alarm with None, Remove music and its note, and the Alarm music setting with its description in Settings > Alarms, on the device and in the remote admin. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
