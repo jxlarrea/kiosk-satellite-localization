@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add Answer with camera on, its description, Camera on in and Switch camera in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the intercom switch that answers video calls with the camera on, its countdown and the button that moves a video call between the front and back camera.
+
 - Add Show all-day events in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the switch in the Up next screensaver widget's settings that lists only events with a start time when it is off.
 
 - Add Available variables in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the hint under an alarm's Phrase box, which now lists every variable a phrase can use. The old hint is removed from every language. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
