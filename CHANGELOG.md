@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add Ring volume and its description in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the slider under Intercom > Answer that sets how loud a call rings. The Ring sound hint now says it plays at the ring volume instead of the notification volume, and the previous hint is removed from every language. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
+
 - Reword the Week starts on hint in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the Calendar setting now follows the app language instead of the device language. The previous hint is removed from every language. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
 
 - Reword the Talk right after the wake word hint in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the switch on the Voice Satellite Assistant page now says that it only covers Assist pipelines, not realtime conversations. The previous hint is removed from every language. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
