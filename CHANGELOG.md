@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Reword the Talk right after the wake word hint in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the switch on the Voice Satellite Assistant page now says that it only covers Assist pipelines, not realtime conversations. The previous hint is removed from every language. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
+
 - Add {name} update available and Version {version} is ready to review and install in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the plugin update row under Needs attention on the Overview.
 
 - Add Answer with camera on, its description, Camera on in and Switch camera in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the intercom switch that answers video calls with the camera on, its countdown and the button that moves a video call between the front and back camera.
