@@ -185,7 +185,7 @@
   "calendarWeekStartLocale": "Language default",
   "@calendarWeekStartLocale": {
     "context": "Settings > Calendar",
-    "description": "Week starts on: the app language's first day.",
+    "description": "Week starts on: the device language's first day.",
     "x-locations": {
       "device": [
         "Settings > Calendar"
