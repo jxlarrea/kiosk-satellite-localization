@@ -39,8 +39,8 @@
       ]
     }
   },
-  "settingCalendarWeekStartDescription": "Follows the device language unless set.",
-  "@settingCalendarWeekStartDescription": {
+  "settingCalendarWeekStartAppLanguageDescription": "Follows the app language unless set.",
+  "@settingCalendarWeekStartAppLanguageDescription": {
     "context": "Settings > Calendar > Display",
     "description": "Setting description.",
     "x-locations": {
@@ -185,7 +185,7 @@
   "calendarWeekStartLocale": "Language default",
   "@calendarWeekStartLocale": {
     "context": "Settings > Calendar",
-    "description": "Week starts on: the device language's first day.",
+    "description": "Week starts on: the app language's first day.",
     "x-locations": {
       "device": [
         "Settings > Calendar"
