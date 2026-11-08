@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add Settings > Navigation in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the new Kiosk Satellite group in the Settings menu, the Classic and Compass navigation styles, the Compass layout map and its view dialog, the Compass options and the Menu view's Quick controls and Open groups. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
+
 - Add Brighten for touch interactions and its description in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the slider under Screensaver brightness that lifts the dimming for a few seconds after a touch that does not dismiss the screensaver. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
 
 - Add Ring volume and its description in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the slider under Intercom > Answer that sets how loud a call rings. The Ring sound hint now says it plays at the ring volume instead of the notification volume, and the previous hint is removed from every language. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
