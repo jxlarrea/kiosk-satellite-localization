@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Reword Close when idle for the Music Library and the calendar and Auto-dismiss after for camera views in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian. Both now say that Return to center applies instead while the view is in the Compass layout, and the camera text no longer uses a semicolon. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
+
 - Reword the Classic navigation card in Settings > Navigation to "Home Assistant view with drawer menu." in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
 
 - Add the note on settings that Compass navigation switches off and reword Allow menu with quick actions for both navigation styles in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian. The note shows under pull to refresh and the dashboard carousel while Compass is on. The quick menu description now says an edge swipe opens the menu in Classic navigation and that it is the Menu view in Compass. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
