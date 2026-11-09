@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add Duplicate in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the button beside Delete in the row editor of a plugin list setting that turns the open row into a new row holding a copy of it. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
+
 - Add Settings > Navigation in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the new Kiosk Satellite group in the Settings menu, the Classic and Compass navigation styles, the Compass layout map and its view dialog, the Compass options and the Menu view's Quick controls and Open groups. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
 
 - Add Brighten for touch interactions and its description in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the slider under Screensaver brightness that lifts the dimming for a few seconds after a touch that does not dismiss the screensaver. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
