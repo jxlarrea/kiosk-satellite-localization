@@ -29343,5 +29343,23 @@
     "translation": "7fc1bb0ac247f5e83a1e46ce2f46ef195c416f2cec9a9cb7abb313811fb2eaa6",
     "author": "Xavier Larrea",
     "ownerAuthored": true
+  },
+  "compassQuickControlsView": {
+    "source": "c40c6e71ba0b6f95c4e216c94932f6766f278be2aa8bb922693e2d37b10a6587",
+    "translation": "218cb5db504d4ed23bdf9e0e01ae3269e8d2aab59e5b722e8ae64da7f567cd2a",
+    "author": "Xavier Larrea",
+    "ownerAuthored": true
+  },
+  "settingKioskAllowQuickControlsDescription": {
+    "source": "4a076c5243267cd032eed86821bceddb1f91af4259847bd2ea0ff0600aaa3f5d",
+    "translation": "5fa6d85741c2c9ff1db6044fa206cb275c591b8c930843d7612ad8d27edac2e4",
+    "author": "Xavier Larrea",
+    "ownerAuthored": true
+  },
+  "settingNavQuickControlsItemsDescription": {
+    "source": "727f620bfca165e10e0b6901a6ccecdade995150f4c43dc2844d25ef6c741bac",
+    "translation": "0ab475464840af140fa4b0895cd98dd4000f4e130ba0480b92ff27bdd4ad2713",
+    "author": "Xavier Larrea",
+    "ownerAuthored": true
   }
 }

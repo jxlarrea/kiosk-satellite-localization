@@ -24468,5 +24468,20 @@
     "source": "e6eec92ad2fc6f98527d2ae36288f4cd48e75d0ad7314a402cc612ec9b1fa334",
     "translation": "faa1e29aa41590b5d4a6f1fb297c13458e589921e6a168783358c5ac754c33f6",
     "author": "Xavier Larrea"
+  },
+  "settingKioskAllowQuickControlsDescription": {
+    "source": "4a076c5243267cd032eed86821bceddb1f91af4259847bd2ea0ff0600aaa3f5d",
+    "translation": "270ce8854b10bbca6e47d171af86de2c45a347683abeb6261f0412f0085e579e",
+    "author": "Xavier Larrea"
+  },
+  "settingNavQuickControlsItemsDescription": {
+    "source": "727f620bfca165e10e0b6901a6ccecdade995150f4c43dc2844d25ef6c741bac",
+    "translation": "21c23f0082f5210dfe02a243c24854b090e7837c2c5945d6ab540597f3921348",
+    "author": "Xavier Larrea"
+  },
+  "compassQuickControlsView": {
+    "source": "c40c6e71ba0b6f95c4e216c94932f6766f278be2aa8bb922693e2d37b10a6587",
+    "translation": "ee9f8fcd85077dde720c886b4e7bd89f052fddc4368266f93bd590c17183e09a",
+    "author": "Xavier Larrea"
   }
 }
