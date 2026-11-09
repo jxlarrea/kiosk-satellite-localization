@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add the note on settings that Compass navigation switches off and reword Allow menu with quick actions for both navigation styles in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian. The note shows under pull to refresh and the dashboard carousel while Compass is on. The quick menu description now says an edge swipe opens the menu in Classic navigation and that it is the Menu view in Compass. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
+
 - Add Duplicate in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the button beside Delete in the row editor of a plugin list setting that turns the open row into a new row holding a copy of it. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
 
 - Add Settings > Navigation in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the new Kiosk Satellite group in the Settings menu, the Classic and Compass navigation styles, the Compass layout map and its view dialog, the Compass options and the Menu view's Quick controls and Open groups. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
