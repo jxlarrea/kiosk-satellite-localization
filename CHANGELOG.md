@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add the High and low description for the Weather Mood weather bar in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the switch that adds a chip with today's high and low temperatures from the weather entity's daily forecast. The switch reuses the weather widget's High and low title. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
+
 - Remove the Kiosk Satellite's language option of Wake word language from every language. The setting now lists only the locales of Amazon's wake word models installed on the Echo, so the app no longer shows it.
 
 - Add Unlock automatically after and its description in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the Lockdown Mode slider that turns the mode off after up to 10 minutes when it is started from the kiosk menu. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
