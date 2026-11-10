@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add the HTML5 Geolocation strings in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the group's name on the Web Browsing page, Enable geolocation access with its description, and the two lines of the Location permission row under it. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian texts are owner additions.
+
 - Add the High and low description for the Weather Mood weather bar in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the switch that adds a chip with today's high and low temperatures from the weather entity's daily forecast. The switch reuses the weather widget's High and low title. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian messages are maintainer additions.
 
 - Remove the Kiosk Satellite's language option of Wake word language from every language. The setting now lists only the locales of Amazon's wake word models installed on the Echo, so the app no longer shows it.
