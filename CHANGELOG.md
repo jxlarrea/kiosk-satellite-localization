@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add the Equalizer strings for Settings > Screen & Audio in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the page's name and hint, Enable equalizer, the five bands from 100 Hz to 10 kHz with their descriptions and Automatic preamp. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian texts are owner additions.
+
 - Add the plugin action Dashboard link strings in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the row's name in a plugin action's dialog and its description, which says to point a dashboard button's tap action at the `ks://plugin` link. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian texts are owner additions.
 
 - Add the HTML5 Geolocation strings in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the group's name on the Web Browsing page, Enable geolocation access with its description, and the two lines of the Location permission row under it. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian texts are owner additions.
