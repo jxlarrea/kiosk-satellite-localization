@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add Fade in and out and its description in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the Screensaver switch that fades the screensaver in over the dashboard and out when it is dismissed.
+
 - Add the strings for several Home Assistant dashboard views in the Compass layout in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the Compass layout description and the hint above the layout map, which now say that Home Assistant dashboard views can go in several times and every other kind once, and the line under Return to home dashboard view that says each dashboard view of the layout returns to the view picked for it. The two layout strings replace the ones that said one of each kind. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian text is an owner addition.
 
 - Add the Equalizer strings for Settings > Screen & Audio in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the page's name and hint, Enable equalizer, the five bands from 100 Hz to 10 kHz with their descriptions and Automatic preamp. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian texts are owner additions.
