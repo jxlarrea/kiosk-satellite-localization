@@ -20,5 +20,6 @@
   "voiceTimersShareOffline": "离线",
   "timersVoiceSection": "语音计时器",
   "timersVoiceManage": "通过 Voice Satellite 管理计时器",
-  "timersVoiceHint": "无需蓝图（脚本模板）或大语言模型（LLM）对话代理。"
+  "timersVoiceHint": "无需蓝图（脚本模板）或大语言模型（LLM）对话代理。",
+  "voiceTimersShareSearch": "搜索 Kiosk 设备"
 }

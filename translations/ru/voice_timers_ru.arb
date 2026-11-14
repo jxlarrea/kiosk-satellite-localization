@@ -20,5 +20,6 @@
   "voiceTimersShareOffline": "Не в сети",
   "timersVoiceSection": "Голосовые таймеры",
   "timersVoiceManage": "Управление таймерами через Voice Satellite",
-  "timersVoiceHint": "Работает без Blueprint и диалогового LLM-агента."
+  "timersVoiceHint": "Работает без Blueprint и диалогового LLM-агента.",
+  "voiceTimersShareSearch": "Поиск киосков"
 }

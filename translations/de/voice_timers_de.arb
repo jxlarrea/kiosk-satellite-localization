@@ -20,5 +20,6 @@
   "voiceTimersShareOffline": "Offline",
   "timersVoiceSection": "Timer per Sprache",
   "timersVoiceManage": "Timer mit Voice Satellite verwalten",
-  "timersVoiceHint": "Funktioniert ohne Blueprint und ohne LLM-Konversationsagenten."
+  "timersVoiceHint": "Funktioniert ohne Blueprint und ohne LLM-Konversationsagenten.",
+  "voiceTimersShareSearch": "Kiosks suchen"
 }

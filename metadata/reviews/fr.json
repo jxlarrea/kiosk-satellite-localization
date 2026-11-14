@@ -29778,5 +29778,17 @@
     "translation": "6f2378dd13c1c7964fe0da8bb13039b266517a811d259c7130f6341493efbb2d",
     "author": "Xavier Larrea",
     "ownerAuthored": true
+  },
+  "fleetTheKiosksPickedInShareWithTheTimerSound": {
+    "source": "cfec975faccc9fc33525741346111f6db891973d7a3c7b52c8503cfef52704dd",
+    "translation": "4e94a88b11537dd1ca30810a292517509d1a365a0f92d2725a4c9f19aec2d089",
+    "author": "Xavier Larrea",
+    "ownerAuthored": true
+  },
+  "voiceTimersShareSearch": {
+    "source": "84d3a1c24be100c11fd19c7dc35e27387e398d5893866e5d4d0c215c04cd0b47",
+    "translation": "2ccf34553d1302cc3bea37f641c315e8e68288966c7ab7488979553bd559d88d",
+    "author": "Xavier Larrea",
+    "ownerAuthored": true
   }
 }

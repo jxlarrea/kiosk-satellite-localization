@@ -26,5 +26,6 @@
   "settingVoiceTimersReceiveDescription": "Таймеры, которыми делятся другие киоски, показываются и звонят здесь.",
   "settingKioskAllowTimersTitle": "Таймеры",
   "settingKioskAllowTimersDescription": "Открывать вид таймеров из меню киоска.",
-  "settingsMenuTimersSummary": "Полноэкранный вид, плашки, общие таймеры"
+  "settingsMenuTimersSummary": "Полноэкранный вид, плашки, общие таймеры",
+  "fleetTheKiosksPickedInShareWithTheTimerSound": "киоски, выбранные в «Делиться с», звук таймера"
 }

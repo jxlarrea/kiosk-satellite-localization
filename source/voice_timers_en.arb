@@ -227,5 +227,18 @@
         "Timers"
       ]
     }
+  },
+  "voiceTimersShareSearch": "Search kiosks",
+  "@voiceTimersShareSearch": {
+    "context": "Settings > Timers > Share with",
+    "description": "Hint in the search box of the kiosk picker.",
+    "x-locations": {
+      "device": [
+        "Settings > Timers > Share with"
+      ],
+      "remoteAdmin": [
+        "Timers > Share with"
+      ]
+    }
   }
 }

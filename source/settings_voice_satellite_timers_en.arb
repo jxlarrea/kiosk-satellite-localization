@@ -147,5 +147,18 @@
         "Sidebar"
       ]
     }
+  },
+  "fleetTheKiosksPickedInShareWithTheTimerSound": "the kiosks picked in Share with, the timer sound",
+  "@fleetTheKiosksPickedInShareWithTheTimerSound": {
+    "context": "Fleet Management > Sync",
+    "description": "What stays per kiosk when the Timers category syncs. Share with and Timer sound are setting names.",
+    "x-locations": {
+      "device": [
+        "Settings > Fleet Management"
+      ],
+      "remoteAdmin": [
+        "Fleet Management"
+      ]
+    }
   }
 }

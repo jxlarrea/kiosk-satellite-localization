@@ -20,5 +20,6 @@
   "voiceTimersShareOffline": "Sin conexión",
   "timersVoiceSection": "Temporizadores por voz",
   "timersVoiceManage": "Gestionar temporizadores con Voice Satellite",
-  "timersVoiceHint": "Funciona sin blueprint ni agente de conversación LLM."
+  "timersVoiceHint": "Funciona sin blueprint ni agente de conversación LLM.",
+  "voiceTimersShareSearch": "Buscar kioskos"
 }
