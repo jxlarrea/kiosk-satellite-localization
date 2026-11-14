@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add Show Timers view when a timer starts and its description in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the switch of the Timers settings page that decides whether starting a timer opens the timers view. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian texts are owner additions.
+
 - Add Show Timers view when near completion and its description in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the slider of the Timers settings page that sets how long before a timer ends the timers view opens again. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian texts are owner additions.
 
 - Remove Voice of Assistant 1 from every language. The app no longer shows it: with no text to speech engine picked for timers, the box reads First available, as on Alarms.
