@@ -213,7 +213,7 @@
       ]
     }
   },
-  "settingTimersShowBeforeEndDescription": "How long before a timer ends the timers view opens.",
+  "settingTimersShowBeforeEndDescription": "How long before a timer ends the Timers view opens.",
   "@settingTimersShowBeforeEndDescription": {
     "context": "Settings > Timers",
     "description": "Description of that slider.",
