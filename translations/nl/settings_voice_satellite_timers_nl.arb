@@ -25,5 +25,6 @@
   "settingVoiceTimersReceiveTitle": "Gedeelde timers tonen",
   "settingVoiceTimersReceiveDescription": "Timers die andere kiosken delen, worden hier getoond en gaan hier af.",
   "settingKioskAllowTimersTitle": "Timers",
-  "settingKioskAllowTimersDescription": "De timerweergave openen vanuit het kioskmenu."
+  "settingKioskAllowTimersDescription": "De timerweergave openen vanuit het kioskmenu.",
+  "settingsMenuTimersSummary": "Schermvullende weergave, labels, gedeelde timers"
 }
