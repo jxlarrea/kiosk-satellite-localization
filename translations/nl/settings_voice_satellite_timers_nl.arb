@@ -35,6 +35,6 @@
   "settingTimersShowBeforeEndDescription": "Hoe lang voor het einde van een timer de timerweergave opent.",
   "settingTimersShowOnStartTitle": "Timerweergave tonen wanneer een timer start",
   "settingTimersShowOnStartDescription": "Opent de timerweergave telkens wanneer een timer wordt gestart.",
-  "settingTimersPostponeScreensaverTitle": "Schermbeveiliging uitstellen terwijl een timer loopt",
-  "settingTimersPostponeScreensaverDescription": "Voorkomt dat de schermbeveiliging start terwijl de timerweergave een lopende timer toont."
+  "settingTimersPauseScreensaverTitle": "Schermbeveiliging pauzeren terwijl een timer loopt",
+  "settingTimersPauseScreensaverDescription": "Voorkomt dat de schermbeveiliging start terwijl de timerweergave een lopende timer toont."
 }

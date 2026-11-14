@@ -35,6 +35,6 @@
   "settingTimersShowBeforeEndDescription": "За сколько до завершения таймера открывается вид таймеров.",
   "settingTimersShowOnStartTitle": "Показывать вид таймеров при запуске таймера",
   "settingTimersShowOnStartDescription": "Открывает вид таймеров при каждом запуске таймера.",
-  "settingTimersPostponeScreensaverTitle": "Откладывать заставку, пока идёт таймер",
-  "settingTimersPostponeScreensaverDescription": "Заставка не запускается, пока вид таймеров показывает идущий таймер."
+  "settingTimersPauseScreensaverTitle": "Приостанавливать заставку, пока идёт таймер",
+  "settingTimersPauseScreensaverDescription": "Заставка не запускается, пока вид таймеров показывает идущий таймер."
 }
