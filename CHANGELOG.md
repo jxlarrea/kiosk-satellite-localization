@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add Postpone screensaver while a timer runs and its description in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the switch of the Timers settings page that keeps the screensaver from starting while the timers view shows a running timer. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian texts are owner additions.
+
 - Add Show Timers view when a timer starts and its description in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the switch of the Timers settings page that decides whether starting a timer opens the timers view. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian texts are owner additions.
 
 - Add Show Timers view when near completion and its description in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the slider of the Timers settings page that sets how long before a timer ends the timers view opens again. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian texts are owner additions.

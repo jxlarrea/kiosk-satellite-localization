@@ -251,5 +251,31 @@
         "Timers"
       ]
     }
+  },
+  "settingTimersPostponeScreensaverTitle": "Postpone screensaver while a timer runs",
+  "@settingTimersPostponeScreensaverTitle": {
+    "context": "Settings > Timers",
+    "description": "Switch: the screensaver does not start while the timers view is open with a running timer. Use the wording of the other Postpone screensaver switches.",
+    "x-locations": {
+      "device": [
+        "Settings > Timers"
+      ],
+      "remoteAdmin": [
+        "Timers"
+      ]
+    }
+  },
+  "settingTimersPostponeScreensaverDescription": "Keep the screensaver from starting while the Timers view shows a running timer.",
+  "@settingTimersPostponeScreensaverDescription": {
+    "context": "Settings > Timers",
+    "description": "Description of that switch.",
+    "x-locations": {
+      "device": [
+        "Settings > Timers"
+      ],
+      "remoteAdmin": [
+        "Timers"
+      ]
+    }
   }
 }
