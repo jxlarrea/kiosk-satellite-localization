@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add the Shared timers and full screen timers view strings in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the Timers view with its buttons and labels, the Shared timers group with Share timers, Share with and Show shared timers, the Timers entry of Allowed Actions and the Open the timers gesture action. Show timer pills becomes Show timers as pills with a new description, and the previous title and description are removed from every language. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian texts are owner additions.
+
 - Add Fade in and out and its description in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the Screensaver switch that fades the screensaver in over the dashboard and out when it is dismissed.
 
 - Add the strings for several Home Assistant dashboard views in the Compass layout in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the Compass layout description and the hint above the layout map, which now say that Home Assistant dashboard views can go in several times and every other kind once, and the line under Return to home dashboard view that says each dashboard view of the layout returns to the view picked for it. The two layout strings replace the ones that said one of each kind. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian text is an owner addition.
