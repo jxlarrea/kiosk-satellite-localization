@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add the strings for setting and changing timers by hand in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: Set a timer, Edit timer, the Name label, the Hours, Minutes and Seconds captions, the message for a timer that could not be started, the Manage timers row of the Timers settings page and the note shown while the kiosk cannot start timers. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian texts are owner additions.
+
 - Add Search kiosks, the hint of the Share with kiosk picker, and the note that says what stays on each kiosk when a fleet profile syncs the Timers category, in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian texts are owner additions.
 
 - Add the strings of the Timers settings page in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the summary under Timers in the settings menu, the Voice timers group with Manage timers using Voice Satellite and its description, and a Chimes summary without the timer sound, which moved to the Timers page. The previous Chimes summary and the summary of the Voice Satellite Timers page are removed from every language. The app no longer shows them. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian texts are owner additions.
