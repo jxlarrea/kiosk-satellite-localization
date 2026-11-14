@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add Custom user agent and its description in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the field of the Web Browsing settings page that sets the user agent sent to websites in place of the default one. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian texts are owner additions.
+
 - Add Genres in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the list of the Music Library that shows the genres of a Music Assistant library, under Tracks. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian texts are owner additions.
 
 - Add Pause screensaver while a timer runs and its description in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the switch of the Timers settings page that keeps the screensaver from starting while the timers view shows a running timer. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian texts are owner additions.
