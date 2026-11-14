@@ -199,18 +199,5 @@
         "Timers"
       ]
     }
-  },
-  "settingTimersTtsEnginePlaceholder": "Voice of Assistant 1",
-  "@settingTimersTtsEnginePlaceholder": {
-    "context": "Settings > Timers",
-    "description": "Shown in the Text to speech engine box while no engine is picked: timers are spoken with the voice of the pipeline named Assistant 1 under Voice Satellite.",
-    "x-locations": {
-      "device": [
-        "Settings > Timers"
-      ],
-      "remoteAdmin": [
-        "Timers"
-      ]
-    }
   }
 }

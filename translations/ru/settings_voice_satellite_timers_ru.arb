@@ -30,6 +30,5 @@
   "fleetTheKiosksPickedInShareWithTheTimerSound": "киоски, выбранные в «Делиться с», звук таймера",
   "settingTimersTtsEngineDescription": "Сущность синтеза речи Home Assistant, которая произносит таймеры.",
   "settingTimersTtsLanguageDescription": "Язык, на котором произносятся таймеры.",
-  "settingTimersTtsVoiceDescription": "Голос, которым произносятся таймеры.",
-  "settingTimersTtsEnginePlaceholder": "Голос Ассистента 1"
+  "settingTimersTtsVoiceDescription": "Голос, которым произносятся таймеры."
 }

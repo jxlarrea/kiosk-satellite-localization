@@ -30,6 +30,5 @@
   "fleetTheKiosksPickedInShareWithTheTimerSound": "在“共享给”中选择的 Kiosk 设备、计时器提示音",
   "settingTimersTtsEngineDescription": "用于播报计时器的 Home Assistant 文本转语音实体。",
   "settingTimersTtsLanguageDescription": "计时器播报使用的语言。",
-  "settingTimersTtsVoiceDescription": "用于播报计时器的声音。",
-  "settingTimersTtsEnginePlaceholder": "助手 1 的声音"
+  "settingTimersTtsVoiceDescription": "用于播报计时器的声音。"
 }
