@@ -208,10 +208,10 @@
       ]
     }
   },
-  "screenAudioRoomNoiseNeedsWake": "There is no reading while wake word detection is off or muted.",
-  "@screenAudioRoomNoiseNeedsWake": {
+  "screenAudioRoomNoiseNoReading": "If there is no reading, turn on adaptive volume or wake word detection and check that the microphone is not muted.",
+  "@screenAudioRoomNoiseNoReading": {
     "context": "Settings:Screen & Audio:Adaptive volume",
-    "description": "Note under the room noise reading when the microphone is not listening.",
+    "description": "Note under the room noise reading while there is none: what a reading needs.",
     "x-locations": {
       "device": [
         "Settings > Screen & Audio > Adaptive volume"

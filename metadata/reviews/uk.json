@@ -30137,5 +30137,11 @@
     "translation": "dc56580b65327ba83bd04c3be8624af6701453b95a26a5dc9a3da5ed1857179d",
     "author": "Xavier Larrea",
     "ownerAuthored": true
+  },
+  "screenAudioRoomNoiseNoReading": {
+    "source": "c7300489aac8b20138fa0fb70e27e1f593b6e3c3778c65b31ef7a7d2f5677d5c",
+    "translation": "0b2117ec32efd67790472dadbfec3b595ceb3ad76fb8ac47063e23ecf767fb63",
+    "author": "Xavier Larrea",
+    "ownerAuthored": true
   }
 }

@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Replace the note under Room noise on the Adaptive volume page in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian. Adaptive volume now opens the microphone itself, so the note says to turn on adaptive volume or wake word detection and to check that the microphone is not muted. The old note is removed from every language. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian texts are owner additions.
+
 - Add the Adaptive volume page in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the switch, the Room noise reading and its notes, the Assistant, Media and Intercom switches, the Volume curve with its hint and the dialog that edits one point with its two range errors. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian texts are owner additions.
 
 - Add Release notes in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the heading of the plugin update review above the notes the plugin's author wrote for the new version. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian texts are owner additions.

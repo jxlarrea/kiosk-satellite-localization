@@ -16,7 +16,7 @@
   "screenAudioRoomNoise": "Bruit de la pièce",
   "screenAudioRoomNoiseNote": "Ce que mesure le microphone quand cet appareil est silencieux.",
   "screenAudioRoomNoiseHolds": "La mesure est conservée pendant que cet appareil diffuse du son. Les changements dans la pièce pendant la lecture ne sont pas pris en compte.",
-  "screenAudioRoomNoiseNeedsWake": "Il n'y a pas de mesure quand la détection du mot de réveil est désactivée ou coupée.",
+  "screenAudioRoomNoiseNoReading": "S'il n'y a pas de mesure, activez le volume adaptatif ou la détection du mot de réveil et vérifiez que le microphone n'est pas coupé.",
   "screenAudioDbfs": "{level} dBFS",
   "screenAudioVolumeCurveHint": "Faites glisser un point ou touchez-le pour saisir des valeurs exactes. Chaque volume est une proportion de son propre curseur.",
   "screenAudioVolumeCurveNoise": "Bruit de la pièce (dBFS)",

@@ -16,7 +16,7 @@
   "screenAudioRoomNoise": "Ruido de la habitación",
   "screenAudioRoomNoiseNote": "Lo que mide el micrófono mientras este dispositivo está en silencio.",
   "screenAudioRoomNoiseHolds": "La lectura se mantiene mientras este dispositivo reproduce sonido. Los cambios en la habitación durante la reproducción no se usan.",
-  "screenAudioRoomNoiseNeedsWake": "No hay lectura mientras la detección de palabras de activación está desactivada o silenciada.",
+  "screenAudioRoomNoiseNoReading": "Si no hay lectura, activa el volumen adaptativo o la detección de palabras de activación y comprueba que el micrófono no esté silenciado.",
   "screenAudioDbfs": "{level} dBFS",
   "screenAudioVolumeCurveHint": "Arrastra un punto o tócalo para escribir valores exactos. Cada volumen es una proporción de su propio control.",
   "screenAudioVolumeCurveNoise": "Ruido de la habitación (dBFS)",

@@ -16,7 +16,7 @@
   "screenAudioRoomNoise": "Kamergeluid",
   "screenAudioRoomNoiseNote": "Wat de microfoon meet terwijl dit apparaat stil is.",
   "screenAudioRoomNoiseHolds": "De meting blijft staan terwijl dit apparaat geluid afspeelt. Veranderingen in de kamer tijdens het afspelen worden niet gebruikt.",
-  "screenAudioRoomNoiseNeedsWake": "Er is geen meting zolang wekwoorddetectie uit staat of gedempt is.",
+  "screenAudioRoomNoiseNoReading": "Als er geen meting is, schakel dan adaptief volume of wekwoorddetectie in en controleer of de microfoon niet gedempt is.",
   "screenAudioDbfs": "{level} dBFS",
   "screenAudioVolumeCurveHint": "Versleep een punt of tik erop om exacte waarden in te voeren. Elk volume is een aandeel van zijn eigen schuifregelaar.",
   "screenAudioVolumeCurveNoise": "Kamergeluid (dBFS)",

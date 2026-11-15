@@ -16,7 +16,7 @@
   "screenAudioRoomNoise": "Raumgeräusch",
   "screenAudioRoomNoiseNote": "Was das Mikrofon misst, während dieses Gerät still ist.",
   "screenAudioRoomNoiseHolds": "Der Messwert bleibt stehen, solange dieses Gerät etwas wiedergibt. Änderungen im Raum während der Wiedergabe werden nicht verwendet.",
-  "screenAudioRoomNoiseNeedsWake": "Es gibt keinen Messwert, solange die Aktivierungswort-Erkennung deaktiviert oder stummgeschaltet ist.",
+  "screenAudioRoomNoiseNoReading": "Wenn es keinen Messwert gibt, aktiviere die adaptive Lautstärke oder die Aktivierungswort-Erkennung und prüfe, dass das Mikrofon nicht stummgeschaltet ist.",
   "screenAudioDbfs": "{level} dBFS",
   "screenAudioVolumeCurveHint": "Ziehe einen Punkt oder tippe darauf, um genaue Werte einzugeben. Jede Lautstärke ist ein Anteil ihres eigenen Reglers.",
   "screenAudioVolumeCurveNoise": "Raumgeräusch (dBFS)",
