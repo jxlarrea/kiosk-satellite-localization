@@ -117,8 +117,8 @@
       ]
     }
   },
-  "settingAdaptiveVolumeCurveDescription": "The volume at each room noise level, as a share of each volume's own slider.",
-  "@settingAdaptiveVolumeCurveDescription": {
+  "settingAdaptiveVolumeCurveSliderDescription": "The volume at each room noise level, as a percentage of that volume's slider under Screen & Audio.",
+  "@settingAdaptiveVolumeCurveSliderDescription": {
     "context": "Settings:Screen & Audio:Adaptive volume",
     "description": "Help below the setting.",
     "x-locations": {
@@ -240,8 +240,8 @@
       }
     }
   },
-  "screenAudioVolumeCurveHint": "Drag a point, or tap it to type exact values. Each volume is a share of its own slider.",
-  "@screenAudioVolumeCurveHint": {
+  "screenAudioVolumeCurveSliderHint": "Drag a point, or tap it to type exact values. The percentages apply to the Assistant, Media and Intercom volume sliders under Screen & Audio: 100% plays at the slider's level and 50% plays like the slider set to half.",
+  "@screenAudioVolumeCurveSliderHint": {
     "context": "Settings:Screen & Audio:Adaptive volume",
     "description": "Hint under the volume curve editor.",
     "x-locations": {

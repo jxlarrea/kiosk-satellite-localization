@@ -25048,5 +25048,15 @@
     "source": "c7300489aac8b20138fa0fb70e27e1f593b6e3c3778c65b31ef7a7d2f5677d5c",
     "translation": "90ff454e5ea3be134536d07bca390cd22ad1a2bc624549618076c5d502b07d26",
     "author": "Xavier Larrea"
+  },
+  "screenAudioVolumeCurveSliderHint": {
+    "source": "1aa983bab81c6ff4d9269b88c4f867905dbb6c60e90198b4d343fcd966ac2520",
+    "translation": "6b1c135873a35357a6918f66a9f5864284095707b065191188c272c14ad1020d",
+    "author": "Xavier Larrea"
+  },
+  "settingAdaptiveVolumeCurveSliderDescription": {
+    "source": "46a1450639d552b0de30c475e661d9f25dd0a87d8cb20a75ecb0c2e47bd28d1b",
+    "translation": "8b2e87474ba3bb5b46c7116aada05b6474a08b0a3b31d242259717687675a7e8",
+    "author": "Xavier Larrea"
   }
 }
