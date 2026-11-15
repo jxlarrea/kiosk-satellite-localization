@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add the Adaptive volume page in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the switch, the Room noise reading and its notes, the Assistant, Media and Intercom switches, the Volume curve with its hint and the dialog that edits one point with its two range errors. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian texts are owner additions.
+
 - Add Release notes in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the heading of the plugin update review above the notes the plugin's author wrote for the new version. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian texts are owner additions.
 
 - Add Use the device MAC address for Bluetooth and its description in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the switch of the Bluetooth Proxy settings page that reports the device's MAC address as the proxy's Bluetooth address. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian texts are owner additions.
