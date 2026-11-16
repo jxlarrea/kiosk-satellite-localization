@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add Delete unused cameras in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the row of the Camera Streams Cameras list that deletes every camera that is not in a view, its confirmation and the line that counts those cameras. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian texts are owner additions.
+
 - Add the Test volume group on the Adaptive volume page in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: its heading, the Test Assistant volume and Test Media volume rows with their hints and the sentence Home Assistant speaks for the test. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian texts are owner additions.
 
 - Replace the hint under the Volume curve and the curve's description on the Adaptive volume page in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian. They now say that the percentages apply to the Assistant, Media and Intercom volume sliders under Screen & Audio. The old texts are removed from every language. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian texts are owner additions.
