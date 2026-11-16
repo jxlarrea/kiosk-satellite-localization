@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add the Test volume group on the Adaptive volume page in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: its heading, the Test Assistant volume and Test Media volume rows with their hints and the sentence Home Assistant speaks for the test. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian texts are owner additions.
+
 - Replace the hint under the Volume curve and the curve's description on the Adaptive volume page in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian. They now say that the percentages apply to the Assistant, Media and Intercom volume sliders under Screen & Audio. The old texts are removed from every language. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian texts are owner additions.
 
 - Replace the note under Room noise on the Adaptive volume page in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian. Adaptive volume now opens the microphone itself, so the note says to turn on adaptive volume or wake word detection and to check that the microphone is not muted. The old note is removed from every language. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian texts are owner additions.
