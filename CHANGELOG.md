@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add Silence after and Dismiss after to the When a timer ends group of the Timers settings page in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: how long a finished timer rings before the sound stops while the alert stays on screen, and how long before it is dismissed as a tap on Dismiss does, with their descriptions. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian texts are owner additions.
+
 - Rename the Voice Match page of the Voice Satellite settings to Ground Control Voice Match and add Chosen people to Answer in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the page name, the Chosen people option and its description, the People setting with its description, the texts of its picker (Anyone enrolled, Search people, the empty list and a person who is no longer in Ground Control) and Voice not chosen, which replaces Voice not enrolled. The old page name, Enrolled voices only, its description and Voice not enrolled are removed from every language. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian texts are owner additions.
 
 - Rename End when someone else talks to Leave other voices out on the Voice Match page in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian, with a description that says Home Assistant and the realtime assistant hear only the person who said the wake word. The old title and description are removed from every language. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian texts are owner additions.
