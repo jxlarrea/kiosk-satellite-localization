@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add Skip for the next alarm in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the button under the Clock and Weather Mood screensaver clock shortly before an alarm, and the Skip button setting of the Alarms settings page with its description and its Off and 60 minutes options. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian texts are owner additions.
+
 - Add Delete unused cameras in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the row of the Camera Streams Cameras list that deletes every camera that is not in a view, its confirmation and the line that counts those cameras. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian texts are owner additions.
 
 - Add the Test volume group on the Adaptive volume page in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: its heading, the Test Assistant volume and Test Media volume rows with their hints and the sentence Home Assistant speaks for the test. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian texts are owner additions.
