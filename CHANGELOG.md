@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Rename End when someone else talks to Leave other voices out on the Voice Match page in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian, with a description that says Home Assistant and the realtime assistant hear only the person who said the wake word. The old title and description are removed from every language. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian texts are owner additions.
+
 - Add the Ground Control settings page in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: its name and summary in the settings menu, Enable Ground Control, Address, the status row that looks for it on the network and the Ground Control app row. Kiosk Satellite Voice Match is now Kiosk Satellite Ground Control, so the Enable Voice Match and Allow enrollment here descriptions name it, and the Voice Match page's Address, status and app texts are removed from every language. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian texts are owner additions.
 
 - Add the Voice Match enrollment screen and the new Voice Match settings in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the reading view a kiosk shows while a person enrolls their voice (its title, progress, tips, the warning about another voice, the result card and the passage to read aloud), the Show who is talking and Allow enrollment here settings and the Voice Match app row with Open. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian texts are owner additions.
