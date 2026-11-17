@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add the Voice Match enrollment screen and the new Voice Match settings in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the reading view a kiosk shows while a person enrolls their voice (its title, progress, tips, the warning about another voice, the result card and the passage to read aloud), the Show who is talking and Allow enrollment here settings and the Voice Match app row with Open. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian texts are owner additions.
+
 - Add the Voice Match page of the Voice Satellite settings in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: its name and summary, the Enable Voice Match, Address, Answer, Voice not enrolled, End when someone else talks and Speaker sensor settings with their descriptions and options, and the status row that says whether Voice Match was found and who is enrolled. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian texts are owner additions.
 
 - Add Skip for the next alarm in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the button under the Clock and Weather Mood screensaver clock shortly before an alarm, and the Skip button setting of the Alarms settings page with its description and its Off and 60 minutes options. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian texts are owner additions.
