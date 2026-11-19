@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add Enable timers to the Timers settings page in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the switch that turns timers on or off on a kiosk, with its description. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian texts are owner additions.
+
 - Add a Features section to the Ground Control settings page in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: its heading, a Voice Match row with its description, and a Vision Match row with its description and Coming soon. Voice Match and Vision Match keep their English names. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian texts are owner additions.
 
 - Add Call buttons to the Intercom settings page in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the list of buttons a kiosk puts on the screen of the kiosk it calls, its description, its Add a button row and the Icon field of its editor. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian texts are owner additions.
