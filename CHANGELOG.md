@@ -4,7 +4,7 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
-- Add the Immich slideshow progress bar settings to the Immich Media screensaver page in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: Show progress bar, Progress bar color and Progress bar transparency, each with its description. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian texts are owner additions.
+- Add the Immich slideshow progress bar settings to the Immich Media screensaver page in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: Show progress bar, Progress bar position with its Top and Bottom choices, Progress bar color and Progress bar transparency, each with its description. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian texts are owner additions.
 
 - Add the Ground Control approval statuses to the Ground Control settings page in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: Waiting for approval, Declined and Not accepted in the status row, each with the line under it that says to approve the kiosk on the Kiosks page of the Ground Control app or that the build can't connect. Ground Control, Kiosk Satellite and the Kiosks page keep their English names. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian texts are owner additions.
 
