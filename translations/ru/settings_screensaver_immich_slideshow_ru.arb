@@ -13,5 +13,11 @@
   "settingScreensaverImmichPairLandscapeDescription": "Показывать два альбомных фото одно над другим, чтобы заполнить портретный экран.",
   "settingScreensaverImmichEdgeTapsTitle": "Касание краёв для смены слайдов",
   "settingScreensaverImmichEdgeTapsDescription": "Касание левой или правой пятой части экрана показывает предыдущий или следующий слайд вместо закрытия.",
+  "settingScreensaverImmichProgressBarTitle": "Показывать индикатор прогресса",
+  "settingScreensaverImmichProgressBarDescription": "Тонкая полоса вдоль верхнего края экрана показывает, сколько времени осталось до следующего слайда.",
+  "settingScreensaverImmichProgressBarColorTitle": "Цвет индикатора прогресса",
+  "settingScreensaverImmichProgressBarColorDescription": "Цвет индикатора прогресса.",
+  "settingScreensaverImmichProgressBarTransparencyTitle": "Прозрачность индикатора прогресса",
+  "settingScreensaverImmichProgressBarTransparencyDescription": "Насколько фото просвечивает сквозь индикатор прогресса.",
   "screensaverMediaSlideshow": "Слайд-шоу"
 }

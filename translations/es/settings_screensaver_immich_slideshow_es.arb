@@ -13,5 +13,11 @@
   "settingScreensaverImmichPairLandscapeDescription": "Muestra dos fotos horizontales una sobre la otra para llenar una pantalla vertical.",
   "settingScreensaverImmichEdgeTapsTitle": "Tocar los bordes para cambiar de imagen",
   "settingScreensaverImmichEdgeTapsDescription": "Tocar el quinto izquierdo o derecho de la pantalla muestra la imagen anterior o siguiente en lugar de cerrar el protector de pantalla.",
+  "settingScreensaverImmichProgressBarTitle": "Mostrar barra de progreso",
+  "settingScreensaverImmichProgressBarDescription": "Una barra delgada en la parte superior de la pantalla muestra el tiempo que falta para la siguiente imagen.",
+  "settingScreensaverImmichProgressBarColorTitle": "Color de la barra de progreso",
+  "settingScreensaverImmichProgressBarColorDescription": "El color de la barra de progreso.",
+  "settingScreensaverImmichProgressBarTransparencyTitle": "Transparencia de la barra de progreso",
+  "settingScreensaverImmichProgressBarTransparencyDescription": "Cuánto de la foto se ve a través de la barra de progreso.",
   "screensaverMediaSlideshow": "Presentación"
 }

@@ -25723,5 +25723,35 @@
     "source": "7a00ec5901db5e3177cec8bcabac43482b8c14b100139eeedb25e8674d574ebb",
     "translation": "f64db64f75a68ec09286366cae5cc1370f5acf7deeeee0a7d0db32bb5df84f3f",
     "author": "Xavier Larrea"
+  },
+  "settingScreensaverImmichProgressBarTransparencyTitle": {
+    "source": "6a12e1c83b2737fcaf786af34ee486457e77969c6852dde29dd6583d47ba6f2d",
+    "translation": "ff9633f4702367811b5f8f28385e4e35af5b31f6285cc33e8fb00681e5d743a0",
+    "author": "Xavier Larrea"
+  },
+  "settingScreensaverImmichProgressBarTitle": {
+    "source": "968bc619c92835828b049500185b674607818f5992b1e5d458f9760bf57066ca",
+    "translation": "58167133869f0bd79e341ea1028151ae4cab29bbe7a70017240f18e0a48e913d",
+    "author": "Xavier Larrea"
+  },
+  "settingScreensaverImmichProgressBarColorTitle": {
+    "source": "3dcf387a5afa0b8d00d6d7ca5e69746f3d1d838d910ae2fcb3900c202e9223ad",
+    "translation": "7fd25a38ffa5c77f77799eebacbed5fd5b012c0706542e49ebba0969e04dc26d",
+    "author": "Xavier Larrea"
+  },
+  "settingScreensaverImmichProgressBarColorDescription": {
+    "source": "eabbeb356c36e2df0033ad3c7a948f29dffa2d187be7b0de0db173a8d1686f70",
+    "translation": "0fde35e0c90e28f44e36cda38ce30801d4487bfcb0789e24ed90d08d4307699e",
+    "author": "Xavier Larrea"
+  },
+  "settingScreensaverImmichProgressBarTransparencyDescription": {
+    "source": "6ccb6eb5f5617a31120b4c2e7c77f9dcdcaaf4635957d27e8db007e7eda196db",
+    "translation": "a2f6bcadb3ae6de4ad7a1ce1f8adbe657f63b6c0e4a3c0fede63661f42d72796",
+    "author": "Xavier Larrea"
+  },
+  "settingScreensaverImmichProgressBarDescription": {
+    "source": "c1e1298b98ec647021030645711a985d3652bf571328a0820b80fa5ea79ad1e8",
+    "translation": "6539fac3970655fe62d3b9dfb69f674a5fcf986c1a2293606306f3c5cf0d8c31",
+    "author": "Xavier Larrea"
   }
 }

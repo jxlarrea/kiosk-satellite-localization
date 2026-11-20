@@ -13,5 +13,11 @@
   "settingScreensaverImmichPairLandscapeDescription": "将两张横向照片上下排列以填满竖屏。",
   "settingScreensaverImmichEdgeTapsTitle": "点击边缘切换幻灯片",
   "settingScreensaverImmichEdgeTapsDescription": "点击屏幕左侧或右侧五分之一区域，显示上一张或下一张幻灯片，而非关闭屏保。",
+  "settingScreensaverImmichProgressBarTitle": "显示进度条",
+  "settingScreensaverImmichProgressBarDescription": "屏幕顶部的细条显示距下一张幻灯片的剩余时间。",
+  "settingScreensaverImmichProgressBarColorTitle": "进度条颜色",
+  "settingScreensaverImmichProgressBarColorDescription": "进度条的颜色。",
+  "settingScreensaverImmichProgressBarTransparencyTitle": "进度条透明度",
+  "settingScreensaverImmichProgressBarTransparencyDescription": "透过进度条可以看到多少照片。",
   "screensaverMediaSlideshow": "幻灯片"
 }

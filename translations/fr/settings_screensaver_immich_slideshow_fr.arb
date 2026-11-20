@@ -13,5 +13,11 @@
   "settingScreensaverImmichPairLandscapeDescription": "Afficher deux photos paysage l'une au-dessus de l'autre pour qu'elles remplissent un écran en portrait.",
   "settingScreensaverImmichEdgeTapsTitle": "Appuyer sur les bords pour changer de diapositive",
   "settingScreensaverImmichEdgeTapsDescription": "Un appui sur le cinquième gauche ou droit de l'écran affiche la diapositive précédente ou suivante au lieu de fermer l'économiseur d'écran.",
+  "settingScreensaverImmichProgressBarTitle": "Afficher la barre de progression",
+  "settingScreensaverImmichProgressBarDescription": "Une fine barre en haut de l'écran indique le temps restant avant la diapositive suivante.",
+  "settingScreensaverImmichProgressBarColorTitle": "Couleur de la barre de progression",
+  "settingScreensaverImmichProgressBarColorDescription": "La couleur de la barre de progression.",
+  "settingScreensaverImmichProgressBarTransparencyTitle": "Transparence de la barre de progression",
+  "settingScreensaverImmichProgressBarTransparencyDescription": "La part de la photo visible à travers la barre de progression.",
   "screensaverMediaSlideshow": "Diaporama"
 }
