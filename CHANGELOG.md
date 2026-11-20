@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Rename the Voice Match settings to its features in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the Ground Control Voice Match page is grouped in Recognition, Trimming and Isolation sections, Leave other voices out becomes Enable Trimming with a new description, Enable Isolation is added with its description, and the page summary, the Enable Voice Match description and the Voice Match row of the Ground Control Features section name Recognition, Trimming and Isolation. Recognition, Trimming and Isolation keep their English names. The old page summary, Enable Voice Match description, Leave other voices out title and description and Voice Match row description are removed from every language. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian texts are owner additions.
+
 - Add Enable timers to the Timers settings page in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the switch that turns timers on or off on a kiosk, with its description. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian texts are owner additions.
 
 - Add a Features section to the Ground Control settings page in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: its heading, a Voice Match row with its description, and a Vision Match row with its description and Coming soon. Voice Match and Vision Match keep their English names. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian texts are owner additions.
