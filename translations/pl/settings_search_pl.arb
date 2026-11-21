@@ -1,6 +1,6 @@
 {
   "@@locale": "pl",
-  "settingsSearchHint": "Szukaj w ustawieniach",
+  "settingsSearchHint": "Szukaj ustawień",
   "settingsSearchClear": "Wyczyść wyszukiwanie",
   "settingsSearchResults": "Wyniki wyszukiwania",
   "settingsSearchEmpty": "Brak ustawień pasujących do „{query}”."

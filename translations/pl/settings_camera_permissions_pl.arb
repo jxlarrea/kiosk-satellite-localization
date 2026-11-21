@@ -5,7 +5,7 @@
   "cameraCameraPermission": "Brak uprawnienia do kamery",
   "cameraCameraPermissionHelp": "Bez niego nie można używać kamery. Okno przyznania uprawnienia pojawia się na ekranie tabletu.",
   "cameraGrantOnDevice": "Przyznaj na urządzeniu",
-  "cameraCameraBlocked": "Zablokowane. Android nie zapyta ponownie, więc zezwól na to w ustawieniach aplikacji.",
+  "cameraCameraBlocked": "Zablokowano. Android nie zapyta ponownie, więc przyznaj uprawnienie w ustawieniach aplikacji.",
   "cameraCameraNeeded": "Bez tego uprawnienia nie można używać kamery.",
   "cameraAppSettings": "Ustawienia aplikacji"
 }

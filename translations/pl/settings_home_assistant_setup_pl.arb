@@ -1,8 +1,8 @@
 {
   "@@locale": "pl",
-  "settingHaUrlTitle": "Adres bazowy Home Assistant",
+  "settingHaUrlTitle": "Bazowy adres URL Home Assistant",
   "settingHaUrlDescription": "np. https://homeassistant.local:8123, bez ścieżki pulpitu.",
-  "settingHaTokenTitle": "Długoterminowy token dostępu",
+  "settingHaTokenTitle": "Długotrwały token dostępu",
   "settingHaTokenDescription": "Tworzony w Twoim „profilu HA” → „Bezpieczeństwo”.",
   "settingHaAutoLoginTitle": "Loguj automatycznie",
   "settingHaAutoLoginDescription": "Loguj do pulpitu za pomocą powyższego tokenu dostępu zamiast wyświetlać stronę logowania Home Assistant.",

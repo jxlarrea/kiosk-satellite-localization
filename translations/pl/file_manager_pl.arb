@@ -8,7 +8,7 @@
   "filesUploadedCount": "Przesłane pliki: {count}",
   "filesPermissionMissing": "Brak uprawnienia „Dostęp do wszystkich plików”",
   "filesPermissionHelp": "Bez tego uprawnienia można przeglądać tylko folder aplikacji. Ekran nadawania uprawnienia otworzy się na tablecie.",
-  "filesGrant": "Nadaj na urządzeniu",
+  "filesGrant": "Przyznaj na urządzeniu",
   "filesUp": "Przejdź folder wyżej",
   "filesShared": "Pamięć współdzielona",
   "filesApp": "Folder aplikacji",

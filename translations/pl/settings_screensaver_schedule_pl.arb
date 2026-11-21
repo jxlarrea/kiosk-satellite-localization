@@ -23,7 +23,7 @@
   "screensaverScreenOffNever": "Wyłączanie ekranu: nigdy",
   "screensaverMotion": "Zamykaj po wykryciu ruchu",
   "screensaverFace": "Zamykaj po wykryciu twarzy",
-  "screensaverProximity": "Zamykaj po zbliżeniu",
+  "screensaverProximity": "Zamykaj po wykryciu zbliżenia",
   "screensaverPerson": "Zamykaj po wykryciu osoby",
   "screensaverWidgets": "Widżety",
   "screensaverGlance": "W skrócie",

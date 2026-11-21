@@ -47,7 +47,7 @@
   "settingVoiceRealtimeMcpTokenTitle": "Token MCP",
   "settingVoiceRealtimeMcpTokenDescription": "Wysyłany jako token typu bearer. Pozostaw puste, jeśli serwer go nie wymaga.",
   "voiceRealtimeMcpMissing": "Dodaj integrację MCP Server w Home Assistant, aby sterować domem.",
-  "voiceRealtimeNotValidated": "Niezweryfikowane",
+  "voiceRealtimeNotValidated": "Nie zweryfikowano",
   "voiceRealtimeOption": "{provider} w czasie rzeczywistym",
   "voiceRealtimeConnectFailed": "Nie udało się połączyć: {error}",
   "voiceRealtimeToolsUnavailable": "Połączono, ale narzędzia Home Assistant są niedostępne: {problem}",

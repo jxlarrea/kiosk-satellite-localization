@@ -6,6 +6,6 @@
   "fleetAutomaticallyUpdateAllFollowersToTheKioskSatelliteVersion": "Automatycznie aktualizuj wszystkich członków floty do wersji Kiosk Satellite używanej przez lidera.",
   "fleetNothingToUpdate": "Nie ma czego aktualizować",
   "fleetUpdating": "Aktualizowanie",
-  "fleetNamesInstalling": "{names}: trwa instalacja.",
+  "fleetNamesInstalling": "Trwa instalacja: {names}.",
   "fleetSearchUpdates": "Zainstaluj uaktualnienie dostępne dla każdego członka floty, a następnie na tym kiosku."
 }

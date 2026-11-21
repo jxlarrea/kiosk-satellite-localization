@@ -9,7 +9,7 @@
   "settingScreensaverClockFontWeightTitle": "Grubość czcionki",
   "settingScreensaverClockFontWeightDescription": "Grubość cyfr zegara. Opcja „Domyślna” zachowuje własną grubość każdego stylu zegara.",
   "settingScreensaverClock24hTitle": "Zegar 24-godzinny",
-  "settingScreensaverClock24hDescription": "Pokazuj czas w formacie 24-godzinnym zamiast AM/PM.",
+  "settingScreensaverClock24hDescription": "Pokazuj godzinę w formacie 24-godzinnym zamiast AM/PM.",
   "settingScreensaverClockSecondsTitle": "Pokazuj sekundy",
   "settingScreensaverClockSecondsDescription": "Wyświetlaj sekundy na zegarze.",
   "settingScreensaverClockDateTitle": "Pokazuj datę",

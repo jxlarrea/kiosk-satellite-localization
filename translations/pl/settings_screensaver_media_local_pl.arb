@@ -11,7 +11,7 @@
   "settingScreensaverLocalTransitionDescription": "Sposób przejścia z jednego zdjęcia do następnego.",
   "settingScreensaverLocalFillTitle": "Wypełnij ekran",
   "settingScreensaverLocalFillDescription": "„Wyłączone” pokazuje całe zdjęcie między czarnymi pasami. „Inteligentne” powiększa zdjęcia o proporcjach zbliżonych do ekranu, a pozostałe umieszcza na rozmytym tle. „Zawsze” powiększa każde zdjęcie, przycinając to, co się nie mieści.",
-  "settingScreensaverLocalEdgeTapsTitle": "Dotknij krawędzi, aby zmienić slajd",
+  "settingScreensaverLocalEdgeTapsTitle": "Zmieniaj slajdy dotknięciem krawędzi",
   "settingScreensaverLocalEdgeTapsDescription": "Dotknięcie lewej lub prawej połowy ekranu pokazuje poprzedni lub następny slajd zamiast zamykać wygaszacz.",
   "settingScreensaverLocalMetadataTitle": "Pokazuj metadane",
   "settingScreensaverLocalMetadataDescription": "Data i dane aparatu wyświetlane na zdjęciu.",

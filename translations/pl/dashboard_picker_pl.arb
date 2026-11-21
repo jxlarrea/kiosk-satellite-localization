@@ -15,7 +15,7 @@
   "dashboardPickerOneView": "1 widok",
   "dashboardPickerOffline": "Nie udało się połączyć z Home Assistant",
   "dashboardPickerOfflineHelp": "Pulpity wczytają się po przywróceniu połączenia.",
-  "dashboardPickerTryAgain": "Ponów",
+  "dashboardPickerTryAgain": "Spróbuj ponownie",
   "dashboardPickerEmpty": "Brak pulpitów",
   "dashboardPickerEmptyHelp": "Tutaj pojawią się pulpity dodane w Home Assistant.",
   "dashboardPickerNoMatch": "Brak pasujących widoków",

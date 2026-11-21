@@ -20,7 +20,7 @@
   "mediaConnectedVersion": "Połączono z Music Assistant {version}",
   "mediaValidateHint": "Sprawdź adres i token przed włączeniem skrótu lub tekstu utworu.",
   "mediaDeviceNoAnswer": "Urządzenie nie odpowiedziało.",
-  "mediaValidationFailed": "Sprawdzanie nie powiodło się.",
+  "mediaValidationFailed": "Weryfikacja nie powiodła się.",
   "mediaNoAddress": "Nie ustawiono adresu serwera.",
   "mediaNoToken": "Nie ustawiono tokenu uwierzytelniania.",
   "mediaTimeout": "Brak odpowiedzi od Music Assistant w wyznaczonym czasie.",

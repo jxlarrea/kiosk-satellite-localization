@@ -1,6 +1,6 @@
 {
   "@@locale": "pl",
-  "esphomeNearby": "Pobliskie urządzenia",
+  "esphomeNearby": "Urządzenia w pobliżu",
   "esphomeNearbySearch": "Urządzenia Bluetooth odbierane przez ten kiosk, z nazwami, jeśli są znane.",
   "esphomeNearbyEmpty": "Jeszcze nic nie wykryto.",
   "esphomeNearbyWaiting": "Jeszcze nic nie wykryto. Urządzenia pojawią się tutaj, gdy proxy zacznie skanować.",

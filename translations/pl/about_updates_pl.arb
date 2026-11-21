@@ -2,7 +2,7 @@
   "@@locale": "pl",
   "aboutCheckNow": "Sprawdź aktualizacje teraz",
   "aboutChecking": "Sprawdzanie…",
-  "aboutCheckFailed": "Nie udało się sprawdzić aktualizacji. Czy urządzenie może połączyć się z GitHub?",
+  "aboutCheckFailed": "Nie udało się sprawdzić aktualizacji. Czy urządzenie ma dostęp do serwisu GitHub?",
   "aboutOverlayMissing": "Brak uprawnienia „Wyświetlanie nad innymi aplikacjami”",
   "aboutOverlayHelp": "Bez niego aplikacja nie może sama uruchomić się ponownie po aktualizacji. Ekran przyznawania uprawnienia pojawi się na tablecie.",
   "aboutDownloadProgress": "Pobieranie… {percent}%",

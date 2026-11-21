@@ -10,6 +10,6 @@
   "intercomOff": "Interkom wyłączony",
   "intercomDifferentKey": "Inny klucz",
   "intercomUnreachable": "Nieosiągalny",
-  "intercomOffline": "Poza siecią",
+  "intercomOffline": "Offline",
   "intercomChecking": "Sprawdzanie…"
 }
