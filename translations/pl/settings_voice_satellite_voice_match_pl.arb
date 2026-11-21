@@ -9,7 +9,9 @@
   "voiceMatchPeopleSearch": "Szukaj osób",
   "voiceMatchPeopleEmpty": "Nikt nie jest jeszcze zarejestrowany w Ground Control.",
   "voiceMatchPeopleGone": "Nie ma już w Ground Control",
+  "voiceMatchPeopleMissing": "Brak w aktualnie używanym Ground Control: {names}. Wybierz ponownie.",
   "settingVoiceMatchRejectedTitleChosen": "Niewybrany głos",
+  "voiceMatchFeaturesHint": "Recognition, Trimming i Isolation",
   "settingVoiceMatchEnabledTitle": "Włącz Voice Match",
   "settingVoiceMatchPolicyTitle": "Komu odpowiadać",
   "settingVoiceMatchRejectedDescription": "Co się dzieje, gdy słowo wybudzające wypowie ktoś inny.",
@@ -29,5 +31,10 @@
   "settingVoiceMatchAllowEnrollTitle": "Zezwól na rejestrację tutaj",
   "voiceMatchAppHint": "Osoby, rejestracja, sesje i ustawienia.",
   "voiceMatchOpen": "Otwórz",
-  "settingVoiceMatchAllowEnrollDescriptionGroundControl": "Pozwala aplikacji Ground Control nagrać głos osoby mikrofonem tego kiosku. Kiosk wyświetla tekst do przeczytania albo pierścień świetlny pokazuje postęp."
+  "settingVoiceMatchEnabledDescriptionCommand": "Rozpoznaje, kto mówi, i pozostawia tylko głos rozpoznanej osoby w poleceniu. Wymaga Ground Control.",
+  "settingVoiceMatchAllowEnrollDescriptionGroundControl": "Pozwala aplikacji Ground Control nagrać głos osoby mikrofonem tego kiosku. Kiosk wyświetla tekst do przeczytania albo pierścień świetlny pokazuje postęp.",
+  "settingVoiceMatchTrimmingTitle": "Włącz Trimming",
+  "settingVoiceMatchTrimmingDescription": "Inne dźwięki, takie jak telewizor lub głosy innych osób, są wyciszane w przerwach między słowami osoby, która wypowiedziała słowo wybudzające, a polecenie kończy się, gdy ta osoba przestanie mówić.",
+  "settingVoiceMatchIsolationTitle": "Włącz Isolation",
+  "settingVoiceMatchIsolationDescription": "Inne głosy zagłuszające słowa osoby, która wypowiedziała słowo wybudzające, są również usuwane. Gdy ta osoba przestanie mówić, polecenie czeka na zakończenie tego procesu. Wymaga włączenia Isolation w Ground Control."
 }

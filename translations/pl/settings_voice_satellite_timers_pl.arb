@@ -33,6 +33,8 @@
   "settingTimersTtsVoiceDescription": "Głos, który odczytuje minutniki.",
   "settingTimersShowBeforeEndTitle": "Pokazuj widok minutników przed zakończeniem",
   "settingTimersShowBeforeEndDescription": "Jak długo przed zakończeniem minutnika otwiera się widok minutników.",
+  "settingTimersEnabledTitle": "Włącz minutniki",
+  "settingTimersEnabledDescription": "Ustawiaj minutniki w tym kiosku za pomocą poleceń głosowych lub ręcznie.",
   "settingTimersShowOnStartTitle": "Pokazuj widok minutników po uruchomieniu minutnika",
   "settingTimersShowOnStartDescription": "Otwieraj widok minutników przy każdym uruchomieniu minutnika.",
   "settingTimersPauseScreensaverTitle": "Wstrzymaj wygaszacz ekranu podczas działania minutnika",
