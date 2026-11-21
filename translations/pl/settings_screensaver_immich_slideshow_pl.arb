@@ -1,0 +1,17 @@
+{
+  "@@locale": "pl",
+  "settingScreensaverImmichIntervalTitle": "Czas wyświetlania obrazu (s)",
+  "settingScreensaverImmichShuffleTitle": "Losowa kolejność",
+  "settingScreensaverImmichShuffleDescription": "Wyświetla multimedia w losowej kolejności.",
+  "settingScreensaverImmichTransitionTitle": "Przejście",
+  "settingScreensaverImmichTransitionDescription": "Sposób przejścia od jednego elementu do następnego.",
+  "settingScreensaverImmichFillTitle": "Wypełnij ekran",
+  "settingScreensaverImmichFillDescription": "„Wyłączone” pokazuje całe zdjęcie między czarnymi pasami. „Inteligentnie” powiększa zdjęcia o proporcjach zbliżonych do ekranu, a pozostałe umieszcza na rozmytym tle. „Zawsze” powiększa każde zdjęcie, przycinając to, co się nie mieści.",
+  "settingScreensaverImmichPairPortraitTitle": "Łącz zdjęcia pionowe w pary",
+  "settingScreensaverImmichPairPortraitDescription": "Pokazuje dwa zdjęcia pionowe obok siebie, aby wypełniły ekran.",
+  "settingScreensaverImmichPairLandscapeTitle": "Łącz zdjęcia poziome w pary",
+  "settingScreensaverImmichPairLandscapeDescription": "Pokazuje dwa zdjęcia poziome jedno nad drugim, aby wypełniły pionowy ekran.",
+  "settingScreensaverImmichEdgeTapsTitle": "Zmieniaj slajdy dotknięciem krawędzi",
+  "settingScreensaverImmichEdgeTapsDescription": "Dotknięcie lewej lub prawej piątej części ekranu pokazuje poprzedni lub następny slajd zamiast zamykać wygaszacz.",
+  "screensaverMediaSlideshow": "Pokaz slajdów"
+}
