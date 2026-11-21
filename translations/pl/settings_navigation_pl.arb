@@ -60,5 +60,6 @@
   "compassStateOn": "Włączone",
   "compassStateOff": "Wyłączone",
   "compassHoldMode": "Tryb wstrzymania",
-  "settingsMenuGroundControl": "Ground Control"
+  "settingsMenuGroundControl": "Ground Control",
+  "settingsMenuGroundControlFeatures": "Voice Match i Vision Match"
 }
