@@ -13,5 +13,15 @@
   "settingScreensaverImmichPairLandscapeDescription": "Pokazuje dwa zdjęcia poziome jedno nad drugim, aby wypełniły pionowy ekran.",
   "settingScreensaverImmichEdgeTapsTitle": "Zmieniaj slajdy dotknięciem krawędzi",
   "settingScreensaverImmichEdgeTapsDescription": "Dotknięcie lewej lub prawej piątej części ekranu pokazuje poprzedni lub następny slajd zamiast zamykać wygaszacz.",
+  "settingScreensaverImmichProgressBarTitle": "Pokaż pasek postępu",
+  "settingScreensaverImmichProgressBarDescription": "Cienki pasek pokazuje czas pozostały do następnego slajdu.",
+  "settingScreensaverImmichProgressBarPositionTitle": "Położenie paska postępu",
+  "settingScreensaverImmichProgressBarPositionDescription": "Krawędź ekranu, wzdłuż której biegnie pasek postępu.",
+  "screensaverImmichProgressBarTop": "Góra",
+  "screensaverImmichProgressBarBottom": "Dół",
+  "settingScreensaverImmichProgressBarColorTitle": "Kolor paska postępu",
+  "settingScreensaverImmichProgressBarColorDescription": "Kolor paska postępu.",
+  "settingScreensaverImmichProgressBarTransparencyTitle": "Przezroczystość paska postępu",
+  "settingScreensaverImmichProgressBarTransparencyDescription": "Jak bardzo zdjęcie przebija się przez pasek postępu.",
   "screensaverMediaSlideshow": "Pokaz slajdów"
 }
