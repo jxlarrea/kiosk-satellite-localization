@@ -4,7 +4,7 @@
   "deviceWebViewPage": "WebView",
   "deviceModel": "Model urządzenia",
   "deviceAndroidVersion": "Wersja Androida",
-  "deviceAndroidBuild": "Kompilacja Androida",
+  "deviceAndroidBuild": "Kompilacja systemu Android",
   "deviceIpv4": "Adres IPv4",
   "deviceIpv6": "Adresy IPv6",
   "deviceAppUptime": "Czas działania aplikacji",

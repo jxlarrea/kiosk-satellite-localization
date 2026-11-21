@@ -28,7 +28,7 @@
   "settingKioskAllowTimersDescription": "Otwieranie widoku minutników z menu kiosku.",
   "settingsMenuTimersSummary": "Widok pełnoekranowy, pigułki, udostępnione minutniki",
   "fleetTheKiosksPickedInShareWithTheTimerSound": "kioski wybrane w „Udostępnij dla”, dźwięk minutnika",
-  "settingTimersTtsEngineDescription": "Encja syntezy mowy Home Assistant, która odczytuje minutniki.",
+  "settingTimersTtsEngineDescription": "Encja zamiany tekstu na mowę w Home Assistant, która odczytuje minutniki.",
   "settingTimersTtsLanguageDescription": "Język, w którym odczytywane są minutniki.",
   "settingTimersTtsVoiceDescription": "Głos, który odczytuje minutniki.",
   "settingTimersShowBeforeEndTitle": "Pokazuj widok minutników przed zakończeniem",

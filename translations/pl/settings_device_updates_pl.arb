@@ -8,7 +8,7 @@
   "deviceUpdateGithub": "Repozytorium GitHub",
   "deviceUpdateCustom": "Własne repozytorium",
   "deviceUpdateGuide": "Przewodnik po własnym repozytorium",
-  "deviceUpdateGuideHelp": "Jak udostępnić plik z wersjami wydania i pliki APK we własnej sieci.",
+  "deviceUpdateGuideHelp": "Jak udostępnić plik z uaktualnieniami i pliki APK we własnej sieci.",
   "deviceInstallFile": "Zainstaluj z pliku",
   "deviceInstallFileHelp": "Prześlij plik APK Kiosk Satellite z komputera przez zdalną administrację, na tej samej stronie. Dla kiosku, który nie ma dostępu do serwisu GitHub ani własnego repozytorium.",
   "deviceInstallFileRemoteHelp": "Prześlij plik APK Kiosk Satellite z tego komputera i zainstaluj go. Dla kiosku, który nie ma dostępu do serwisu GitHub ani własnego repozytorium.",

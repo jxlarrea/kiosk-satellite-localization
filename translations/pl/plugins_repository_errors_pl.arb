@@ -5,7 +5,7 @@
   "pluginErrorRepositoryPath": "Użyj adresu URL repozytorium bez ścieżki do pliku lub gałęzi",
   "pluginErrorDownloadOutsideGithub": "Pobieranie wtyczki przekierowano poza GitHub",
   "pluginErrorInvalidRedirect": "Nieprawidłowe przekierowanie GitHub",
-  "pluginErrorRepositoryNotFound": "Nie znaleziono publicznego repozytorium, stabilnej wersji, pliku kiosk-satellite-plugin.json, pliku README.md lub plików wydania.",
+  "pluginErrorRepositoryNotFound": "Nie znaleziono publicznego repozytorium, stabilnej wersji wydania, pliku kiosk-satellite-plugin.json, pliku README.md lub pliku wydania.",
   "pluginErrorGithubLimited": "GitHub odrzucił żądanie lub osiągnięto limit żądań. Spróbuj ponownie później.",
   "pluginErrorRepositorySize": "Plik repozytorium przekracza limit rozmiaru",
   "pluginErrorTooManyRedirects": "Zbyt wiele przekierowań GitHub",
@@ -23,7 +23,7 @@
   "pluginErrorAndroidOnly": "Wtyczki są dostępne w systemie Android.",
   "pluginErrorGithubRequest": "Żądanie do GitHub nie powiodło się ({status})",
   "pluginErrorReleaseAsset": "Wersja wydania wymaga dokładnie jednego przesłanego pliku wydania {name}",
-  "pluginErrorAssetPublisher": "Pliki wersji wydania {name} muszą zostać opublikowane przez GitHub Actions. Pliki przesłane ręcznie nie są obsługiwane.",
-  "pluginErrorAssetSize": "Plik wersji wydania {name} przekracza limit rozmiaru lub jest pusty",
+  "pluginErrorAssetPublisher": "Plik wydania {name} musi zostać opublikowany przez GitHub Actions. Pliki przesłane ręcznie nie są obsługiwane.",
+  "pluginErrorAssetSize": "Plik wydania {name} przekracza limit rozmiaru lub jest pusty",
   "pluginErrorAssetUrl": "Nieprawidłowy adres URL wersji wydania dla {name}"
 }

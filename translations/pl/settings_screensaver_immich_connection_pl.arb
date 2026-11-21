@@ -3,7 +3,7 @@
   "settingScreensaverImmichUrlTitle": "Adres serwera",
   "settingScreensaverImmichUrlDescription": "Adres serwera Immich wraz z portem.",
   "settingScreensaverImmichApiKeyTitle": "Klucz API",
-  "settingScreensaverImmichApiKeyDescription": "Utworzony w Immich w sekcji Account Settings → API Keys.",
+  "settingScreensaverImmichApiKeyDescription": "Utworzony w Immich w sekcji „Account Settings” → „API Keys”.",
   "screensaverMediaImmichPage": "Wygaszacz ekranu „Multimedia z Immich”",
   "screensaverMediaImmichHint": "Serwer, multimedia, pokaz slajdów, metadane, filtry",
   "screensaverMediaServerConnection": "Połączenie z serwerem",

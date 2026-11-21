@@ -8,7 +8,7 @@
   "voiceWake1": "Słowo wybudzające 1",
   "voiceWake1Help": "Słowo, które rozpoczyna polecenie głosowe.",
   "voiceWake2": "Słowo wybudzające 2",
-  "voiceWake2Help": "Drugie słowo wybudzające, na które odpowiada strumień głosowy Assist 2.",
+  "voiceWake2Help": "Drugie słowo wybudzające, na które odpowiada kanał przetwarzania mowy Assist 2.",
   "voiceSensitivity": "Czułość słowa wybudzającego",
   "voiceSensitivityHelp": "Jak łatwo aktywuje się słowo wybudzające.",
   "voiceNoiseGate": "Bramka szumów słowa wybudzającego",

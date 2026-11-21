@@ -9,7 +9,7 @@
   "settingSendspinMaAutoCloseTitle": "Zamknij po bezczynności",
   "settingSendspinMaAutoCloseDescription": "Kiosk wraca do pulpitu, gdy przez ten czas nikt nie dotknie strony Music Assistant. Wartość 0 pozostawia ją otwartą, dopóki nie zostanie zamknięta.",
   "settingSendspinMaHideCloseTitle": "Ukryj przycisk zamykania",
-  "settingSendspinMaHideCloseDescription": "Pływający przycisk zamykania może zasłaniać elementy sterujące Music Assistant, na przykład menu ekranu „Teraz odtwarzane”. Jeśli go nie ma, można zamknąć Music Assistant za pomocą przycisku „Wstecz” lub menu wysuwanego kiosku.",
+  "settingSendspinMaHideCloseDescription": "Pływający przycisk zamykania może zasłaniać elementy sterujące Music Assistant, na przykład menu ekranu „Teraz odtwarzane”. Jeśli go nie ma, można zamknąć Music Assistant za pomocą przycisku „Wstecz” lub menu bocznego kiosku.",
   "settingSendspinMaZoomDescription": "Skaluje całą stronę Music Assistant.",
   "mediaMaHint": "Serwer, token, skrót w menu kiosku",
   "mediaKioskMenu": "Menu kiosku",

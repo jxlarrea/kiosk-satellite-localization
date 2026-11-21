@@ -34,7 +34,7 @@
   "deviceReasonListening": "Nasłuchiwanie w tle",
   "deviceReasonListeningHelp": "Utrzymuje działanie mechanizmu słowa wybudzającego i mikrofonu, gdy na wierzchu są inne aplikacje.",
   "deviceReasonRtsp": "Dźwięk z mikrofonu przez RTSP",
-  "deviceReasonRtspHelp": "Utrzymuje dostępność strumienia z mikrofonu dla podłączonych odbiorców RTSP.",
+  "deviceReasonRtspHelp": "Utrzymuje dostępność strumienia z mikrofonu dla podłączonych klientów RTSP.",
   "deviceReasonEspHome": "Serwer ESPHome",
   "deviceReasonEspHomeHelp": "Utrzymuje serwer API ESPHome w gotowości do odpowiadania Home Assistant.",
   "deviceReasonRemote": "Zdalna administracja",

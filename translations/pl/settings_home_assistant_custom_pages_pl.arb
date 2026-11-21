@@ -7,7 +7,7 @@
   "haCustomPagesAdd": "Dodaj stronę",
   "haCustomPagesEmptyAnyServer": "Dodaj strony HTML z folderu www Home Assistant lub z innego serwera, aby wybierać je jak pulpit.",
   "haCustomPagesGuide": "Przewodnik po własnych stronach",
-  "haCustomPagesGuideHint": "Jak zbudować stronę, która komunikuje się z Home Assistant.",
+  "haCustomPagesGuideHint": "Jak utworzyć stronę, która komunikuje się z Home Assistant.",
   "haCustomPageAddTitle": "Dodaj własną stronę",
   "haCustomPageEditTitle": "Edytuj własną stronę",
   "haCustomPageName": "Nazwa",

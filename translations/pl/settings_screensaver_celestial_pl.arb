@@ -77,7 +77,7 @@
   "screensaverCelestialLocationGrantMissing": "Bez tego uprawnienia nie można odczytać odbiornika GPS, a niebo nie ma lokalizacji.",
   "screensaverCelestialLocationGrantReady": "Niebo może podążać za pozycją z odbiornika GPS.",
   "screensaverCelestialCoordinatesInvalid": "Wpisz szerokość i długość geograficzną, np. 40.71, -74.01",
-  "screensaverCelestialNoLocation": "Wybierz lokalizację w: Ustawienia > Wygaszacz ekranu > „Niebo”.",
+  "screensaverCelestialNoLocation": "Wybierz lokalizację w: „Ustawienia” > „Wygaszacz ekranu” > „Niebo”.",
   "screensaverCelestialWaitingForGps": "Oczekiwanie na pozycję GPS…",
   "screensaverCelestialDoubleTapHint": "Dotknij dwukrotnie, aby zamknąć",
   "screensaverCelestialCalibrate": "Aby skalibrować kompas, poruszaj urządzeniem ruchem w kształcie ósemki.",

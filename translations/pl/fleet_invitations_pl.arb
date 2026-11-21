@@ -15,7 +15,7 @@
   "fleetFollowsName": "Członek floty „{name}”",
   "fleetLeadsAFleet": "Jest liderem floty",
   "fleetNoFleetManagement": "Brak zarządzania flotą",
-  "fleetKiosksOnThisNetworkThatDoNotFollowThis": "Kioski w tej sieci, które nie są członkami floty tego kiosku. Wybierz jeden, aby określić, co otrzyma, a następnie zostanie wysłane zaproszenie. Kiosk z wersją kompilacji bez zarządzania flotą dołączy, gdy zacznie działać na wersji kompilacji z tą funkcją.",
+  "fleetKiosksOnThisNetworkThatDoNotFollowThis": "Kioski w tej sieci, które nie są członkami floty tego kiosku. Wybierz jeden, aby określić, co otrzyma, a następnie zostanie wysłane zaproszenie. Kiosk z kompilacją bez zarządzania flotą dołączy, gdy zacznie działać na kompilacji z tą funkcją.",
   "fleetJoinedTheFleet": "Dołączono do floty",
   "fleetSettingsFromTheLeaderArriveShortly": "Ustawienia od lidera floty wkrótce dotrą.",
   "fleetAddByIp": "Dodaj przez IP",

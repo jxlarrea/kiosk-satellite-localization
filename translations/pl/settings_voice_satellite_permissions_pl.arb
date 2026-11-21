@@ -9,6 +9,6 @@
   "voiceNotificationMissing": "Potrzebne, aby nasłuchiwanie w tle działało niezawodnie.",
   "voiceBatteryHeld": "Android nie zatrzyma nasłuchiwania.",
   "voiceBatteryMissing": "Bez tego nasłuchiwanie zostanie zatrzymane po kilku godzinach.",
-  "voicePermissionDirections": "Przyznaj je na samym urządzeniu: przesuń palcem od lewej krawędzi → Ustawienia → Voice Satellite → Wymagane uprawnienia systemowe.",
+  "voicePermissionDirections": "Przyznaj je na samym urządzeniu: przesuń palcem od lewej krawędzi → „Ustawienia” → „Voice Satellite” → „Wymagane uprawnienia systemowe”.",
   "voicePermissionsSearch": "Mikrofon i inne uprawnienia potrzebne do wykrywania słowa wybudzającego."
 }

@@ -15,7 +15,7 @@
   "gestureAdd": "Dodaj gest",
   "gestureAddHelp": "Wybierz gest i akcję, którą ma wyzwalać.",
   "gestureTouchHelp": "Gesty są wykrywane, a nie blokowane: dotknięcia docierają również do pulpitu nawigacyjnego, więc gesty w narożnikach ekranu oraz gesty wielopalcowe zapobiegają przypadkowemu uruchomieniu czegoś na pulpicie.",
-  "gestureClapper": "Klaskanie",
+  "gestureClapper": "Klaskacz",
   "gestureReadFailed": "Nie udało się odczytać ustawień.",
   "gestureHandGestures": "Gesty dłonią",
   "settingHandGestureHoldSecondsTitle": "Czas przytrzymania",

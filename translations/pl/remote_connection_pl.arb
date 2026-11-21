@@ -6,6 +6,6 @@
   "remoteReloadPage": "Przeładuj stronę",
   "remoteUpdated": "Zaktualizowano Kiosk Satellite",
   "remoteUpdatedHelp": "Urządzenie działa teraz w wersji {version}{build}. Ta strona należy do poprzedniej wersji i zostanie przeładowana za {seconds} s.",
-  "remoteBuild": " (wersja kompilacji {build})",
+  "remoteBuild": " (kompilacja {build})",
   "remoteReloadNow": "Przeładuj teraz"
 }

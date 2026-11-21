@@ -2,7 +2,7 @@
   "@@locale": "pl",
   "aboutApp": "Aplikacja",
   "aboutVersion": "Wersja aplikacji",
-  "aboutBuild": "Kompilacja",
+  "aboutBuild": "Typ kompilacji",
   "aboutPackage": "Pakiet",
   "aboutAttribution": "Autorstwo",
   "aboutAuthor": "Autor",

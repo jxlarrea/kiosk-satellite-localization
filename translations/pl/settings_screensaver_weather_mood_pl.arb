@@ -7,7 +7,7 @@
   "settingScreensaverWeatherEntityDescription": "Encja pogody w Home Assistant, która steruje animowaną sceną. Dzień, świt/zmierzch i noc zależą od sun.sun, a zapasowo od czasu lokalnego.",
   "settingScreensaverWeatherLightningTitle": "Błyskawice",
   "settingScreensaverWeatherLightningDescription": "Pokazuj uderzenia piorunów i rozbłyski w chmurach podczas burz.",
-  "screensaverWeatherMoodSelectEntity": "Wybierz encję pogody: Ustawienia > Wygaszacz ekranu > Nastrój pogody.",
+  "screensaverWeatherMoodSelectEntity": "Wybierz encję pogody: „Ustawienia” > „Wygaszacz ekranu” > „Nastrój pogody”.",
   "screensaverWeatherPreviewGroup": "Podgląd pogody",
   "settingScreensaverWeatherPreviewTitle": "Włącz podgląd pogody",
   "settingScreensaverWeatherPreviewDescription": "Pokazuj wybraną scenę zamiast bieżącej pogody. Wyłącz, aby ponownie korzystać z danych Home Assistant.",

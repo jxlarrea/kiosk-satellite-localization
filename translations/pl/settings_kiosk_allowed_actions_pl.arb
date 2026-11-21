@@ -28,5 +28,5 @@
   "kioskAllowedHelp": "Szybkie akcje dostępne w menu kiosku",
   "settingKioskAllowedAppsTitle": "Dozwolone aplikacje",
   "settingKioskAllowedAppsDescription": "Aplikacje z launchera dostępne, gdy tryb kiosku jest włączony.",
-  "kioskAllowedAppsEmpty": "Najpierw dodaj aplikacje w „Ustawienia > Launcher aplikacji”."
+  "kioskAllowedAppsEmpty": "Najpierw dodaj aplikacje w „Ustawienia” > „Launcher aplikacji”."
 }

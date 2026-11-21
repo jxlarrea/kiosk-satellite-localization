@@ -4,7 +4,7 @@
   "setupVoiceHelp": "Ta instancja Home Assistant korzysta z integracji Voice Satellite. Wybierz, którym satelitą jest ten kiosk, a następnie przejrzyj jego ustawienia. Wszystko można później zmienić.",
   "setupNoSatellites": "Nie znaleziono satelitów",
   "setupNoSatellitesHelp": "Dodaj satelitę asystenta w integracji Voice Satellite lub kontynuuj bez niego i wybierz go później na pulpicie.",
-  "setupNewSatelliteHelp": "Jeśli to nowe urządzenie, najpierw utwórz nową encję satelity w Home Assistant. Ustawienia → Urządzenia oraz usługi → Voice Satellite → Dodaj wpis. WAŻNE: dwa urządzenia nie mogą współdzielić tej samej encji.",
+  "setupNewSatelliteHelp": "Jeśli to nowe urządzenie, najpierw utwórz nową encję satelity w Home Assistant. „Ustawienia” → „Urządzenia oraz usługi” → „Voice Satellite” → „Dodaj wpis”. WAŻNE: dwa urządzenia nie mogą współdzielić tej samej encji.",
   "setupApplyRecommended": "Zastosuj wszystkie zalecane ustawienia",
   "setupRecommendedHelp": "Optymalne ustawienia zapewniające pełną integrację i funkcjonalność Voice Satellite.",
   "setupVoiceRequired": "Wymagane przez Voice Satellite",
@@ -20,6 +20,6 @@
   "setupVoiceFoundHelp": "Voice Satellite działa teraz w Kiosk Satellite. Przeprowadź migrację, aby zachować słowa wybudzające, asystenta i wygląd jednego z satelitów integracji zamiast zaczynać od zera.",
   "setupVoiceMigrated": "Przeniesiono z integracji Voice Satellite",
   "setupVoiceMigratedHelp": "Ten kiosk przejmuje ustawienia satelity z integracji.",
-  "setupVoicePipelineHelp": "Strumień głosowy Assist, który odpowiada na słowo wybudzające.",
+  "setupVoicePipelineHelp": "Kanał przetwarzania mowy Assist, który odpowiada na słowo wybudzające.",
   "setupVoiceEngineHelp": "Silnik, który nasłuchuje słowa wybudzającego."
 }

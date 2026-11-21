@@ -55,7 +55,7 @@
   "fleetErrorDidNotTakeTheUpload": "przesłany plik nie został przyjęty",
   "fleetProfileNameExists": "Profil „{name}” już istnieje",
   "fleetAlreadyOnVersion": "już w wersji {version}",
-  "fleetUnsupportedBuild": "Ten kiosk ma wersję kompilacji bez zarządzania flotą. Dołączy, gdy otrzyma wersję kompilacji z tą funkcją.",
+  "fleetUnsupportedBuild": "Ten kiosk działa na kompilacji bez zarządzania flotą. Dołączy, gdy zacznie działać na kompilacji z tą funkcją.",
   "fleetErrorAddressMismatch": "Adres należy do innego kiosku lub innej floty",
   "fleetErrorInvalidIp": "Wpisz prawidłowy adres IP.",
   "fleetErrorInvalidPort": "Wpisz port od 1 do 65535.",

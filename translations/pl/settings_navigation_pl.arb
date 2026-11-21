@@ -51,7 +51,7 @@
   "compassChangeCenter": "Zmień widok środkowy",
   "compassReplaceTitle": "Zamień „{name}”",
   "compassKindDashboard": "Pulpit Home Assistant",
-  "compassKindDashboardHint": "Dowolny widok, strony niestandardowe i strony aplikacji",
+  "compassKindDashboardHint": "Dowolny widok, własne strony i strony aplikacji",
   "compassKindTaken": "Już umieszczono",
   "compassKindUnavailable": "Nie skonfigurowano w tym kiosku",
   "compassKioskLocked": "Kiosk zablokowany",

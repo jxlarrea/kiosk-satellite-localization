@@ -34,7 +34,7 @@
   "alarmsNextAt": "Następny: {day} o {time}",
   "alarmsNoneSet": "Brak ustawionych budzików",
   "alarmsDefaultsSection": "Ustawienia domyślne",
-  "alarmsTtsSection": "Synteza mowy",
+  "alarmsTtsSection": "Zamiana tekstu na mowę",
   "alarmsEditAlarm": "Edytuj budzik",
   "alarmsTime": "Godzina",
   "alarmsRinging": "Budzik dzwoni",
