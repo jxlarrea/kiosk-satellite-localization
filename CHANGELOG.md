@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add Timers view scale to the Timers settings page in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the slider that sets the size of the timer names and buttons in the Timers view, with its description. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian texts are owner additions.
+
 - Add the missing people line to People on the Ground Control Voice Match settings page in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian. It names the chosen people the connected Ground Control doesn't have and says to choose again. Ground Control keeps its English name. The texts are owner additions.
 
 - Add the Immich slideshow progress bar settings to the Immich Media screensaver page in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: Show progress bar, Progress bar position with its Top and Bottom choices, Progress bar color and Progress bar transparency, each with its description. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian texts are owner additions.
