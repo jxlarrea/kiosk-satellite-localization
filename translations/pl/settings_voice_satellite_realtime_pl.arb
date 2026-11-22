@@ -1,6 +1,6 @@
 {
   "@@locale": "pl",
-  "voiceRealtime": "Rozmowa głosowa w czasie rzeczywistym",
+  "voiceRealtime": "Czas rzeczywisty",
   "voiceRealtimeProvidersHint": "OpenAI, xAI Grok, Gemini, narzędzia, przerywanie w trakcie odpowiedzi",
   "voiceRealtimeToolsSection": "Narzędzia Home Assistant",
   "voiceRealtimeProviderDefault": "Domyślne ustawienie dostawcy",

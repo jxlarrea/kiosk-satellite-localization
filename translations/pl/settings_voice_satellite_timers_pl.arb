@@ -39,6 +39,8 @@
   "settingTimersShowOnStartDescription": "Otwieraj widok minutników przy każdym uruchomieniu minutnika.",
   "settingTimersPauseScreensaverTitle": "Wstrzymaj wygaszacz ekranu podczas działania minutnika",
   "settingTimersPauseScreensaverDescription": "Wygaszacz ekranu nie włącza się, gdy widok minutników pokazuje działający minutnik.",
+  "settingTimersViewScaleTitle": "Skala widoku minutników",
+  "settingTimersViewScaleDescription": "Rozmiar nazw minutników i przycisków w widoku minutników.",
   "settingTimersSilenceAfterTitle": "Wyciszenie po",
   "settingTimersSilenceAfterDescription": "Zakończony minutnik pozostaje na ekranie, dopóki nie zostanie zamknięty.",
   "settingTimersDismissAfterTitle": "Zamknij po",

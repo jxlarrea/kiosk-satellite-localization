@@ -2,7 +2,7 @@
   "@@locale": "pl",
   "settingScreensaverLocalFolderTitle": "Folder lokalny",
   "settingScreensaverLocalFolderDescription": "Folder na tym urządzeniu, z którego wygaszacz wyświetla po kolei zdjęcia i filmy. Wybierany na urządzeniu; ścieżkę można też wpisać tutaj zdalnie.",
-  "settingScreensaverLocalIntervalTitle": "Czas w sekundach, przez jaki wyświetlane jest zdjęcie",
+  "settingScreensaverLocalIntervalTitle": "Sekundy na zdjęcie",
   "settingScreensaverLocalShuffleTitle": "Losowa kolejność",
   "settingScreensaverLocalShuffleDescription": "Wyświetlaj zawartość folderu w losowej kolejności zamiast według nazwy.",
   "settingScreensaverLocalRecursiveTitle": "Uwzględniaj podfoldery",

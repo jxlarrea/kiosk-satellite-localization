@@ -1,6 +1,6 @@
 {
   "@@locale": "pl",
-  "settingCameraAllowH265Title": "Zezwalaj na strumienie w standardzie kompresji H.265",
+  "settingCameraAllowH265Title": "Zezwalaj na strumienie H.265",
   "settingCameraAllowH265Description": "Strumienie z kamer w standardzie kompresji H.265 są odtwarzane bez konwersji. Urządzenie, które nie potrafi dekodować H.265, pokazuje zamiast nich pusty obraz.",
   "settingCameraPreferMseTitle": "Preferuj MSE zamiast WebRTC",
   "settingCameraPreferMseDescription": "Strumienie kamer Go2RTC są najpierw przesyłane przez MSE. Dla urządzeń, które nie odtwarzają WebRTC; opóźnienie wzrasta o sekundę lub dwie.",

@@ -2,7 +2,7 @@
   "@@locale": "pl",
   "settingScreensaverGalleryItemsTitle": "Zdjęcia",
   "settingScreensaverGalleryItemsDescription": "Zdjęcia i filmy wyświetlane przez ten wygaszacz. Wybierane z galerii na urządzeniu; ponowny wybór zastępuje poprzedni.",
-  "settingScreensaverGalleryIntervalTitle": "Czas w sekundach, przez jaki wyświetlane jest zdjęcie",
+  "settingScreensaverGalleryIntervalTitle": "Sekundy na zdjęcie",
   "settingScreensaverGalleryShuffleTitle": "Losowa kolejność",
   "settingScreensaverGalleryShuffleDescription": "Wyświetlaj wybrane elementy w losowej kolejności.",
   "settingScreensaverGalleryTransitionTitle": "Przejście",
