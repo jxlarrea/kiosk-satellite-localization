@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add Crop around faces to the Immich Media screensaver Slideshow settings in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese, Russian and Polish: the switch that moves a photo cropped by Fill the screen to the faces Immich found, with its description. The German, French, Ukrainian, Dutch, Simplified Chinese, Russian and Polish texts are owner additions.
+
 - Record the complete Polish translation by ThePnx from PR #16, with 4,961 reviewed messages. Apply 8 maintainer corrections that shorten setting labels while preserving contributor evidence and credit. Add Timers view scale and its description in Polish as owner additions.
 
 - Add Timers view scale to the Timers settings page in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese and Russian: the slider that sets the size of the timer names and buttons in the Timers view, with its description. The German, French, Ukrainian, Dutch, Simplified Chinese and Russian texts are owner additions.
