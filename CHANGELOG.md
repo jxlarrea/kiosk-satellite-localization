@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add Architecture and Runs on to the Ground Control settings page in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese, Russian and Polish: the labels of two rows that show the CPU architecture of the machine Ground Control runs on and whether it runs on the CPU or with CUDA. The German, French, Ukrainian, Dutch, Simplified Chinese, Russian and Polish texts are owner additions.
+
 - Add Crop around faces to the Immich Media screensaver Slideshow settings in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese, Russian and Polish: the switch that moves a photo cropped by Fill the screen to the faces Immich found, with its description. The German, French, Ukrainian, Dutch, Simplified Chinese, Russian and Polish texts are owner additions.
 
 - Record the complete Polish translation by ThePnx from PR #16, with 4,961 reviewed messages. Apply 8 maintainer corrections that shorten setting labels while preserving contributor evidence and credit. Add Timers view scale and its description in Polish as owner additions.
