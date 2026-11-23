@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add Crop videos to the Immich Media screensaver Slideshow settings in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese, Russian and Polish: the switch that shows every video whole instead of cropping it to fill the screen, with its description. The German, French, Ukrainian, Dutch, Simplified Chinese, Russian and Polish texts are owner additions.
+
 - Add a Flashlight section to the Camera settings page in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese, Russian and Polish: its heading and the Turn on flashlight switch with its description. The German, French, Ukrainian, Dutch, Simplified Chinese, Russian and Polish texts are owner additions.
 
 - Add Architecture and Runs on to the Ground Control settings page in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese, Russian and Polish: the labels of two rows that show the CPU architecture of the machine Ground Control runs on and whether it runs on the CPU or with CUDA. The German, French, Ukrainian, Dutch, Simplified Chinese, Russian and Polish texts are owner additions.
