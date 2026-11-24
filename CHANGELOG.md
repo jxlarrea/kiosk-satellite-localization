@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add Face Recognition in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese, Russian and Polish: the Enable Face Recognition switch with its description and section heading on the Vision Match page, the Enroll a face row with its person picker, and the guided face enrollment screen with its steps, hints and results. German and Ukrainian use a term apart from Face Detection's. Face is the Home Assistant sensor's name and stays in English, like Vision Match and Ground Control. The German, French, Ukrainian, Dutch, Simplified Chinese, Russian and Polish texts are owner additions.
+
 - Move Voice Match and Vision Match to their own pages under Ground Control in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese, Russian and Polish: the Vision Match page's summary line and new descriptions for Enable Vision Match, Enable Face Detection and Enable Hand Gestures. Remove the Ground Control Voice Match and Ground Control Vision Match page names, the Features row descriptions and the earlier Vision Match descriptions from every language. The app no longer shows them. Vision Match, Voice Match and Ground Control keep their English names. The German, French, Ukrainian, Dutch, Simplified Chinese, Russian and Polish texts are owner additions.
 
 - Use the app's term for hand gestures in the Spanish Enable Vision Match description, and record the owner reviews of that description in every language after it moved to the Ground Control Vision Match page.
