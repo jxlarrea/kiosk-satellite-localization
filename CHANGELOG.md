@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add the Ground Control Vision Match page under Camera in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese, Russian and Polish: its page name, the Enable Vision Match switch and the Enable Face Detection and Enable Hand Gestures switches with their descriptions, and the description of the Vision Match row under Features on the Ground Control page. Vision Match and Ground Control keep their English names. The German, French, Ukrainian, Dutch, Simplified Chinese, Russian and Polish texts are owner additions.
+
 - Add Vision Match to the Ground Control settings page in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese, Russian and Polish: the switch under Features that runs Face Detection and Hand Gestures on Ground Control, with its description, and a new Enable Ground Control description that names Vision Match next to Voice Match. Remove the Vision Match coming soon row and the old Enable Ground Control description from every language. The app no longer shows them. Vision Match and Voice Match keep their English names. The German, French, Ukrainian, Dutch, Simplified Chinese, Russian and Polish texts are owner additions.
 
 - Add Crop videos to the Immich Media screensaver Slideshow settings in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese, Russian and Polish: the switch that shows every video whole instead of cropping it to fill the screen, with its description. The German, French, Ukrainian, Dutch, Simplified Chinese, Russian and Polish texts are owner additions.

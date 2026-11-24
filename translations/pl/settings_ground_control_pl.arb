@@ -17,6 +17,13 @@
   "settingGroundControlVoiceMatchFeaturesDescription": "Recognition, Trimming i Isolation.",
   "settingVisionMatchEnabledTitle": "Vision Match",
   "settingVisionMatchEnabledDescription": "Wykrywanie twarzy i gesty dłoni działają na Ground Control zamiast na tym urządzeniu.",
+  "settingGroundControlVisionMatchFeaturesDescription": "Wykrywanie twarzy i gesty dłonią.",
+  "cameraVisionMatchPage": "Ground Control Vision Match",
+  "settingVisionMatchEnableTitle": "Włącz Vision Match",
+  "settingVisionMatchFaceDetectionTitle": "Włącz wykrywanie twarzy",
+  "settingVisionMatchFaceDetectionDescription": "Wykrywanie twarzy wygaszacza działa na Ground Control. Po wyłączeniu działa na tym urządzeniu.",
+  "settingVisionMatchHandGesturesTitle": "Włącz gesty dłonią",
+  "settingVisionMatchHandGesturesDescription": "Gesty „Pokaż palce” działają na Ground Control. Po wyłączeniu działają na tym urządzeniu.",
   "groundControlArchitecture": "Architektura",
   "groundControlRunsOn": "Działa na"
 }

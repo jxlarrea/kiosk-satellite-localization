@@ -236,6 +236,19 @@
   },
   "settingVisionMatchEnabledDescription": "Face Detection and Hand Gestures run on Ground Control instead of this device.",
   "@settingVisionMatchEnabledDescription": {
+    "context": "Settings > Camera > Ground Control Vision Match",
+    "description": "Translate the visible label or help. Keep Ground Control, Voice Match, Voice Satellite, Kiosk Satellite and Home Assistant unchanged. Vision Match is the feature's name, so it stays as it is.",
+    "x-locations": {
+      "device": [
+        "Settings > Camera > Ground Control Vision Match > Enable Vision Match"
+      ],
+      "remoteAdmin": [
+        "Camera > Ground Control Vision Match > Enable Vision Match"
+      ]
+    }
+  },
+  "settingGroundControlVisionMatchFeaturesDescription": "Face Detection and Hand Gestures.",
+  "@settingGroundControlVisionMatchFeaturesDescription": {
     "context": "Settings > Ground Control",
     "description": "Translate the visible label or help. Keep Ground Control, Voice Match, Voice Satellite, Kiosk Satellite and Home Assistant unchanged. Vision Match is the feature's name, so it stays as it is.",
     "x-locations": {
@@ -244,6 +257,84 @@
       ],
       "remoteAdmin": [
         "Ground Control > Features > Vision Match"
+      ]
+    }
+  },
+  "cameraVisionMatchPage": "Ground Control Vision Match",
+  "@cameraVisionMatchPage": {
+    "context": "Settings > Camera > Ground Control Vision Match",
+    "description": "Translate the visible label or help. Keep Ground Control, Voice Match, Voice Satellite, Kiosk Satellite and Home Assistant unchanged. Vision Match is the feature's name, so it stays as it is.",
+    "x-locations": {
+      "device": [
+        "Settings > Camera > Ground Control Vision Match"
+      ],
+      "remoteAdmin": [
+        "Camera > Ground Control Vision Match"
+      ]
+    }
+  },
+  "settingVisionMatchEnableTitle": "Enable Vision Match",
+  "@settingVisionMatchEnableTitle": {
+    "context": "Settings > Camera > Ground Control Vision Match",
+    "description": "Translate the visible label or help. Keep Ground Control, Voice Match, Voice Satellite, Kiosk Satellite and Home Assistant unchanged. Vision Match is the feature's name, so it stays as it is.",
+    "x-locations": {
+      "device": [
+        "Settings > Camera > Ground Control Vision Match > Enable Vision Match"
+      ],
+      "remoteAdmin": [
+        "Camera > Ground Control Vision Match > Enable Vision Match"
+      ]
+    }
+  },
+  "settingVisionMatchFaceDetectionTitle": "Enable Face Detection",
+  "@settingVisionMatchFaceDetectionTitle": {
+    "context": "Settings > Camera > Ground Control Vision Match",
+    "description": "Translate the visible label or help. Keep Ground Control, Voice Match, Voice Satellite, Kiosk Satellite and Home Assistant unchanged. Vision Match is the feature's name, so it stays as it is.",
+    "x-locations": {
+      "device": [
+        "Settings > Camera > Ground Control Vision Match > Face Detection > Enable Face Detection"
+      ],
+      "remoteAdmin": [
+        "Camera > Ground Control Vision Match > Face Detection > Enable Face Detection"
+      ]
+    }
+  },
+  "settingVisionMatchFaceDetectionDescription": "The screensaver's face detection runs on Ground Control. Off, it runs on this device.",
+  "@settingVisionMatchFaceDetectionDescription": {
+    "context": "Settings > Camera > Ground Control Vision Match",
+    "description": "Translate the visible label or help. Keep Ground Control, Voice Match, Voice Satellite, Kiosk Satellite and Home Assistant unchanged. Vision Match is the feature's name, so it stays as it is.",
+    "x-locations": {
+      "device": [
+        "Settings > Camera > Ground Control Vision Match > Face Detection > Enable Face Detection"
+      ],
+      "remoteAdmin": [
+        "Camera > Ground Control Vision Match > Face Detection > Enable Face Detection"
+      ]
+    }
+  },
+  "settingVisionMatchHandGesturesTitle": "Enable Hand Gestures",
+  "@settingVisionMatchHandGesturesTitle": {
+    "context": "Settings > Camera > Ground Control Vision Match",
+    "description": "Translate the visible label or help. Keep Ground Control, Voice Match, Voice Satellite, Kiosk Satellite and Home Assistant unchanged. Vision Match is the feature's name, so it stays as it is.",
+    "x-locations": {
+      "device": [
+        "Settings > Camera > Ground Control Vision Match > Hand Gestures > Enable Hand Gestures"
+      ],
+      "remoteAdmin": [
+        "Camera > Ground Control Vision Match > Hand Gestures > Enable Hand Gestures"
+      ]
+    }
+  },
+  "settingVisionMatchHandGesturesDescription": "Show fingers gestures run on Ground Control. Off, they run on this device.",
+  "@settingVisionMatchHandGesturesDescription": {
+    "context": "Settings > Camera > Ground Control Vision Match",
+    "description": "Translate the visible label or help. Keep Ground Control, Voice Match, Voice Satellite, Kiosk Satellite and Home Assistant unchanged. Vision Match is the feature's name, so it stays as it is.",
+    "x-locations": {
+      "device": [
+        "Settings > Camera > Ground Control Vision Match > Hand Gestures > Enable Hand Gestures"
+      ],
+      "remoteAdmin": [
+        "Camera > Ground Control Vision Match > Hand Gestures > Enable Hand Gestures"
       ]
     }
   }

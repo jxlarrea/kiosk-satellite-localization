@@ -25848,5 +25848,40 @@
     "source": "855056d951113149fbfc8948e18cbff621cc13296e8a0d8585d590bddec55cb5",
     "translation": "3873f41af1c833d15d3fac8a7354951d3c4411f4a977674977a53edd2aeba9a0",
     "author": "Xavier Larrea"
+  },
+  "settingVisionMatchHandGesturesTitle": {
+    "source": "9c1aeb4086b0e86d5ad8cffad41ad0e3c90eadeb54b152cdcf255e21f13cdae5",
+    "translation": "4de0a5f564360fb2adfb7711eab34f65b651e31b783e5bc8e96d90f8a1ffb4f8",
+    "author": "Xavier Larrea"
+  },
+  "settingVisionMatchEnableTitle": {
+    "source": "75a95d33c3ea4c553155e0465b00fee270a3081487f6cae2f44a6908404a9328",
+    "translation": "78874f492867845bf77edc01e4bc29bf32b8fdf4430eaad2ddf1c66900ffc50a",
+    "author": "Xavier Larrea"
+  },
+  "cameraVisionMatchPage": {
+    "source": "3f46da1a6ab2352bc6459340428364c3116c96c2aa48ad5fff5944ff33cc3ec5",
+    "translation": "014fe7e523edfa87affff9cc687733684ac49725c154c3d26ec3fce54784160b",
+    "author": "Xavier Larrea"
+  },
+  "settingVisionMatchFaceDetectionDescription": {
+    "source": "fbb936adce66a0cf54df5a6b3de50f4c1f7e6ab1980c0073c714990805374263",
+    "translation": "bd270bff36368adf92a0571018a0abd7abcc9146f30863426a0ee387e9ea9c0d",
+    "author": "Xavier Larrea"
+  },
+  "settingVisionMatchHandGesturesDescription": {
+    "source": "9bb7d0cfa87cf98d687ba840f8ac7e2689a0f1489eda912c56e9b90113163806",
+    "translation": "5577d2ef254bb14a707f86cff30facacace86d0057b7a17fef0993ea5192409e",
+    "author": "Xavier Larrea"
+  },
+  "settingGroundControlVisionMatchFeaturesDescription": {
+    "source": "b8d807f35fc366b7a67ae01cb58ccedb49de628b311bc23ca5a32813bc773482",
+    "translation": "bf3b3e8794fffc002d30a6ba79a9f8140d1a33a99c2f5c129fd297dc2f1b69de",
+    "author": "Xavier Larrea"
+  },
+  "settingVisionMatchFaceDetectionTitle": {
+    "source": "972c3d6a589a08045bbcc12287d91c4c286aee961543c69264ceea1a958e2147",
+    "translation": "ed4a722eaccad6736095cb3b0ea677bdd8df06537cef0d7c7f4efaa86d6e4459",
+    "author": "Xavier Larrea"
   }
 }
