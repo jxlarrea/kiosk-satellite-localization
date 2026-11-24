@@ -31085,5 +31085,23 @@
     "translation": "8fa3607b7f0f91094247a558675d7456266c7ca4a63609613678b6b4faf0eb11",
     "author": "Xavier Larrea",
     "ownerAuthored": true
+  },
+  "settingVisionMatchEnabledTitle": {
+    "source": "69f7b77bc568ba02cbf746e0f58e39421a02ee00111d5d1be86c79573680783a",
+    "translation": "5099079d59b13346238cae88bb0f243dad383c58ca966987158c98fd2d3d77ba",
+    "author": "Xavier Larrea",
+    "ownerAuthored": true
+  },
+  "settingGroundControlEnabledDescriptionVisionMatch": {
+    "source": "c792036fb8d8221bd373c9ac92e5f4796207cf4012fcf441e548f604837abcdf",
+    "translation": "19b6a09c8db93ab5c8786892a0b50af3755c97f70edc5cba8fdc95d9efc2af42",
+    "author": "Xavier Larrea",
+    "ownerAuthored": true
+  },
+  "settingVisionMatchEnabledDescription": {
+    "source": "855056d951113149fbfc8948e18cbff621cc13296e8a0d8585d590bddec55cb5",
+    "translation": "e9f9b1d9768729f03011f7c01cce114c981905b032c14efce3285d12200b0197",
+    "author": "Xavier Larrea",
+    "ownerAuthored": true
   }
 }
