@@ -10,7 +10,7 @@
   "settingGroundControlVoiceMatchTitle": "Voice Match",
   "settingGroundControlVoiceMatchFeaturesDescription": "Recognition, Trimming e Isolation.",
   "settingVisionMatchEnabledTitle": "Vision Match",
-  "settingVisionMatchEnabledDescription": "La detección de rostros y los gestos de manos se ejecutan en Ground Control en lugar de en este dispositivo.",
+  "settingVisionMatchEnabledDescription": "La detección de rostros y los gestos de la mano se ejecutan en Ground Control en lugar de este dispositivo.",
   "settingGroundControlVisionMatchFeaturesDescription": "Detección de rostros y gestos de la mano.",
   "cameraVisionMatchPage": "Ground Control Vision Match",
   "settingVisionMatchEnableTitle": "Activar Vision Match",
