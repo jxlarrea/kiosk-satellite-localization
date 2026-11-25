@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Record the complete Italian translation by spita90 from PR #17, with 5,049 reviewed messages.
+
 - Add the Recognition cards group on the Vision Match page in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese, Russian and Polish: its heading, Show arrivals, Show face actions and Card position with their descriptions, and the PIN skipped, Lockdown Mode off and Voice confirmed labels of the small card on the kiosk screen. Remove Show who is recognized from the Camera Preview group and its row under Used in other settings from every language. The app no longer shows them. The German, French, Ukrainian, Dutch, Simplified Chinese, Russian and Polish texts are owner additions.
 
 - Replace Skip the PIN for and Lock and unlock with faces in the Lockdown Mode page's Ground Control Vision Match group in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese, Russian and Polish with Disable Lockdown Mode for, a People description for it and Turn Lockdown Mode back on, also in the Vision Match page's Used in other settings rows. Remove the old Lockdown Mode texts from every language. The app no longer shows them. The German, French, Ukrainian, Dutch, Simplified Chinese, Russian and Polish texts are owner additions.
