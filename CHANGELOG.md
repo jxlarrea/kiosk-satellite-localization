@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add the Presence sensors setting on the Vision Match page and the Ground Control Vision Match group on the Gestures page in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese, Russian, Polish and Italian: Presence sensors with its description, Finger gestures for with its options, People and its row under Used in other settings. Update the Enable Vision Match description in every language but Italian. It no longer mentions presence detection. The Italian text of that description is a community translation and is left for its contributor. Presence and Looking at the kiosk are sensor names in Home Assistant and stay in English. The German, French, Ukrainian, Dutch, Simplified Chinese, Russian, Polish and Italian texts are owner additions.
+
 - Record the complete Italian translation by spita90 from PR #17, with 5,049 reviewed messages.
 
 - Add the Recognition cards group on the Vision Match page in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese, Russian and Polish: its heading, Show arrivals, Show face actions and Card position with their descriptions, and the PIN skipped, Lockdown Mode off and Voice confirmed labels of the small card on the kiosk screen. Remove Show who is recognized from the Camera Preview group and its row under Used in other settings from every language. The app no longer shows them. The German, French, Ukrainian, Dutch, Simplified Chinese, Russian and Polish texts are owner additions.
