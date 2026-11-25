@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Replace Skip the PIN for and Lock and unlock with faces in the Lockdown Mode page's Ground Control Vision Match group in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese, Russian and Polish with Disable Lockdown Mode for, a People description for it and Turn Lockdown Mode back on, also in the Vision Match page's Used in other settings rows. Remove the old Lockdown Mode texts from every language. The app no longer shows them. The German, French, Ukrainian, Dutch, Simplified Chinese, Russian and Polish texts are owner additions.
+
 - Add the Ground Control Vision Match groups on the Kiosk Mode and Lockdown Mode pages in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese, Russian and Polish: Skip the PIN for with its options, People, Lock and unlock with faces and their rows under the Vision Match page's Used in other settings. Ground Control and Vision Match are names and stay in English. The German, French, Ukrainian, Dutch, Simplified Chinese, Russian and Polish texts are owner additions.
 
 - Rename the Ground Control Face Recognition group on the Face Detection page to Ground Control Vision Match in every language, in its heading and in the Vision Match page's Used in other settings row. Ground Control and Vision Match are names and stay in English.
