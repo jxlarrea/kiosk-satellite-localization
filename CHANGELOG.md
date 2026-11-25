@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add the Ground Control Vision Match groups on the Kiosk Mode and Lockdown Mode pages in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese, Russian and Polish: Skip the PIN for with its options, People, Lock and unlock with faces and their rows under the Vision Match page's Used in other settings. Ground Control and Vision Match are names and stay in English. The German, French, Ukrainian, Dutch, Simplified Chinese, Russian and Polish texts are owner additions.
+
 - Rename the Ground Control Face Recognition group on the Face Detection page to Ground Control Vision Match in every language, in its heading and in the Vision Match page's Used in other settings row. Ground Control and Vision Match are names and stay in English.
 
 - Reword the People description in the Ground Control Face Recognition group in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese, Russian and Polish: the setting dismisses or postpones the screensaver and doesn't wake the screen. The German, French, Ukrainian, Dutch, Simplified Chinese, Russian and Polish texts are owner additions.
