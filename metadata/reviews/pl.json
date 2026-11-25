@@ -30154,7 +30154,7 @@
     "ownerAuthored": true
   },
   "screensaverFaceWhoOptionAnyone": {
-    "source": "b4ff948f33e4f5656179c91c0b3c66ed9376cf60ee18842f8ee74aa939dc1df2",
+    "source": "bd668803a49f2980a7c27c7ccd4f8c16e14a543d8c2607bf7837823d061ee7e0",
     "translation": "c7528f633f6255f57f3b6ca19e1f65d9db1d71ad532d00a79bf1357a37f73954",
     "author": "Xavier Larrea",
     "ownerAuthored": true
@@ -30184,7 +30184,7 @@
     "ownerAuthored": true
   },
   "settingScreensaverFacePeopleTitle": {
-    "source": "451b38e99159acfd9742a6106d8677ce0f32824cc6c749bb56499f9569a86e1b",
+    "source": "f8767cfdf8d6612be37bb797a67d325fc1f22ee6de0eac0f5ad6f9d3aae30a8a",
     "translation": "c9f59d651d81b78508373f49e81ddf860c491e7f02f7b13e1083b535c474547e",
     "author": "Xavier Larrea",
     "ownerAuthored": true
@@ -30196,7 +30196,7 @@
     "ownerAuthored": true
   },
   "settingScreensaverFacePeopleDescription": {
-    "source": "4cf948243c6cb16f8dbc678b19f284ea02632c87016f379e51faf8e86c60bedb",
+    "source": "fc9099b11bb5cc49214d47bbec236666d4f6694079491a6ea00f876589564c7e",
     "translation": "8bedbc85ef579b9865a461622f8923129fb00e21e5acc10a17e110ed4bf19b3e",
     "author": "Xavier Larrea",
     "ownerAuthored": true
@@ -30214,7 +30214,7 @@
     "ownerAuthored": true
   },
   "screensaverFaceWhoOptionPeople": {
-    "source": "e857d44ffd28cd487fc00f691a5e83a1defee5561275963b285b27868ab44c02",
+    "source": "82f4a0720565e6607a8b2f0bdd8df2fa2f438de6b2f088b4c6a4989226efd159",
     "translation": "7534dabdb997d2dc365fac67af128e65cb2a167e32b63841112d4b4aa43270ea",
     "author": "Xavier Larrea",
     "ownerAuthored": true
@@ -30250,7 +30250,7 @@
     "ownerAuthored": true
   },
   "screensaverFacePeopleNone": {
-    "source": "c7c365257ccc2f33b7df5e8c4ad7e6f774faa832c55a20c7bcca7a1ca123f6a0",
+    "source": "96854be6ec27ebeb57f17185040dd5f2f88df6c72ccf72b43d71983ac7abd35d",
     "translation": "4d38de661807163b25fbdc1c2f42bb30cb713e01832db6bf87a4bd944be86f56",
     "author": "Xavier Larrea",
     "ownerAuthored": true
