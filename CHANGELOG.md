@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add the Calendar focused label of the small card on the kiosk screen in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese, Russian, Polish and Italian. Replace the Show face actions description in every language with a general one that no longer lists each action. The German, French, Ukrainian, Dutch, Simplified Chinese, Russian, Polish and Italian texts are owner additions.
+
 - Add the Vercel AI Gateway realtime provider in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese, Russian, Polish and Italian: its Reasoning effort description and the Vercel AI Gateway API key credential of fleet profiles. Vercel AI Gateway is a name and stays in English. The German, French, Ukrainian, Dutch, Simplified Chinese, Russian, Polish and Italian texts are owner additions.
 
 - Add the Ground Control Vision Match group on the Calendar page in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese, Russian, Polish and Italian: Focus on who is at the kiosk with its description, its row under the Vision Match page's Used in other settings and the Up next for heading of the Schedule view. Ground Control and Vision Match are names and stay in English. The German, French, Ukrainian, Dutch, Simplified Chinese, Russian, Polish and Italian texts are owner additions.
