@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Reword the People description in the Ground Control Face Recognition group in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese, Russian and Polish: the setting dismisses or postpones the screensaver and doesn't wake the screen. The German, French, Ukrainian, Dutch, Simplified Chinese, Russian and Polish texts are owner additions.
+
 - Move Faces that count to its own Ground Control Face Recognition group on the Face Detection page in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese, Russian and Polish: the group heading, the setting's new name Detect faces with its description, and the path on the Vision Match page's Used in other settings row. Remove the Recognized people option from every language. The app no longer shows it. The German, French, Ukrainian, Dutch, Simplified Chinese, Russian and Polish texts are owner additions.
 
 - Reword the Confirm voices with faces, Faces that count, People and Show who is recognized descriptions, the GC tag dialog and the face capture hint for more than one person in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese, Russian and Polish, after the English texts were rewritten. The German, French, Ukrainian, Dutch, Simplified Chinese, Russian and Polish texts are owner additions.
