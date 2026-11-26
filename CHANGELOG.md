@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add Wait for wake word verification and its description, in the Wake Word Verifier group of the Ground Control Voice Match page, in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese, Russian, Polish and Italian.
+
 - Add the Wake Word Verifier and Wake Word Aligner groups of the Ground Control Voice Match page in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese, Russian, Polish and Italian: Enable Wake Word Verifier, Trust enrolled voices and Enable Wake Word Aligner with their descriptions. Wake Word Verifier and Wake Word Aligner are Voice Match feature names and stay in English.
 
 - Add Allow Voice Satellite with its description to the Lockdown Mode page in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese, Russian, Polish and Italian. Voice Satellite is a name and stays in English. The German, French, Ukrainian, Dutch, Simplified Chinese, Russian, Polish and Italian texts are owner additions.
