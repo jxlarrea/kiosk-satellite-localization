@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add Allow Voice Satellite with its description to the Lockdown Mode page in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese, Russian, Polish and Italian. Voice Satellite is a name and stays in English. The German, French, Ukrainian, Dutch, Simplified Chinese, Russian, Polish and Italian texts are owner additions.
+
 - Add Only chosen people dismiss it with its description to the Ground Control Vision Match group on the Face Detection page in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese, Russian, Polish and Italian. Kiosk Satellite and Home Assistant are names and stay in English. The German, French, Ukrainian, Dutch, Simplified Chinese, Russian, Polish and Italian texts are owner additions.
 
 - Add the Calendar focused label of the small card on the kiosk screen in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese, Russian, Polish and Italian. Replace the Show face actions description in every language with a general one that no longer lists each action. The German, French, Ukrainian, Dutch, Simplified Chinese, Russian, Polish and Italian texts are owner additions.
