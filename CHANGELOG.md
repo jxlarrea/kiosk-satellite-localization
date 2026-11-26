@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Remove the Wake Word Verifier group of the Ground Control Voice Match page from every language: Enable Wake Word Verifier, Trust enrolled voices and Wait for wake word verification, with their descriptions. Kiosk Satellite no longer has these settings. The Wake Word Aligner group stays.
+
 - Add Wait for wake word verification and its description, in the Wake Word Verifier group of the Ground Control Voice Match page, in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese, Russian, Polish and Italian.
 
 - Add the Wake Word Verifier and Wake Word Aligner groups of the Ground Control Voice Match page in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese, Russian, Polish and Italian: Enable Wake Word Verifier, Trust enrolled voices and Enable Wake Word Aligner with their descriptions. Wake Word Verifier and Wake Word Aligner are Voice Match feature names and stay in English.
