@@ -4,6 +4,8 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
+- Add Camera rotation with its description and its four choices (Automatic, 90° clockwise, 180° and 90° counterclockwise) to the Camera page in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese, Russian, Polish and Italian. The German, French, Ukrainian, Dutch, Simplified Chinese, Russian, Polish and Italian texts are owner additions.
+
 - Remove the Wake Word Verifier group of the Ground Control Voice Match page from every language: Enable Wake Word Verifier, Trust enrolled voices and Wait for wake word verification, with their descriptions. Kiosk Satellite no longer has these settings. The Wake Word Aligner group stays.
 
 - Add Wait for wake word verification and its description, in the Wake Word Verifier group of the Ground Control Voice Match page, in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese, Russian, Polish and Italian.
