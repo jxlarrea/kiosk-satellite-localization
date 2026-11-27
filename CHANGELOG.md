@@ -4,7 +4,7 @@ Notable changes to Kiosk Satellite Localization are listed below, newest first. 
 
 ## History
 
-- Add the Companion screens page of Voice Satellite in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese, Russian, Polish and Italian: Enable companion screen mode with its description, the page hint, the invitation prompt, the Paired kiosk group, the list of companion screens with Add a companion screen, the link states and the error messages. Voice Satellite and Kiosk Satellite are names and stay in English. The German, French, Ukrainian, Dutch, Simplified Chinese, Russian, Polish and Italian texts are owner additions.
+- Add the Companion screens page of Voice Satellite in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese, Russian, Polish and Italian: Enable companion screen mode with its description, the page hint, the invitation prompt, the Paired kiosk group, the Paired companion screens group with Add a companion screen, the link states and the error messages. Voice Satellite and Kiosk Satellite are names and stay in English. The German, French, Ukrainian, Dutch, Simplified Chinese, Russian, Polish and Italian texts are owner additions.
 
 - Add Camera rotation with its description and its four choices (Automatic, 90° clockwise, 180° and 90° counterclockwise) to the Camera page in Spanish, German, French, Ukrainian, Dutch, Simplified Chinese, Russian, Polish and Italian. The German, French, Ukrainian, Dutch, Simplified Chinese, Russian, Polish and Italian texts are owner additions.
 

@@ -10,7 +10,7 @@
   "voiceCompanionAccept": "接受",
   "voiceCompanionShows": "已配对的 Kiosk 设备",
   "voiceCompanionRefused": "该设备的列表中已不再包含此屏幕。",
-  "voiceCompanionShowsHere": "Voice Satellite 会话将显示在此设备上。",
+  "voiceCompanionShowsHere": "其 Voice Satellite 会话将显示在此屏幕上。",
   "voiceCompanionWaiting": "正在等待邀请。请在此屏幕要显示其语音会话的 Kiosk 设备上，打开 Voice Satellite、伴随屏幕，然后添加此屏幕。",
   "voiceCompanionStopTitle": "停止显示此设备？",
   "voiceCompanionStopMessage": "其语音会话将不再显示在这里。该设备可以再次邀请此屏幕。",
@@ -40,5 +40,6 @@
   "voiceCompanionErrorNotCompanion": "不是伴随屏幕",
   "settingVoiceCompanionModeTitle": "启用伴随屏幕模式",
   "settingVoiceCompanionModeDescription": "在此屏幕上显示其他 Kiosk 设备的 Voice Satellite 会话，而不是在此运行 Voice Satellite。",
-  "voiceCompanionShowsSessionsOf": "显示 {name} 的语音会话。"
+  "voiceCompanionShowsSessionsOf": "显示 {name} 的语音会话。",
+  "voiceCompanionPairedScreens": "已配对的伴随屏幕"
 }

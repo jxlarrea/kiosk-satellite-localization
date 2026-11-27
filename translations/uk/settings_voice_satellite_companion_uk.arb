@@ -10,7 +10,7 @@
   "voiceCompanionAccept": "Прийняти",
   "voiceCompanionShows": "Пов'язаний кіоск",
   "voiceCompanionRefused": "Цей кіоск більше не має цього екрана у своєму списку.",
-  "voiceCompanionShowsHere": "Сеанси Voice Satellite показуються на цьому пристрої.",
+  "voiceCompanionShowsHere": "Його сеанси Voice Satellite показуються на цьому екрані.",
   "voiceCompanionWaiting": "Очікування запрошення. На кіоску, голосові сеанси якого має показувати цей екран, відкрийте Voice Satellite, Екрани-компаньйони та додайте цей.",
   "voiceCompanionStopTitle": "Більше не показувати цей кіоск?",
   "voiceCompanionStopMessage": "Його голосові сеанси більше не показуватимуться тут. Він може знову запросити цей екран.",
@@ -40,5 +40,6 @@
   "voiceCompanionErrorNotCompanion": "Це не екран-компаньйон",
   "settingVoiceCompanionModeTitle": "Увімкнути режим екрана-компаньйона",
   "settingVoiceCompanionModeDescription": "Показує на цьому екрані сеанси Voice Satellite іншого кіоска замість роботи Voice Satellite тут.",
-  "voiceCompanionShowsSessionsOf": "Показує голосові сеанси {name}."
+  "voiceCompanionShowsSessionsOf": "Показує голосові сеанси {name}.",
+  "voiceCompanionPairedScreens": "Пов'язані екрани-компаньйони"
 }

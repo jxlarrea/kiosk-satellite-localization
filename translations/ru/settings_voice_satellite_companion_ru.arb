@@ -10,7 +10,7 @@
   "voiceCompanionAccept": "Принять",
   "voiceCompanionShows": "Связанный киоск",
   "voiceCompanionRefused": "У этого киоска больше нет этого экрана в списке.",
-  "voiceCompanionShowsHere": "Сеансы Voice Satellite показываются на этом устройстве.",
+  "voiceCompanionShowsHere": "Его сеансы Voice Satellite показываются на этом экране.",
   "voiceCompanionWaiting": "Ожидание приглашения. На киоске, голосовые сеансы которого должен показывать этот экран, откройте Voice Satellite, Экраны-компаньоны и добавьте этот.",
   "voiceCompanionStopTitle": "Больше не показывать этот киоск?",
   "voiceCompanionStopMessage": "Его голосовые сеансы больше не будут показываться здесь. Он может снова пригласить этот экран.",
@@ -40,5 +40,6 @@
   "voiceCompanionErrorNotCompanion": "Это не экран-компаньон",
   "settingVoiceCompanionModeTitle": "Включить режим экрана-компаньона",
   "settingVoiceCompanionModeDescription": "Показывает на этом экране сеансы Voice Satellite другого киоска вместо работы Voice Satellite здесь.",
-  "voiceCompanionShowsSessionsOf": "Показывает голосовые сеансы {name}."
+  "voiceCompanionShowsSessionsOf": "Показывает голосовые сеансы {name}.",
+  "voiceCompanionPairedScreens": "Связанные экраны-компаньоны"
 }

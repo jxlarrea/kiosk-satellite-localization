@@ -10,7 +10,7 @@
   "voiceCompanionAccept": "Accepteren",
   "voiceCompanionShows": "Gekoppelde kiosk",
   "voiceCompanionRefused": "Die kiosk heeft dit scherm niet meer in de lijst.",
-  "voiceCompanionShowsHere": "Voice Satellite-sessies worden op dit apparaat getoond.",
+  "voiceCompanionShowsHere": "De Voice Satellite-sessies worden op dit scherm getoond.",
   "voiceCompanionWaiting": "Wachten op een uitnodiging. Open op de kiosk waarvan dit scherm de spraaksessies moet tonen Voice Satellite, Begeleidende schermen en voeg dit scherm toe.",
   "voiceCompanionStopTitle": "Deze kiosk niet meer tonen?",
   "voiceCompanionStopMessage": "De spraaksessies worden hier niet meer getoond. Die kiosk kan dit scherm opnieuw uitnodigen.",
@@ -40,5 +40,6 @@
   "voiceCompanionErrorNotCompanion": "Geen begeleidend scherm",
   "settingVoiceCompanionModeTitle": "Modus begeleidend scherm inschakelen",
   "settingVoiceCompanionModeDescription": "Toon op dit scherm de Voice Satellite-sessies van een andere kiosk in plaats van hier Voice Satellite te draaien.",
-  "voiceCompanionShowsSessionsOf": "Toont de spraaksessies van {name}."
+  "voiceCompanionShowsSessionsOf": "Toont de spraaksessies van {name}.",
+  "voiceCompanionPairedScreens": "Gekoppelde begeleidende schermen"
 }

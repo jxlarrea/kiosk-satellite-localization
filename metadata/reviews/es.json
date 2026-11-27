@@ -26500,8 +26500,8 @@
     "author": "Xavier Larrea"
   },
   "voiceCompanionShowsHere": {
-    "source": "bc6d16ad7303e9e264c73c5b208c951e85c3ae448d6ff92f680db9d504e0c3f0",
-    "translation": "c77198dc6302d1ead6836fbebfc41ecf092035424e0ddb62fa79e3c058b8627b",
+    "source": "b8a55d23b945ff894cd1891e42ca60624bc17b4cfb79ce4e59fba1d09d06b6d1",
+    "translation": "7ca8080efb5b38af193d12d24d1052ab9a58b636872a212902eccf4a9ec0920d",
     "author": "Xavier Larrea"
   },
   "voiceCompanionStopTitle": {
@@ -26632,6 +26632,11 @@
   "voiceCompanionDecline": {
     "source": "d66af944dc3355d87087f825f0b124f38563144eb9a6b3b05e62e2269476800c",
     "translation": "2a0515602d3158761b6018d3ffc0d34173eb2f66f68bd077e62d84f4d891f26b",
+    "author": "Xavier Larrea"
+  },
+  "voiceCompanionPairedScreens": {
+    "source": "859a533d8f55d1cc6a264503f3b291b56a3311e690893acb9fd80d22fc479de8",
+    "translation": "d886f3bd9e74ca27c67a2cbc5e74b132376a10d64909103876723e6755637040",
     "author": "Xavier Larrea"
   }
 }

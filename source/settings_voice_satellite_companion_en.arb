@@ -26,6 +26,19 @@
       ]
     }
   },
+  "voiceCompanionPairedScreens": "Paired companion screens",
+  "@voiceCompanionPairedScreens": {
+    "context": "Settings > Voice Satellite > Companion screens",
+    "description": "Translate the visible label or help. Keep Voice Satellite, Kiosk Satellite, Home Assistant, ESPHome, HACS and model names unchanged.",
+    "x-locations": {
+      "device": [
+        "Settings > Voice Satellite > Companion screens"
+      ],
+      "remoteAdmin": [
+        "Voice Satellite > Companion screens"
+      ]
+    }
+  },
   "voiceCompanionRemoved": "Removed",
   "@voiceCompanionRemoved": {
     "context": "Settings > Voice Satellite > Companion screens",
@@ -130,7 +143,7 @@
       ]
     }
   },
-  "voiceCompanionShowsHere": "Voice Satellite sessions are displayed on this device.",
+  "voiceCompanionShowsHere": "Its Voice Satellite sessions are displayed on this screen.",
   "@voiceCompanionShowsHere": {
     "context": "Settings > Voice Satellite > Companion screens",
     "description": "Translate the visible label or help. Keep Voice Satellite, Kiosk Satellite, Home Assistant, ESPHome, HACS and model names unchanged.",

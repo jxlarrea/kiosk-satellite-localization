@@ -32186,8 +32186,14 @@
     "ownerAuthored": true
   },
   "voiceCompanionShowsHere": {
-    "source": "bc6d16ad7303e9e264c73c5b208c951e85c3ae448d6ff92f680db9d504e0c3f0",
-    "translation": "284bfb025fabfe430fdb23ee4c0a4d2e34ac10eb0a3631b126d73f88c92e8a38",
+    "source": "b8a55d23b945ff894cd1891e42ca60624bc17b4cfb79ce4e59fba1d09d06b6d1",
+    "translation": "d3d707ce6bc29ec447e7a02d3f8d4f82e998229ce520be0c96081bcb843b51ed",
+    "author": "Xavier Larrea",
+    "ownerAuthored": true
+  },
+  "voiceCompanionPairedScreens": {
+    "source": "859a533d8f55d1cc6a264503f3b291b56a3311e690893acb9fd80d22fc479de8",
+    "translation": "e7b0a47b3df180bfbae5041853694baec29d46e2faa6ba488268d409056fd00b",
     "author": "Xavier Larrea",
     "ownerAuthored": true
   }

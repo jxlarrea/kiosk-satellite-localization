@@ -10,7 +10,7 @@
   "voiceCompanionAccept": "Annehmen",
   "voiceCompanionShows": "Gekoppelter Kiosk",
   "voiceCompanionRefused": "Dieser Kiosk hat diesen Bildschirm nicht mehr in seiner Liste.",
-  "voiceCompanionShowsHere": "Voice-Satellite-Sitzungen werden auf diesem Gerät angezeigt.",
+  "voiceCompanionShowsHere": "Seine Voice-Satellite-Sitzungen werden auf diesem Bildschirm angezeigt.",
   "voiceCompanionWaiting": "Warte auf eine Einladung. Öffne auf dem Kiosk, dessen Sprachinteraktionen dieser Bildschirm zeigen soll, Voice Satellite, Begleitbildschirme und füge diesen hinzu.",
   "voiceCompanionStopTitle": "Diesen Kiosk nicht mehr zeigen?",
   "voiceCompanionStopMessage": "Seine Sprachinteraktionen werden hier nicht mehr angezeigt. Er kann diesen Bildschirm erneut einladen.",
@@ -40,5 +40,6 @@
   "voiceCompanionErrorNotCompanion": "Kein Begleitbildschirm",
   "settingVoiceCompanionModeTitle": "Begleitbildschirm-Modus aktivieren",
   "settingVoiceCompanionModeDescription": "Zeigt die Voice-Satellite-Sitzungen eines anderen Kiosks auf diesem Bildschirm an, statt hier Voice Satellite auszuführen.",
-  "voiceCompanionShowsSessionsOf": "Zeigt die Sprachinteraktionen von {name}."
+  "voiceCompanionShowsSessionsOf": "Zeigt die Sprachinteraktionen von {name}.",
+  "voiceCompanionPairedScreens": "Gekoppelte Begleitbildschirme"
 }

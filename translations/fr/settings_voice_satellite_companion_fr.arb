@@ -10,7 +10,7 @@
   "voiceCompanionAccept": "Accepter",
   "voiceCompanionShows": "Kiosque associé",
   "voiceCompanionRefused": "Ce kiosque n'a plus cet écran dans sa liste.",
-  "voiceCompanionShowsHere": "Les sessions Voice Satellite s'affichent sur cet appareil.",
+  "voiceCompanionShowsHere": "Ses sessions Voice Satellite s'affichent sur cet écran.",
   "voiceCompanionWaiting": "En attente d'une invitation. Sur le kiosque dont cet écran doit afficher les sessions vocales, ouvrez Voice Satellite, Écrans compagnons et ajoutez celui-ci.",
   "voiceCompanionStopTitle": "Ne plus afficher ce kiosque ?",
   "voiceCompanionStopMessage": "Ses sessions vocales ne s'affichent plus ici. Il peut inviter à nouveau cet écran.",
@@ -40,5 +40,6 @@
   "voiceCompanionErrorNotCompanion": "Ce n'est pas un écran compagnon",
   "settingVoiceCompanionModeTitle": "Activer le mode écran compagnon",
   "settingVoiceCompanionModeDescription": "Affiche sur cet écran les sessions Voice Satellite d'un autre kiosque au lieu d'exécuter Voice Satellite ici.",
-  "voiceCompanionShowsSessionsOf": "Affiche les sessions vocales de {name}."
+  "voiceCompanionShowsSessionsOf": "Affiche les sessions vocales de {name}.",
+  "voiceCompanionPairedScreens": "Écrans compagnons associés"
 }

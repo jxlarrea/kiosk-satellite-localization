@@ -10,7 +10,7 @@
   "voiceCompanionAccept": "Akceptuj",
   "voiceCompanionShows": "Sparowany kiosk",
   "voiceCompanionRefused": "Ten kiosk nie ma już tego ekranu na swojej liście.",
-  "voiceCompanionShowsHere": "Sesje Voice Satellite są wyświetlane na tym urządzeniu.",
+  "voiceCompanionShowsHere": "Jego sesje Voice Satellite są wyświetlane na tym ekranie.",
   "voiceCompanionWaiting": "Oczekiwanie na zaproszenie. Na kiosku, którego sesje głosowe ma pokazywać ten ekran, otwórz Voice Satellite, Ekrany towarzyszące i dodaj ten ekran.",
   "voiceCompanionStopTitle": "Przestać pokazywać ten kiosk?",
   "voiceCompanionStopMessage": "Jego sesje głosowe nie będą już tu pokazywane. Może ponownie zaprosić ten ekran.",
@@ -40,5 +40,6 @@
   "voiceCompanionErrorNotCompanion": "To nie jest ekran towarzyszący",
   "settingVoiceCompanionModeTitle": "Włącz tryb ekranu towarzyszącego",
   "settingVoiceCompanionModeDescription": "Wyświetlaj na tym ekranie sesje Voice Satellite innego kiosku zamiast uruchamiać tu Voice Satellite.",
-  "voiceCompanionShowsSessionsOf": "Pokazuje sesje głosowe kiosku {name}."
+  "voiceCompanionShowsSessionsOf": "Pokazuje sesje głosowe kiosku {name}.",
+  "voiceCompanionPairedScreens": "Sparowane ekrany towarzyszące"
 }

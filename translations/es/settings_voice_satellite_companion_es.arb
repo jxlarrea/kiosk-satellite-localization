@@ -10,7 +10,7 @@
   "voiceCompanionAccept": "Aceptar",
   "voiceCompanionShows": "Kiosko vinculado",
   "voiceCompanionRefused": "Ese kiosko ya no tiene esta pantalla en su lista.",
-  "voiceCompanionShowsHere": "Las sesiones de Voice Satellite se muestran en este dispositivo.",
+  "voiceCompanionShowsHere": "Sus sesiones de Voice Satellite se muestran en esta pantalla.",
   "voiceCompanionWaiting": "Esperando una invitación. En el kiosko cuyas sesiones de voz debe mostrar esta pantalla, abre Voice Satellite, Pantallas complementarias y añade esta.",
   "voiceCompanionStopTitle": "¿Dejar de mostrar este kiosko?",
   "voiceCompanionStopMessage": "Sus sesiones de voz dejan de mostrarse aquí. Puede volver a invitar a esta pantalla.",
@@ -40,5 +40,6 @@
   "voiceCompanionErrorNotCompanion": "No es una pantalla complementaria",
   "settingVoiceCompanionModeTitle": "Activar el modo pantalla complementaria",
   "settingVoiceCompanionModeDescription": "Muestra en esta pantalla las sesiones de Voice Satellite de otro kiosko en lugar de ejecutar Voice Satellite aquí.",
-  "voiceCompanionShowsSessionsOf": "Muestra las sesiones de voz de {name}."
+  "voiceCompanionShowsSessionsOf": "Muestra las sesiones de voz de {name}.",
+  "voiceCompanionPairedScreens": "Pantallas complementarias vinculadas"
 }
